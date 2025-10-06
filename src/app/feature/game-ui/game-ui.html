@@ -1,0 +1,104 @@
+<div [ngClass]="isPlayoffs ? 'team' : 'match-box'">
+  <div class="match-info">
+    @if (!isPlayoffs) {
+    <div
+      [ngClass]="{
+      'pink-theme': game.category === 'FEMENIL',
+      'blue-theme': game.category === 'VARONIL',
+      'green-theme': game.category === 'MIXTO',
+      }"
+      class="match-category"
+    >
+      {{ game.category }}
+    </div>
+    } @if(!displayName) {
+    <div class="match-time">
+      {{ game.gameDate | date: "EEEE, d MMM h:mm a" | uppercase }} @if
+      (!isPlayoffs) { (J{{ game.weekNumber }}) }
+    </div>
+    } @if (!isPlayoffs) {
+    <div class="match-place">
+      @if (game.gamePlace === "ARRIBA") {
+      <span class="green-theme">
+        <mat-icon>arrow_circle_up</mat-icon>
+        {{ game.gamePlace }}
+      </span>
+      } @else {
+      <span class="red-theme">
+        <mat-icon>arrow_circle_down</mat-icon>
+        {{ game.gamePlace }}
+      </span>
+      } &nbsp;
+    </div>
+    } @if (isAdmin) {
+    <div class="match-action">
+      <button
+        matButton
+        class="primary-button"
+        type="button"
+        (click)="edit(game)"
+        [disabled]="isProcessing"
+      >
+        <mat-icon>edit</mat-icon>Editar
+      </button>
+      &nbsp;
+      <button
+        matButton
+        class="red-theme"
+        type="button"
+        (click)="delete(game)"
+        [disabled]="isProcessing"
+      >
+        <mat-icon class="center-icon">delete_outline</mat-icon>
+      </button>
+    </div>
+    }
+  </div>
+  @for (teamStat of game.teamStats; track $index) {
+  <div class="match-details">
+    <div
+      [ngClass]="{
+          winner: teamStat.state === 'WINNER' && teamStat.teamId !== teamFilter,
+          losser: teamStat.state === 'LOSSER' && teamStat.teamId !== teamFilter,
+          default:
+            teamStat.state === 'DEFAULT' && teamStat.teamId !== teamFilter,
+          'winner-selected':
+            teamStat.state === 'WINNER' && teamStat.teamId === teamFilter,
+          'losser-selected':
+            teamStat.state === 'LOSSER' && teamStat.teamId === teamFilter,
+          'default-selected':
+            teamStat.state === 'DEFAULT' && teamStat.teamId === teamFilter,
+        }"
+      class="match-team"
+    >
+      {{ getTeamName(teamStat.teamName, $index) }}
+    </div>
+    <div class="match-results">
+      <div [ngClass]="teamStat.state | lowercase" class="match-sets">
+        {{ teamStat.sets }}
+      </div>
+      @for (setStat of teamStat.setStats; track $index) { @if(game.stage !==
+      'PLAYOFFS' && $index < 3) { @if(setStat.state !== 'PENDING') {
+      <div [ngClass]="setStat.state | lowercase" class="match-points">
+        {{ setStat.points }}
+      </div>
+      }@else{
+      <div [ngClass]="setStat.state | lowercase" class="match-points"></div>
+      }} }
+    </div>
+  </div>
+  @if (!isPlayoffs) {
+  <div class="match-players">
+    @for (player of teamStat.players; track $index) {
+    <div
+      [ngClass]="player.gamePlayed ? 'game-played' : ''"
+      class="match-player"
+    >
+      {{ player.number }}
+    </div>
+    } @empty {
+    <div></div>
+    }
+  </div>
+  } }
+</div>

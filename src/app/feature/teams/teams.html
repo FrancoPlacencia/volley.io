@@ -1,0 +1,36 @@
+<form [formGroup]="filterForm">
+  <main>
+    <mat-card class="box full">
+      <mat-card-content>
+        <div class="flex-input">
+          <mat-form-field class="full">
+            <mat-label>Categoria</mat-label>
+            <mat-select formControlName="category">
+              <mat-option value="FEMENIL">FEMENIL</mat-option>
+              <mat-option value="VARONIL">VARONIL</mat-option>
+              <mat-option value="MIXTO">MIXTO</mat-option>
+            </mat-select>
+          </mat-form-field>
+          <mat-form-field class="full">
+            <mat-label>Equipo</mat-label>
+            <mat-select formControlName="team">
+              @for (teamOption of teamOptions; track $index) {
+              <mat-option [value]="teamOption.teamId"
+                >{{ teamOption.name }}</mat-option
+              >
+              } @empty {}
+            </mat-select>
+          </mat-form-field>
+        </div>
+      </mat-card-content>
+    </mat-card>
+  </main>
+</form>
+@for (team of teams(); track $index) {
+<app-team-ui [team]="team" [teamFilter]="teamId()"></app-team-ui>
+<br />
+} @empty {
+<mat-card>
+  <mat-card-header>Select something and click search.</mat-card-header>
+</mat-card>
+}

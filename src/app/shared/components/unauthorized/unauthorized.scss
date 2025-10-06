@@ -1,0 +1,66 @@
+// Auth Container
+.unauth-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.unauth-container h1 {
+  font-size: 4rem;
+  color: darkred;
+}
+
+.unauth-container h2 {
+  font-size: 2rem;
+  color: darkred;
+}
+
+.unauth-container mat-icon {
+  font-size: 5rem;
+  color: crimson;
+  height: 100%;
+  width: 100%;
+}
+
+.unauth-container mat-card-content {
+  text-align: center;
+  padding-bottom: 1rem;
+}
+
+.unauth-container mat-card-footer {
+  padding-top: 1rem;
+}
+
+.unauth-container mat-card-header {
+  display: flex;
+  justify-content: center;
+}
+
+.unauth-box-size {
+  width: 50rem;
+}
+
+.unauth-box {
+  text-align: center;
+  padding: 30px;
+  border-color: #e8e7ea;
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+.forgot-password {
+  text-align: right;
+  margin-top: 0px;
+}
+
+.forgot-password a {
+  color: #7c838b;
+  font-weight: lighter;
+}

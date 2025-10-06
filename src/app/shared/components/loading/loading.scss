@@ -1,0 +1,19 @@
+@use "@angular/material" as mat;
+
+mat-spinner {
+  margin: 0 auto;
+  width: 50px !important;
+  height: 50px !important;
+}
+
+h1 {
+  color: #005cbb;
+  font-size: 1.25em;
+  font-weight: 500;
+}
+
+@include mat.progress-spinner-overrides(
+  (
+    size: 20px,
+  )
+);

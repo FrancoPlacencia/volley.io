@@ -1,0 +1,46 @@
+<app-top-bar [collapsed]="collapsed()"></app-top-bar>
+<mat-sidenav-container>
+  <mat-sidenav mode="side" opened [style.width]="sidenavWidth()">
+    <mat-nav-list>
+      @for (item of menuItems(); track item) {
+      <a
+        mat-list-item
+        class="menu-item"
+        [routerLink]="item.route"
+        [activated]="rla.isActive!"
+        #rla="routerLinkActive"
+        routerLinkActive="selected-menu-item"
+      >
+        <mat-icon matListItemIcon>{{item.icon}}</mat-icon>
+        @if(!collapsed()) {
+        <span matListItemTitle>{{item.label}}</span>
+        }
+      </a>
+      } @if(authenticated()){
+      <mat-divider></mat-divider>
+      @for (item of adminItems(); track item) {
+      <a
+        mat-list-item
+        class="admin-item"
+        [routerLink]="item.route"
+        [state]="appTournament()"
+        [activated]="rla.isActive!"
+        #rla="routerLinkActive"
+        routerLinkActive="selected-menu-item"
+      >
+        <mat-icon matListItemIcon>{{item.icon}}</mat-icon>
+        @if(!collapsed()) {
+        <span matListItemTitle>{{item.label}}</span>
+        }
+      </a>
+      } }
+    </mat-nav-list>
+  </mat-sidenav>
+  <mat-sidenav-content [style.marginLeft]="sidenavWidth()">
+    <div class="container top-center-flex">
+      <div class="wrapper almost-full">
+        <router-outlet></router-outlet>
+      </div>
+    </div>
+  </mat-sidenav-content>
+</mat-sidenav-container>

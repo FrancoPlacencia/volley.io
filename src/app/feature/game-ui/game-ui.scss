@@ -1,0 +1,86 @@
+.match-box {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  background-color: var(--mat-sys-on-secondary) !important;
+  color: var(--mat-sys-secondary) !important;
+  font-weight: 400;
+  box-shadow: 0 3px 4px rgba(0, 0, 0, 0.25);
+  padding: 10px;
+  margin: 10px;
+}
+.match-info {
+  display: flex;
+  justify-content: space-between;
+}
+.match-category {
+  text-transform: uppercase;
+  font-size: 18px;
+  font-weight: 800;
+  padding: 5px 10px;
+  width: fit-content;
+  height: fit-content;
+}
+.match-place {
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  line-height: 14px;
+}
+.match-time {
+  padding: 5px 10px;
+  font-size: 1.2rem;
+}
+
+.match-action {
+  text-align: right;
+}
+
+.match-details {
+  padding-top: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.match-team {
+  padding: 0px 10px;
+  font-size: 1.3em;
+  font-weight: 450;
+  text-align: left;
+}
+// 375px for mobile, 768px for tablets, and a 1200-1440px container width for desktops
+.match-results {
+  display: flex;
+  flex-direction: row;
+  align-items: left;
+}
+.match-sets {
+  width: 30px;
+  color: #8a8a8a;
+  font-size: 26px;
+  font-weight: 450;
+  text-align: center;
+  justify-self: center;
+  align-self: center;
+}
+.match-points {
+  width: 25px;
+  color: #8a8a8a;
+  font-size: 15px;
+  font-weight: 450;
+  text-align: center;
+  justify-self: center;
+  align-self: center;
+}
+.winner {
+  color: var(--mat-sys-on-secondary-container) !important;
+  font-weight: 550 !important;
+}
+.losser {
+  color: var(--mat-sys-outline) !important;
+  font-weight: 500 !important;
+}
+.default {
+  text-decoration: line-through;
+}

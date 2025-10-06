@@ -1,0 +1,65 @@
+@use "@angular/material" as mat;
+@use "../../../assets/scss//volley-colors.scss" as volley-colors;
+
+.container {
+  display: flex;
+  flex-direction: row;
+  height: auto;
+  width: 100%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+  background-repeat: no-repeat;
+
+  background-image:
+    linear-gradient(
+      to right,
+      var(--mat-sys-secondary-container),
+      var(--mat-sys-secondary-container)
+    ),
+    linear-gradient(to right, var(--mat-sys-primary), var(--mat-sys-primary));
+
+  background-position:
+    0 0,
+    0 216px;
+
+  background-size:
+    100% 216px,
+    100% 10px;
+}
+
+.menu-button {
+  @include mat.button-overrides(
+    (
+      outlined-outline-color: volley-colors.$week-color,
+      outlined-state-layer-color: volley-colors.$week-light-color,
+    )
+  );
+}
+
+mat-sidenav-container {
+  height: calc(100vh - 96px);
+}
+
+mat-sidenav {
+  border: 0;
+}
+
+mat-sidenav,
+mat-sidenav-content {
+  transition: all 500ms ease-in-out;
+}
+
+mat-nav-list {
+  padding-top: 0;
+  a {
+    border-radius: 0;
+  }
+}
+
+.menu-item {
+}
+
+.admin-item {
+  background-color: var(--mat-sys-outline-variant);
+}

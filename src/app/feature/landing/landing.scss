@@ -1,0 +1,26 @@
+mat-card-content {
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+}
+
+pre {
+  font-family: "Consolas", "Monaco", monospace;
+  font-size: 0.7rem;
+  font-family: monospace; /* Ensures a fixed-width font */
+  white-space: pre-wrap;
+  overflow-y: scroll;
+  height: 100px;
+  margin-top: 0px !important;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 10px;
+}
+
+li {
+  padding: 5px;
+}

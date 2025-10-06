@@ -1,0 +1,53 @@
+<div class="dialog-message-container">
+  <div class="dialog-message-icon">
+    @if (dialogMessageTypes.SUCCESS === dialogMessage.type) {
+    <mat-icon [class]="typeMessageClass">check_circle</mat-icon>
+    } @else if (dialogMessageTypes.ERROR === dialogMessage.type){
+    <mat-icon [class]="typeMessageClass"
+      >{{ dialogMessageTypes.ERROR | lowercase }}</mat-icon
+    >
+    } @else if(dialogMessageTypes.WARNING === dialogMessage.type) {
+    <mat-icon [class]="typeMessageClass"
+      >{{ dialogMessageTypes.WARNING | lowercase }}</mat-icon
+    >
+    } @else if(dialogMessageTypes.INFO === dialogMessage.type ||
+    dialogMessageTypes.CONFIRM === dialogMessage.type) {
+    <mat-icon [class]="typeMessageClass"
+      >{{ dialogMessageTypes.INFO | lowercase }}</mat-icon
+    >
+    } @else if(dialogMessageTypes.QUESTION === dialogMessage.type) {
+    <mat-icon [class]="typeMessageClass">help_outline</mat-icon>
+    } @else if(dialogMessageTypes.LOADING === dialogMessage.type) {
+    <mat-spinner></mat-spinner>
+    } @else if(dialogMessageTypes.LOCK === dialogMessage.type) {
+    <mat-icon [class]="typeMessageClass"
+      >{{ dialogMessageTypes.LOCK | lowercase }}</mat-icon
+    >
+    } @else if(dialogMessageTypes.KEY === dialogMessage.type) {
+    <mat-icon [class]="typeMessageClass"
+      >{{ dialogMessageTypes.KEY | lowercase }}</mat-icon
+    >
+    } @else {
+    <mat-icon class="error-message">highlight_off</mat-icon>
+    }
+  </div>
+  <h2 mat-dialog-title class="dialog-message-title" [class]="typeMessageClass">
+    {{ dialogMessage.title }}
+  </h2>
+  <mat-dialog-content class="mat-typography">
+    {{ dialogMessage.message }}
+  </mat-dialog-content>
+  @if(dialogMessageTypes.CONFIRM === dialogMessage.type){
+  <mat-dialog-actions align="end">
+    <button mat-button class="red-theme" mat-dialog-close>Cancelar</button>
+    <button
+      mat-button
+      [mat-dialog-close]="true"
+      class="green-theme"
+      cdkFocusInitial
+    >
+      Continuar
+    </button>
+  </mat-dialog-actions>
+  }
+</div>

@@ -1,0 +1,68 @@
+.dialog-message-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  width: 30rem;
+  margin: 1rem;
+}
+
+.dialog-message-icon {
+  text-align: center;
+}
+
+.mat-mdc-dialog-title {
+  text-align: center;
+  font-weight: 500;
+  font-size: 1.5rem;
+  margin: 0px;
+  padding-top: 0px;
+}
+
+mat-dialog-content {
+  text-align: left;
+}
+
+mat-spinner {
+  margin: 0 auto;
+  width: 3rem !important;
+  height: 3rem !important;
+}
+
+mat-icon {
+  font-size: 4rem;
+  width: auto;
+  height: auto;
+}
+
+.success-message {
+  color: #70bd45;
+}
+
+.error-message {
+  color: #f55656;
+}
+
+.warning-message {
+  color: #ff8207;
+}
+
+.confirm-message {
+  color: #4fccf5;
+}
+
+.question-message {
+  color: #99a8af;
+}
+
+.lock-message {
+  color: #c13a30;
+}
+
+.key-message {
+  color: #243b5e;
+}
+
+.loading-message {
+  color: #4758b8;
+}
