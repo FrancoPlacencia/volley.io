@@ -19,6 +19,6 @@ npm install prettier prettier-eslint eslint-config-prettier eslint-plugin-pretti
 
 ### Deploying Proyect
 ```sh
-ng build --output-path docs --base-href /volley.io/
+ng build --output-path docs --base-href=/volley.io/
 update index.html <base href="/volley.io/" />
 ```
