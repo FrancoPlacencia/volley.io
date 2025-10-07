@@ -23,6 +23,7 @@ import {
 } from '../../shared/util/game-util';
 
 import * as jsonData from '../../../assets/data.json';
+import { TeamPlay } from '../../core/model/team-play.model';
 
 @Component({
   selector: 'app-home',
@@ -102,6 +103,14 @@ export class Home implements OnInit {
     this.appTournament().eliminationGamesMap = new Map(
       Object.entries(this.appTournament().eliminationGames),
     );
+    this.appTournament().teamPlays = new Map(
+      Object.entries(this.appTournament().teamPlays),
+    );
+    this.appTournament().teamPlays.forEach((value: TeamPlay[]) => {
+      for (const teamPlay of value) {
+        teamPlay.teamsPlayed = new Map(Object.entries(teamPlay.teamsPlayed));
+      }
+    });
     this.appTournament().playoffs = new Map();
     this.appTournament().eliminationGamesMap.forEach((games, key) => {
       let quarter1: Game = emptyGame(1, 'QUARTER');

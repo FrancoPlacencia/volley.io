@@ -7,6 +7,13 @@
       [dataSource]="standing[1]"
       [elimination]="eliminationByCategory(standing[0])"
     ></app-standings>
+    <br /><br />
+
+    <app-team-played
+      [category]="standing[0]"
+      [teamPlays]="teamPlays().get(standing[0])!"
+      [rounds]="rounds()"
+    ></app-team-played>
   </mat-tab>
   }
 </mat-tab-group>

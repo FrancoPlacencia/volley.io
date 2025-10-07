@@ -1,14 +1,16 @@
 import { Component, inject, OnInit, signal } from '@angular/core';
 import { MatTableDataSource } from '@angular/material/table';
 import { MatTabsModule } from '@angular/material/tabs';
+import { TeamPlay } from '../../core/model/team-play.model';
 import { AppSharedService } from '../../core/services/app-tournament-shared';
 import { Error } from '../../shared/components/error/error';
 import { Loading } from '../../shared/components/loading/loading';
 import { Standings } from '../standings/standings';
+import { TeamPlayed } from '../team-played/team-played';
 
 @Component({
   selector: 'app-categories',
-  imports: [MatTabsModule, Error, Loading, Standings],
+  imports: [MatTabsModule, Error, Loading, Standings, TeamPlayed],
   templateUrl: './categories.html',
   styleUrl: './categories.scss',
 })
@@ -25,6 +27,9 @@ export class Categories implements OnInit {
   public standingTable: Map<string, MatTableDataSource<any> | undefined> =
     new Map<string, MatTableDataSource<any> | undefined>();
 
+  public teamPlays = signal<Map<string, TeamPlay[]>>(new Map());
+  public rounds = signal<number>(0);
+
   ngOnInit(): void {
     const intervalId = setInterval(() => {
       const _app = this.appSharedService.getApp();
@@ -37,6 +42,8 @@ export class Categories implements OnInit {
           _app.standingsMap.forEach((standing, key) => {
             this.standingTable.set(key, new MatTableDataSource(standing));
           });
+          this.teamPlays.set(_app.teamPlays);
+          this.rounds.set(_app.rounds);
         }
         clearInterval(intervalId);
       }

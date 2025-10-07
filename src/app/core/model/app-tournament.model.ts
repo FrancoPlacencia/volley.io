@@ -2,6 +2,7 @@ import { Game } from './game.model';
 import { Playoffs } from './playoffs.model';
 import { Standing } from './standing.model';
 import { TeamOption } from './team-option.model';
+import { TeamPlay } from './team-play.model';
 import { Team } from './team.model';
 
 export interface AppTournament {
@@ -35,6 +36,8 @@ export interface AppTournament {
   teamOptionsMap: Map<string, TeamOption[]>;
   eliminationGamesMap: Map<string, Game[]>;
   playoffs: Map<string, Playoffs>;
+
+  teamPlays: Map<string, TeamPlay[]>;
 }
 export function emptyAppTournament(): AppTournament {
   const tournament: AppTournament = {
@@ -68,6 +71,8 @@ export function emptyAppTournament(): AppTournament {
     teamOptionsMap: new Map(),
     eliminationGamesMap: new Map(),
     playoffs: new Map(),
+
+    teamPlays: new Map(),
   };
   return tournament;
 }

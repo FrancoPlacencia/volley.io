@@ -1,0 +1,52 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+table,
+td,
+th {
+  border-bottom: 1px solid;
+}
+td,
+th {
+  padding: 10px;
+}
+
+td {
+  font-weight: 400;
+}
+.table-header {
+  font-weight: 400;
+  background-color: var(--mat-sys-on-tertiary);
+  color: var(--mat-sys-primary);
+}
+.empty-cell {
+  background-color: var(--mat-sys-surface-dim);
+}
+
+.table-row-header {
+  font-size: 1.125rem;
+  font-weight: 400;
+  text-align: right;
+}
+th {
+  writing-mode: vertical-lr;
+  text-orientation: upright;
+  vertical-align: middle;
+}
+.table-vertical {
+  border-right: 1px solid #c2c2c2;
+}
+.table-number {
+  font-size: medium;
+}
+
+.completed {
+  font-weight: 500;
+  background-color: var(--mat-sys-outline-variant);
+}
+
+.exceeded {
+  font-weight: 500;
+  background-color: var(--mat-sys-inverse-primary);
+}

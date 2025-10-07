@@ -1,0 +1,25 @@
+<table
+  [ngClass]="{
+      'pink-theme': category === 'FEMENIL',
+      'blue-theme': category === 'VARONIL',
+      'green-theme': category === 'MIXTO',
+      }"
+>
+  <tr>
+    <th class="table-header"></th>
+    @for(teamPlay of teamPlays; track $index) {
+    <th class="table-header">{{teamPlay.initials}}</th>
+    }
+  </tr>
+  @for(teamPlay of teamPlays; track $index){
+  <tr>
+    <td class="table-header table-row-header">{{teamPlay.team}}</td>
+    @for(team of teamPlay.teamsPlayed; track $index){ @if(teamPlay.team !==
+    team[0]){
+    <td [ngClass]="getClass(team[1])">{{team[1].win}}-{{team[1].lost}}</td>
+    } @else {
+    <td class="empty-cell"></td>
+    } }
+  </tr>
+  }
+</table>
