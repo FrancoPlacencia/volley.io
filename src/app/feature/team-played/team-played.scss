@@ -14,8 +14,10 @@ th {
 
 td {
   font-weight: 400;
+  font-size: 1rem;
 }
 .table-header {
+  font-size: 1rem;
   font-weight: 400;
   background-color: var(--mat-sys-on-tertiary);
   color: var(--mat-sys-primary);
@@ -25,7 +27,7 @@ td {
 }
 
 .table-row-header {
-  font-size: 1.125rem;
+  font-size: 1rem;
   font-weight: 400;
   text-align: right;
 }
@@ -49,4 +51,19 @@ th {
 .exceeded {
   font-weight: 500;
   background-color: var(--mat-sys-inverse-primary);
+}
+
+@media (max-width: 768px) {
+  td {
+    font-size: 0.6rem;
+    padding: 10px 0;
+  }
+
+  .table-row-header {
+    font-size: 0.75rem;
+    padding: 10px;
+  }
+  .table-header {
+    font-size: 0.75rem;
+  }
 }

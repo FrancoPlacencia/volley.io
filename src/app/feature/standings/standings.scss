@@ -89,13 +89,13 @@ td {
   width: 25%;
 }
 .mat-column-games {
-  width: 20%;
-}
-.mat-column-sets {
   width: 15%;
 }
+.mat-column-sets {
+  width: 17.5%;
+}
 .mat-column-points {
-  width: 20%;
+  width: 22.5%;
 }
 .mat-column-expand {
   width: 7.5%;
@@ -138,4 +138,10 @@ td {
 .playoff-standings {
   font-weight: 500 !important;
   font-size: 1.1rem;
+}
+
+@media (max-width: 768px) {
+  .playoff-standings {
+    font-size: 0.7rem;
+  }
 }
