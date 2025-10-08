@@ -1,11 +1,12 @@
-@use "volley-colors" as volley-colors;
-
+/*================================
+  SIZES
+================================*/
 .full {
   width: 100% !important;
 }
 
 .almost-full {
-  width: 95% !important;
+  width: 97.5% !important;
 }
 
 .half-full {
@@ -18,68 +19,14 @@
   justify-content: space-between;
   gap: 10px;
 }
-
-.flex-input-weeks {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  gap: 10px;
-  padding-top: 10px;
-}
-
-// LAYOUT
-
-.wrapper {
-  display: flex;
-  flex-direction: column;
-  text-align: center;
-  h4 {
-    color: volley-colors.$week-color;
-    font-weight: 500;
-  }
-}
-
+/*================================
+  LAYOUT
+================================*/
 main {
   width: 100%;
   display: flex;
   flex-direction: row;
   justify-content: center;
-  padding-top: 20px;
-  padding-bottom: 20px;
-}
-
-header {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  h1 {
-    font-size: 2rem !important;
-    font-weight: 400;
-    margin: 0px !important;
-
-    mat-icon {
-      width: 2rem !important;
-      height: 2rem !important;
-      font-size: 2rem !important;
-    }
-  }
-
-  .action-section {
-    display: flex;
-    flex-direction: row;
-    gap: 20px;
-  }
-}
-
-.center-flex {
-  justify-content: center;
-  align-items: center;
-}
-
-.start-flex {
-  justify-content: flex-start;
-  align-items: flex-start;
 }
 
 .top-center-flex {
@@ -90,225 +37,10 @@ header {
 .box {
   text-align: center;
   padding: 20px;
-  border-color: volley-colors.$gray;
+  border-color: #adb5bd;
   border-style: solid;
   border-width: 2px;
   border-radius: 0.5rem !important;
-}
-
-.tile {
-  text-align: center;
-  padding: 30px;
-  border-color: volley-colors.$gray;
-  border-style: solid;
-  border-width: 1px;
-  border-radius: 1rem !important;
-}
-
-table {
-  border-bottom: 1px solid rgb(128, 128, 128) !important;
-}
-
-th {
-  font-size: 1.125rem;
-}
-
-td {
-  font-size: 1rem;
-
-  h1 {
-    font-size: 2rem !important;
-    font-weight: 400 !important;
-    color: white;
-  }
-
-  h2 {
-    font-size: 1.125rem !important;
-    font-weight: 400 !important;
-    margin: 0;
-  }
-}
-
-.action-buttons {
-  display: flex;
-  flex-wrap: nowrap;
-}
-/*
-.mat-mdc-header-cell {
-  background-color: volley-colors.$blue !important;
-  color: white;
-}
-
-.mat-mdc-row:hover {
-  background-color: volley-colors.$light-blue !important;
-}
-
-.mat-mdc-row:nth-child(even) {
-  background: whitesmoke;
-}
-
-.mat-mdc-row:nth-child(odd) {
-  background: white;
-}
-*/
-.upper-case {
-  text-transform: uppercase !important;
-}
-
-// Custom Button colors
-.mat-fem {
-  color: #ed647c;
-  background-color: #ffecef;
-}
-
-.mat-var {
-  color: #203c6b;
-  background-color: #e4f6ff;
-}
-
-.mat-mix {
-  color: #347928;
-  background-color: #def9c4;
-}
-
-.mat-week {
-  color: #ffc801;
-  background-color: #1d1d55;
-}
-
-.delete {
-  /*color: #d92550 !important;
-  border-color: #d92550 !important;
-*/
-  .filled-container-color {
-    color: #d92550;
-  }
-}
-
-/* ===========================================================================
-	MATCH STYLES
-=========================================================================== */
-
-.qualified {
-  color: green;
-}
-.semqualified {
-  color: orange;
-}
-.disqualified {
-  color: red;
-}
-.winner-selected {
-  color: green;
-  font-weight: 550 !important;
-}
-.losser-selected {
-  color: #9ac09c;
-  font-weight: 500 !important;
-}
-.default-selected {
-  text-decoration: line-through;
-  color: #c84646;
-}
-
-.match-players {
-  display: flex;
-  flex-direction: row;
-  justify-content: left;
-  flex-wrap: wrap;
-  gap: 5px;
-}
-
-.match-player {
-  background: rgb(30 30 50 / 0.1);
-  border: 1px solid rgb(30 30 50 / 0.1);
-  border-top-right-radius: 5px;
-  border-top-left-radius: 5px;
-  border-bottom-right-radius: 2px;
-  border-bottom-left-radius: 2px;
-  padding: 2px 4px 2px 4px;
-  font-size: 12px;
-  color: #282828;
-}
-
-.game-played {
-  background: rgba(0, 200, 20, 0.6);
-  color: white;
-}
-
-.arrow-up {
-  color: green;
-}
-.arrow-down {
-  color: brown;
-}
-
-/* ===========================================================================
-	TOURNAMENT STYLES
-=========================================================================== */
-.tournament-container {
-  display: grid;
-  grid-template-columns: 20% 20% 20% 20% 20%;
-  justify-content: center;
-  h1 {
-    font-size: 1.5rem;
-    font-weight: 500;
-    color: white;
-  }
-}
-.tournament-box {
-  background-color: volley-colors.$week-light-color;
-  text-align: center;
-  box-shadow: 0 3px 4px rgba(0, 0, 0, 0.25);
-  border-radius: 10px;
-  padding: 10px;
-  margin: 10px;
-  height: 100px;
-
-  h1 {
-    font-size: 1.5rem;
-    font-weight: 500;
-    color: volley-colors.$week-color;
-  }
-}
-
-.tournament-box:hover {
-  background-color: volley-colors.$week-color;
-  cursor: pointer;
-  h1 {
-    color: volley-colors.$week-light-color;
-  }
-}
-
-.var-bc {
-  background-color: volley-colors.$var-light-color !important;
-}
-.var-color {
-  color: #203c6b;
-  font-weight: 450 !important;
-}
-.mix-bc {
-  background-color: volley-colors.$mix-light-color !important;
-}
-.mix-color {
-  color: #347928;
-  font-weight: 450 !important;
-}
-.fem-bc {
-  background-color: #ffecef !important;
-}
-.fem-color {
-  color: #ed647c;
-  font-weight: 450 !important;
-}
-
-.playoff-standings {
-  font-weight: 500 !important;
-  font-size: 1.1rem;
-}
-
-.center-icon {
-  margin: 0px !important;
 }
 
 h1,
@@ -318,4 +50,5 @@ h4,
 h5,
 h6 {
   margin-top: 0;
+  font-weight: 500;
 }

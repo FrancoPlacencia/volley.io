@@ -1,13 +1,12 @@
 import { CommonModule } from '@angular/common';
-import { Component, computed, inject, OnInit, signal } from '@angular/core';
+import { Component, inject, OnInit, signal } from '@angular/core';
 import { MatButtonModule } from '@angular/material/button';
 import { MatDividerModule } from '@angular/material/divider';
 import { MatIconModule } from '@angular/material/icon';
 import { MatListModule } from '@angular/material/list';
 import { MatSidenavModule } from '@angular/material/sidenav';
-import { MatTableDataSource } from '@angular/material/table';
 import { MatToolbarModule } from '@angular/material/toolbar';
-import { RouterModule, RouterOutlet } from '@angular/router';
+import { RouterModule } from '@angular/router';
 import {
   AppTournament,
   emptyAppTournament,
@@ -16,7 +15,6 @@ import { emptyGame, Game } from '../../core/model/game.model';
 import { Playoffs } from '../../core/model/playoffs.model';
 import { AppSharedService } from '../../core/services/app-tournament-shared';
 
-import { TopBar } from '../../shared/components/top-bar/top-bar';
 import {
   generateGameWeeks,
   generateTeamMap,
@@ -24,12 +22,17 @@ import {
 
 import * as jsonData from '../../../assets/data.json';
 import { TeamPlay } from '../../core/model/team-play.model';
+import { DarkMode } from '../../shared/components/dark-mode/dark-mode';
+import { Loading } from '../../shared/components/loading/loading';
+import { Categories } from '../categories/categories';
+import { Games } from '../games/games';
+import { TournamentUi } from '../tournament-ui/tournament-ui';
+import { Weeks } from '../weeks/weeks';
 
 @Component({
   selector: 'app-home',
   imports: [
     CommonModule,
-    RouterOutlet,
     MatToolbarModule,
     MatButtonModule,
     MatIconModule,
@@ -37,7 +40,12 @@ import { TeamPlay } from '../../core/model/team-play.model';
     MatListModule,
     MatDividerModule,
     RouterModule,
-    TopBar,
+    TournamentUi,
+    DarkMode,
+    Weeks,
+    Categories,
+    Games,
+    Loading,
   ],
   templateUrl: './home.html',
   styleUrl: './home.scss',
@@ -45,74 +53,53 @@ import { TeamPlay } from '../../core/model/team-play.model';
 export class Home implements OnInit {
   private appSharedService: AppSharedService = inject(AppSharedService);
 
-  public authenticated = signal(false);
-  public appTournament = signal<AppTournament>(emptyAppTournament());
+  public loaded = signal<boolean>(false);
+  public error = signal<string>('');
 
-  public standingTable: Map<string, MatTableDataSource<any> | undefined> =
-    new Map<string, MatTableDataSource<any> | undefined>();
+  public app = signal<AppTournament>(emptyAppTournament());
 
-  public collapsed = signal(true);
-  public sidenavWidth = computed(() => (this.collapsed() ? '64px' : '250px'));
   public menuItems = signal<MenuItem[]>([
     {
-      label: 'Torneos',
+      label: 'Torneo',
       icon: 'emoji_events',
-      route: '/app/tournament',
+      route: 'tournament',
     },
-    { label: 'Jornadas', icon: 'calendar_month', route: '/app/weeks' },
-    { label: 'Categorias', icon: 'category', route: '/app/category' },
-    { label: 'Juegos', icon: 'sports_volleyball', route: '/app/game' },
+    { label: 'Jornadas', icon: 'calendar_month', route: 'weeks' },
+    { label: 'Categorias', icon: 'category', route: 'category' },
+    { label: 'Juegos', icon: 'sports_volleyball', route: 'game' },
   ]);
-  public adminItems = signal<MenuItem[]>([
-    {
-      label: 'Torneos',
-      icon: 'emoji_events',
-      route: '/admin/tournament',
-    },
-    { label: 'Equipos', icon: 'groups', route: '/admin/team' },
-    {
-      label: 'Jugadores',
-      icon: 'person',
-      route: '/admin/player',
-    },
-    { label: 'Jornadas', icon: 'calendar_month', route: '/admin/game' },
-  ]);
+
+  public display = signal<string>('tournament');
 
   ngOnInit(): void {
     this.loadAppTournament(
       JSON.parse(JSON.stringify(jsonData)) as AppTournament,
     );
-    this.appSharedService.updateApp(this.appTournament());
+    this.appSharedService.updateApp(this.app());
+    this.loaded.set(true);
+  }
+
+  public moveTo(url: string): void {
+    this.display.set(url);
   }
 
   private loadAppTournament(appTournament: AppTournament): void {
-    this.appTournament.set(appTournament);
-    this.appTournament().weeksMap = generateGameWeeks(
-      this.appTournament().games,
+    this.app.set(appTournament);
+    this.app().weeksMap = generateGameWeeks(this.app().games);
+    this.app().teamsMap = generateTeamMap(this.app().teams);
+    this.app().teamOptionsMap = new Map(Object.entries(this.app().teamOptions));
+    this.app().standingsMap = new Map(Object.entries(this.app().standings));
+    this.app().eliminationGamesMap = new Map(
+      Object.entries(this.app().eliminationGames),
     );
-    this.appTournament().teamsMap = generateTeamMap(this.appTournament().teams);
-    this.appTournament().teamOptionsMap = new Map(
-      Object.entries(this.appTournament().teamOptions),
-    );
-    this.appTournament().standingsMap = new Map(
-      Object.entries(this.appTournament().standings),
-    );
-    this.appTournament().standingsMap.forEach((standing, key) => {
-      this.standingTable.set(key, new MatTableDataSource(standing));
-    });
-    this.appTournament().eliminationGamesMap = new Map(
-      Object.entries(this.appTournament().eliminationGames),
-    );
-    this.appTournament().teamPlays = new Map(
-      Object.entries(this.appTournament().teamPlays),
-    );
-    this.appTournament().teamPlays.forEach((value: TeamPlay[]) => {
+    this.app().teamPlays = new Map(Object.entries(this.app().teamPlays));
+    this.app().teamPlays.forEach((value: TeamPlay[]) => {
       for (const teamPlay of value) {
         teamPlay.teamsPlayed = new Map(Object.entries(teamPlay.teamsPlayed));
       }
     });
-    this.appTournament().playoffs = new Map();
-    this.appTournament().eliminationGamesMap.forEach((games, key) => {
+    this.app().playoffs = new Map();
+    this.app().eliminationGamesMap.forEach((games, key) => {
       let quarter1: Game = emptyGame(1, 'QUARTER');
       let quarter2: Game = emptyGame(2, 'QUARTER');
       let quarter3: Game = emptyGame(3, 'QUARTER');
@@ -171,7 +158,7 @@ export class Home implements OnInit {
         finals: finals,
         thirds: thirds,
       };
-      this.appTournament().playoffs.set(key, playoffs);
+      this.app().playoffs.set(key, playoffs);
     });
   }
 }

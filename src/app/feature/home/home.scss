@@ -1,5 +1,13 @@
 @use "@angular/material" as mat;
-@use "../../../assets/scss//volley-colors.scss" as volley-colors;
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  h4 {
+    font-weight: 500;
+  }
+}
 
 .container {
   display: flex;
@@ -28,38 +36,66 @@
     100% 10px;
 }
 
-.menu-button {
-  @include mat.button-overrides(
+.top-bar {
+  @include mat.toolbar-overrides(
     (
-      outlined-outline-color: volley-colors.$week-color,
-      outlined-state-layer-color: volley-colors.$week-light-color,
+      container-background-color: var(--mat-sys-secondary-container),
+      container-text-color: var(--mat-sys-on-secondary-container),
     )
   );
 }
 
-mat-sidenav-container {
-  height: calc(100vh - 96px);
-}
+@include mat.menu-overrides(
+  (
+    item-label-text-color: var(--mat-sys-primary),
+  )
+);
 
-mat-sidenav {
-  border: 0;
-}
+mat-toolbar {
+  position: relative;
+  z-index: 5;
+  $grow: 1.1;
+  $effect: 0.3s;
 
-mat-sidenav,
-mat-sidenav-content {
-  transition: all 500ms ease-in-out;
-}
+  display: flex;
+  justify-content: space-between;
+  padding-top: 40px !important;
+  padding-bottom: 40px !important;
 
-mat-nav-list {
-  padding-top: 0;
-  a {
-    border-radius: 0;
+  .logo {
+    padding-left: 2.5%;
+    display: flex;
+    text-align: left;
+    transition: $effect ease;
+  }
+
+  .logo :hover {
+    -webkit-transform: scale($grow);
+    -ms-transform: scale($grow);
+    transform: scale($grow);
+    transition: $effect ease;
   }
 }
 
-.menu-item {
+.navigation {
+  padding-top: 10px !important;
+  padding-bottom: 10px !important;
+  justify-content: start;
+
+  @include mat.toolbar-overrides(
+    (
+      container-background-color: var(--mat-sys-primary),
+      container-text-color: var(--mat-sys-on-primary),
+    )
+  );
+
+  @include mat.icon-overrides(
+    (
+      color: var(--mat-sys-on-primary),
+    )
+  );
 }
 
-.admin-item {
-  background-color: var(--mat-sys-outline-variant);
+.navigation > button {
+  margin-left: 10px;
 }

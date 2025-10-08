@@ -1,26 +1,32 @@
-@if(loaded()) {
 <main>
   <mat-card class="box full">
     <mat-card-content>
-      <h1><mat-icon>emoji_events</mat-icon> {{name()}}</h1>
+      <h1 class="blue-theme"><mat-icon>emoji_events</mat-icon> {{name()}}</h1>
       <h3>Formato</h3>
       <ul>
         <li>A partir del {{startDate()}}</li>
         <li>Categorías ({{totalEquipos()}} equipos):</li>
         <ul>
           <li>
-            <span class="blue-theme">Varonil ({{varTeams()}} Equipos):</span>
+            <span class="blue-theme"
+              ><b>Varonil ({{varTeams()}} Equipos):</b></span
+            >
             Los mejores <b>{{varElimination()}} equipos</b> pasan a
             eliminatorias.
           </li>
           <li>
-            <span class="pink-theme">Femenil ({{femTeams()}} Equipos):</span>
+            <span class="pink-theme"
+              ><b>Femenil ({{femTeams()}} Equipos):</b></span
+            >
             Los mejores <b>{{femElimination()}} equipos</b> pasan a
             eliminatorias.
           </li>
           <li>
-            <span class="green-theme">Mixto ({{mixTeams()}} Equipos):</span> Los
-            mejores <b>{{mixElimination()}} equipos</b> pasan a eliminatorias.
+            <span class="green-theme"
+              ><b>Mixto ({{mixTeams()}} Equipos):</b></span
+            >
+            Los mejores <b>{{mixElimination()}} equipos</b> pasan a
+            eliminatorias.
           </li>
         </ul>
         <li>Jornada Regular:</li>
@@ -36,8 +42,3 @@
     </mat-card-content>
   </mat-card>
 </main>
-}@else { @if(error() !== undefined && error() !== '') {
-<app-error [message]="error()"></app-error>
-} @else {
-<app-loading></app-loading>
-}}

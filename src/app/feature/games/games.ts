@@ -1,4 +1,4 @@
-import { Component, inject, OnInit, signal } from '@angular/core';
+import { Component, inject, Input, OnInit, signal } from '@angular/core';
 import {
   FormBuilder,
   FormGroup,
@@ -9,10 +9,13 @@ import {
 import { MatCardModule } from '@angular/material/card';
 import { MatFormFieldModule } from '@angular/material/form-field';
 import { MatSelectModule } from '@angular/material/select';
+import {
+  AppTournament,
+  emptyAppTournament,
+} from '../../core/model/app-tournament.model';
 import { Game } from '../../core/model/game.model';
 import { TeamOption } from '../../core/model/team-option.model';
 import { TeamStat } from '../../core/model/team-stat.model';
-import { AppSharedService } from '../../core/services/app-tournament-shared';
 import { Week } from '../week/week';
 
 @Component({
@@ -29,12 +32,12 @@ import { Week } from '../week/week';
   styleUrl: './games.scss',
 })
 export class Games implements OnInit {
+  @Input() app: AppTournament = emptyAppTournament();
+
   private formBuilder: FormBuilder = inject(FormBuilder);
-  private appSharedService: AppSharedService = inject(AppSharedService);
 
   public allGames = signal<Game[]>([]);
   public filterGames = signal<Map<string, Game[]>>(new Map<string, Game[]>());
-  public error = signal<string>('');
 
   public teamOptionsMap = signal<Map<string, TeamOption[]>>(
     new Map<string, TeamOption[]>(),
@@ -50,20 +53,9 @@ export class Games implements OnInit {
   });
 
   ngOnInit(): void {
-    const intervalId = setInterval(() => {
-      const app = this.appSharedService.getApp();
-      if (app.tournamentId) {
-        if (app.tournamentId === -1) {
-          this.error.set('No se ha encontrado ningun torneo.');
-        } else {
-          this.teamOptionsMap.set(app.teamOptionsMap);
-          this.allGames.set(app.games);
-          console.log('teamOptionsMap', this.teamOptionsMap());
-        }
-        clearInterval(intervalId);
-      }
-    }, 200);
-
+    this.teamOptionsMap.set(this.app.teamOptionsMap);
+    this.allGames.set(this.app.games);
+    console.log(this.allGames()[0].gameDate);
     this.subscribeForm();
   }
 

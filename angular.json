@@ -31,8 +31,6 @@
               "@angular/material/prebuilt-themes/azure-blue.css",
               "src/styles.scss",
               "src/assets/scss/material-styles.scss",
-              "src/assets/scss/theme-colors.scss",
-              "src/assets/scss/volley-colors.scss",
               "src/assets/scss/volley-styles.scss"
             ],
             "outputPath": {

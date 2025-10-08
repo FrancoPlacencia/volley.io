@@ -6,12 +6,10 @@ import { TournamentUi } from './feature/tournament-ui/tournament-ui';
 import { Weeks } from './feature/weeks/weeks';
 
 export const routes: Routes = [
-  { path: '', redirectTo: 'app', pathMatch: 'full' },
   {
-    path: 'app',
+    path: '',
     component: Home,
     children: [
-      { path: '', redirectTo: 'tournament', pathMatch: 'full' },
       { path: 'tournament', component: TournamentUi },
       { path: 'weeks', component: Weeks },
       { path: 'category', component: Categories },

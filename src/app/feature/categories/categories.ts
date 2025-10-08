@@ -1,24 +1,22 @@
-import { Component, inject, OnInit, signal } from '@angular/core';
+import { Component, Input, OnInit, signal } from '@angular/core';
 import { MatTableDataSource } from '@angular/material/table';
 import { MatTabsModule } from '@angular/material/tabs';
+import {
+  AppTournament,
+  emptyAppTournament,
+} from '../../core/model/app-tournament.model';
 import { TeamPlay } from '../../core/model/team-play.model';
-import { AppSharedService } from '../../core/services/app-tournament-shared';
-import { Error } from '../../shared/components/error/error';
-import { Loading } from '../../shared/components/loading/loading';
 import { Standings } from '../standings/standings';
 import { TeamPlayed } from '../team-played/team-played';
 
 @Component({
   selector: 'app-categories',
-  imports: [MatTabsModule, Error, Loading, Standings, TeamPlayed],
+  imports: [MatTabsModule, Standings, TeamPlayed],
   templateUrl: './categories.html',
   styleUrl: './categories.scss',
 })
 export class Categories implements OnInit {
-  private appSharedService: AppSharedService = inject(AppSharedService);
-  // public appTournament = signal<AppTournament>(emptyAppTournament());
-  public loaded = signal<boolean>(false);
-  public error = signal<string>('');
+  @Input() app: AppTournament = emptyAppTournament();
 
   public femElimination = signal<number>(0);
   public varElimination = signal<number>(0);
@@ -31,23 +29,15 @@ export class Categories implements OnInit {
   public rounds = signal<number>(0);
 
   ngOnInit(): void {
-    const intervalId = setInterval(() => {
-      const _app = this.appSharedService.getApp();
-      if (_app.tournamentId) {
-        if (_app.tournamentId === -1) {
-          this.loaded.set(false);
-          this.error.set('No se ha encontrado ningun torneo.');
-        } else {
-          this.loaded.set(true);
-          _app.standingsMap.forEach((standing, key) => {
-            this.standingTable.set(key, new MatTableDataSource(standing));
-          });
-          this.teamPlays.set(_app.teamPlays);
-          this.rounds.set(_app.rounds);
-        }
-        clearInterval(intervalId);
-      }
-    }, 250);
+    this.app.standingsMap.forEach((standing, key) => {
+      this.standingTable.set(key, new MatTableDataSource(standing));
+    });
+    this.teamPlays.set(this.app.teamPlays);
+    this.rounds.set(this.app.rounds);
+
+    this.femElimination.set(this.app.femElimination);
+    this.varElimination.set(this.app.varElimination);
+    this.mixElimination.set(this.app.mixElimination);
   }
 
   public eliminationByCategory(category: string): number {

@@ -1,5 +1,5 @@
-import { Component, HostListener, inject } from '@angular/core';
-import { Router, RouterOutlet } from '@angular/router';
+import { Component } from '@angular/core';
+import { RouterOutlet } from '@angular/router';
 
 @Component({
   selector: 'app-root',
@@ -7,10 +7,4 @@ import { Router, RouterOutlet } from '@angular/router';
   templateUrl: './app.html',
   styleUrl: './app.scss',
 })
-export class App {
-  private router = inject(Router);
-
-  @HostListener('window:beforeunload') goToPage() {
-    this.router.navigate(['/']);
-  }
-}
+export class App {}

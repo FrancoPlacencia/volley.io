@@ -15,4 +15,25 @@ export class TeamUi {
   @Input() teamFilter: number = 0;
   public minQualify = 30;
   public qualify = 40;
+
+  public getShortName(name: string): string {
+    const nameArray = name.split(' ');
+    let retVal: string = '';
+    if (nameArray.length === 1) {
+      retVal = nameArray[0];
+    } else {
+      if (nameArray.length === 2) {
+        retVal = nameArray[0] + ' ' + nameArray[1].charAt(0) + '.';
+      } else {
+        retVal =
+          nameArray[0] +
+          ' ' +
+          nameArray[1] +
+          ' ' +
+          nameArray[2].charAt(0) +
+          '.';
+      }
+    }
+    return retVal;
+  }
 }

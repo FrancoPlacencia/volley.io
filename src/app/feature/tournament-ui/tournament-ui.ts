@@ -1,18 +1,19 @@
-import { Component, inject, OnInit, signal } from '@angular/core';
+import { Component, Input, OnInit, signal } from '@angular/core';
 import { MatCardModule } from '@angular/material/card';
 import { MatIconModule } from '@angular/material/icon';
-import { AppSharedService } from '../../core/services/app-tournament-shared';
-import { Error } from '../../shared/components/error/error';
-import { Loading } from '../../shared/components/loading/loading';
+import {
+  AppTournament,
+  emptyAppTournament,
+} from './../../core/model/app-tournament.model';
 
 @Component({
   selector: 'app-tournament-ui',
-  imports: [MatCardModule, MatIconModule, Loading, Error],
+  imports: [MatCardModule, MatIconModule],
   templateUrl: './tournament-ui.html',
   styleUrl: './tournament-ui.scss',
 })
 export class TournamentUi implements OnInit {
-  private appSharedService: AppSharedService = inject(AppSharedService);
+  @Input() app: AppTournament = emptyAppTournament();
 
   public loaded = signal<boolean>(false);
   public error = signal<string>('');
@@ -31,36 +32,22 @@ export class TournamentUi implements OnInit {
   public qualification = signal<number>(0);
 
   ngOnInit(): void {
-    const intervalId = setInterval(() => {
-      const app = this.appSharedService.getApp();
-      if (app.tournamentId) {
-        if (app.tournamentId === -1) {
-          this.loaded.set(false);
-          this.error.set('No se ha encontrado ningun torneo.');
-        } else {
-          this.loaded.set(true);
-          this.name.set(app.name);
-          const _startDate = new Date(app.startDate);
-          const day = _startDate.getDate();
-          const month = _startDate.toLocaleString('es-ES', { month: 'long' });
-          const year = _startDate.getFullYear();
-          const fullMonth = month.charAt(0).toUpperCase() + month.slice(1);
+    this.name.set(this.app.name);
+    const _startDate = new Date(this.app.startDate);
+    const day = _startDate.getDate();
+    const month = _startDate.toLocaleString('es-ES', { month: 'long' });
+    const year = _startDate.getFullYear();
+    const fullMonth = month.charAt(0).toUpperCase() + month.slice(1);
 
-          this.startDate.set(day + ' de ' + fullMonth + ' del ' + year);
-          this.femTeams.set(app.teamsMap.get('FEMENIL')?.length || 0);
-          this.varTeams.set(app.teamsMap.get('VARONIL')?.length || 0);
-          this.mixTeams.set(app.teamsMap.get('MIXTO')?.length || 0);
-          this.totalEquipos.set(
-            this.femTeams() + this.varTeams() + this.mixTeams(),
-          );
-          this.femElimination.set(app.femElimination);
-          this.varElimination.set(app.varElimination);
-          this.mixElimination.set(app.mixElimination);
+    this.startDate.set(day + ' de ' + fullMonth + ' del ' + year);
+    this.femTeams.set(this.app.teamsMap.get('FEMENIL')?.length || 0);
+    this.varTeams.set(this.app.teamsMap.get('VARONIL')?.length || 0);
+    this.mixTeams.set(this.app.teamsMap.get('MIXTO')?.length || 0);
+    this.totalEquipos.set(this.femTeams() + this.varTeams() + this.mixTeams());
+    this.femElimination.set(this.app.femElimination);
+    this.varElimination.set(this.app.varElimination);
+    this.mixElimination.set(this.app.mixElimination);
 
-          this.qualification.set(app.qualification);
-        }
-        clearInterval(intervalId);
-      }
-    }, 200);
+    this.qualification.set(this.app.qualification);
   }
 }
