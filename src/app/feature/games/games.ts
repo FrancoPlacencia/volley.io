@@ -45,15 +45,15 @@ export class Games implements OnInit {
   public teamOptions: TeamOption[] = [];
 
   public category: string = '';
-  public teamId = signal<number>(0);
+  public teamName = signal<string>('');
 
   public filterForm: FormGroup = this.formBuilder.group({
     category: [this.category, Validators.required],
-    team: [{ value: this.teamId(), disabled: true }, Validators.required],
+    team: [{ value: this.teamName(), disabled: true }, Validators.required],
   });
 
   ngOnInit(): void {
-    this.teamOptionsMap.set(this.app.teamOptionsMap);
+    this.teamOptionsMap.set(this.app.teamOptions);
     this.allGames.set(this.app.games);
     console.log(this.allGames()[0].gameDate);
     this.subscribeForm();
@@ -75,7 +75,7 @@ export class Games implements OnInit {
     const _games: Game[] = [];
     this.allGames().forEach((game: Game) => {
       game.teamStats.forEach((teamStat: TeamStat) => {
-        if (teamStat.teamId == this.teamId()) {
+        if (teamStat.teamName == this.teamName()) {
           _games.push(game);
         }
       });
@@ -94,8 +94,8 @@ export class Games implements OnInit {
         this.filterCategory();
       });
 
-    this.filterForm.get('team')!.valueChanges.subscribe((teamId: number) => {
-      this.teamId.set(teamId);
+    this.filterForm.get('team')!.valueChanges.subscribe((teamName: string) => {
+      this.teamName.set(teamName);
       this.filterCategory();
       this.filterTeams();
     });

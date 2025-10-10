@@ -1,0 +1,25 @@
+.stats {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.stats-bar {
+  display: flex;
+  width: 100%;
+
+  div {
+    padding: 2.5px 10px;
+    background-color: var(--mat-sys-primary);
+    color: var(--mat-sys-on-primary);
+  }
+  .wins {
+    border-radius: 10px 0% 0% 10px;
+  }
+
+  .losts {
+    border-radius: 0px 10px 10px 0px;
+  }
+}

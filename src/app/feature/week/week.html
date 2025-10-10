@@ -4,13 +4,7 @@
 }
 <div class="match-container">
   @for (game of gamesDay[1]; track game) {
-  <app-game-ui
-    [game]="game"
-    [isAdmin]="isAdmin"
-    [displayName]="displayName"
-    (parentEdit)="edit($event)"
-    (parentDelete)="delete($event)"
-  ></app-game-ui>
+  <app-game-ui [game]="game" [displayName]="displayName"></app-game-ui>
   } @empty {
   <h3>No game</h3>
   }

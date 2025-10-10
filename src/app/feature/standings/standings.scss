@@ -75,13 +75,6 @@ tr.example-element-row:not(.example-expanded-row):active {
 }
 /* grid-template-columns: 10% 30% 20% 15% 25%; */
 
-th {
-  font-size: 1.25rem;
-}
-td {
-  font-size: 1.25rem;
-}
-
 .mat-column-position {
   width: 7.5%;
 }
@@ -99,6 +92,13 @@ td {
 }
 .mat-column-expand {
   width: 7.5%;
+}
+
+th {
+  font-size: 1.25rem;
+}
+td {
+  font-size: 1.25rem;
 }
 /* tablets and small laptops */
 @media (min-width: 769px) and (max-width: 1024px) {
@@ -137,7 +137,7 @@ td {
 
 .playoff-standings {
   font-weight: 500 !important;
-  font-size: 1.1rem;
+  font-size: 1.25rem;
 }
 
 @media (max-width: 768px) {

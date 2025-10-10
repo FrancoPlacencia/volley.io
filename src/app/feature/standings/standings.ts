@@ -3,8 +3,8 @@ import { Component, Input } from '@angular/core';
 import { MatButtonModule } from '@angular/material/button';
 import { MatIconModule } from '@angular/material/icon';
 import { MatTableDataSource, MatTableModule } from '@angular/material/table';
-import { Standing } from '../../core/model/standing.model';
 import { TeamUi } from '../team-ui/team-ui';
+import { Team } from '../../core/model/team.model';
 
 @Component({
   selector: 'app-standings',
@@ -24,9 +24,9 @@ export class Standings {
 
   public columnsExpanded = [...this.columns, 'expand'];
 
-  expandedElement: Standing | null = null;
+  expandedElement: Team | null = null;
 
-  @Input() dataSource: MatTableDataSource<Standing> | undefined;
+  @Input() dataSource: MatTableDataSource<Team> | undefined;
 
   @Input() category: string | undefined;
 
@@ -36,7 +36,7 @@ export class Standings {
     return this.expandedElement === element;
   }
 
-  toggle(element: Standing): void {
+  toggle(element: Team): void {
     this.expandedElement = this.isExpanded(element) ? null : element;
   }
 }

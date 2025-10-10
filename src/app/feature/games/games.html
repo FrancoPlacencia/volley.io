@@ -16,7 +16,7 @@
             <mat-label>Equipo</mat-label>
             <mat-select formControlName="team">
               @for (teamOption of teamOptions; track $index) {
-              <mat-option [value]="teamOption.teamId"
+              <mat-option [value]="teamOption.name"
                 >{{ teamOption.name }}</mat-option
               >
               } @empty {}
@@ -27,5 +27,4 @@
     </mat-card>
   </main>
 </form>
-<app-week [days]="filterGames()" [isAdmin]="false" [displayName]="false">
-</app-week>
+<app-week [days]="filterGames()" [displayName]="false"> </app-week>

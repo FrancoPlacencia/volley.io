@@ -15,80 +15,80 @@
     <th mat-header-cell *matHeaderCellDef>#</th>
     <td
       mat-cell
-      *matCellDef="let element"
+      *matCellDef="let item"
       [ngClass]="{
-          'default red-theme': !element.team.isActive,
-          'playoff-standings': element.position <= elimination!,
+          'default red-theme': !item.isActive,
+          'playoff-standings': item.position <= elimination!,
         }"
     >
-      {{ element.position }}
+      {{ item.position }}
     </td>
   </ng-container>
   <ng-container matColumnDef="name">
     <th mat-header-cell *matHeaderCellDef>EQUIPO</th>
     <td
       mat-cell
-      *matCellDef="let element"
+      *matCellDef="let item"
       [ngClass]="{
-          'default red-theme': !element.team.isActive,
-          'playoff-standings': element.position <= elimination!,
+          'default red-theme': !item.isActive,
+          'playoff-standings': item.position <= elimination!,
         }"
     >
-      {{ element.team.name | uppercase}}
+      {{ item.name | uppercase}}
     </td>
   </ng-container>
   <ng-container matColumnDef="games">
     <th mat-header-cell *matHeaderCellDef>JUEGOS</th>
     <td
       mat-cell
-      *matCellDef="let element"
+      *matCellDef="let item"
       [ngClass]="{
-          'default red-theme': !element.team.isActive,
-          'playoff-standings': element.position <= elimination!,
+          'default red-theme': !item.isActive,
+          'playoff-standings': item.position <= elimination!,
         }"
     >
-      {{ element.teamJG }}-{{ element.teamJP }} @if (element.teamDJ > 0) { (+{{
-      element.teamDJ }}) } @else { ({{ element.teamDJ }}) }
+      {{ item.gamesWon }}-{{ item.gamesLost }} ({{ item.gamesWon -
+      item.gamesLost > 0 ? '+': ''}}{{item.gamesWon - item.gamesLost}})
     </td>
   </ng-container>
   <ng-container matColumnDef="sets">
     <th mat-header-cell *matHeaderCellDef>SETS</th>
     <td
       mat-cell
-      *matCellDef="let element"
+      *matCellDef="let item"
       [ngClass]="{
-          'default red-theme': !element.team.isActive,
-          'playoff-standings': element.position <= elimination!,
+          'default red-theme': !item.isActive,
+          'playoff-standings': item.position <= elimination!,
         }"
     >
-      {{ element.teamSG }}-{{ element.teamSP }} @if (element.teamDS > 0) { (+{{
-      element.teamDS }}) } @else { ({{ element.teamDS }}) }
+      {{ item.setsWon }}-{{ item.setsLost }} ({{ item.gasetsWonesWon -
+      item.setsLost > 0 ? '+': ''}}{{item.setsWon - item.setsLost}})
     </td>
   </ng-container>
   <ng-container matColumnDef="points">
     <th mat-header-cell *matHeaderCellDef>PUNTOS</th>
     <td
       mat-cell
-      *matCellDef="let element"
+      *matCellDef="let item"
       [ngClass]="{
-          'default red-theme': !element.team.isActive,
-          'playoff-standings': element.position <= elimination!,
+          'default red-theme': !item.isActive,
+          'playoff-standings': item.position <= elimination!,
         }"
     >
-      {{ element.teamPG }}-{{ element.teamPP }} @if (element.teamDP > 0) { (+{{
-      element.teamDP }}) } @else { ({{ element.teamDP }}) }
+      {{ item.pointsWon }}-{{ item.pointsLost }} ({{ item.pointsWon -
+      item.pointsLost > 0 ? '+': ''}}{{item.pointsWon - item.pointsLost}})
     </td>
   </ng-container>
   <!-- EXPANDED DATA -->
   <ng-container matColumnDef="expand">
     <th mat-header-cell *matHeaderCellDef aria-label="row actions">&nbsp;</th>
-    <td mat-cell *matCellDef="let element">
+    <td mat-cell *matCellDef="let item">
       <button
         matIconButton
         aria-label="expand row"
-        (click)="toggle(element); $event.stopPropagation()"
+        (click)="toggle(item); $event.stopPropagation()"
         class="example-toggle-button"
-        [class.example-toggle-button-expanded]="isExpanded(element)"
+        [class.example-toggle-button-expanded]="isExpanded(item)"
       >
         <mat-icon>keyboard_arrow_down</mat-icon>
       </button>
@@ -107,7 +107,7 @@
         [class.example-element-detail-wrapper-expanded]="isExpanded(element)"
       >
         <div class="example-element-detail">
-          <app-team-ui [team]="element.team" [teamFilter]="0"></app-team-ui>
+          <app-team-ui [team]="element" [teamFilter]="0"></app-team-ui>
         </div>
       </div>
     </td>

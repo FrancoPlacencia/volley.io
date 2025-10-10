@@ -11,23 +11,19 @@ import {
   AppTournament,
   emptyAppTournament,
 } from '../../core/model/app-tournament.model';
-import { emptyGame, Game } from '../../core/model/game.model';
-import { Playoffs } from '../../core/model/playoffs.model';
 import { AppSharedService } from '../../core/services/app-tournament-shared';
 
-import {
-  generateGameWeeks,
-  generateTeamMap,
-} from '../../shared/util/game-util';
+import { buildApp } from '../../shared/util/build-util';
 
 import * as jsonData from '../../../assets/data.json';
-import { TeamPlay } from '../../core/model/team-play.model';
+
 import { DarkMode } from '../../shared/components/dark-mode/dark-mode';
 import { Loading } from '../../shared/components/loading/loading';
 import { Categories } from '../categories/categories';
 import { Games } from '../games/games';
 import { TournamentUi } from '../tournament-ui/tournament-ui';
 import { Weeks } from '../weeks/weeks';
+import { PlayerStatUi } from '../player-stat-ui/player-stat-ui';
 
 @Component({
   selector: 'app-home',
@@ -46,6 +42,7 @@ import { Weeks } from '../weeks/weeks';
     Categories,
     Games,
     Loading,
+    PlayerStatUi,
   ],
   templateUrl: './home.html',
   styleUrl: './home.scss',
@@ -72,94 +69,14 @@ export class Home implements OnInit {
   public display = signal<string>('tournament');
 
   ngOnInit(): void {
-    this.loadAppTournament(
-      JSON.parse(JSON.stringify(jsonData)) as AppTournament,
+    this.app.set(
+      buildApp(JSON.parse(JSON.stringify(jsonData)) as AppTournament),
     );
-    this.appSharedService.updateApp(this.app());
     this.loaded.set(true);
   }
 
   public moveTo(url: string): void {
     this.display.set(url);
-  }
-
-  private loadAppTournament(appTournament: AppTournament): void {
-    this.app.set(appTournament);
-    this.app().weeksMap = generateGameWeeks(this.app().games);
-    this.app().teamsMap = generateTeamMap(this.app().teams);
-    this.app().teamOptionsMap = new Map(Object.entries(this.app().teamOptions));
-    this.app().standingsMap = new Map(Object.entries(this.app().standings));
-    this.app().eliminationGamesMap = new Map(
-      Object.entries(this.app().eliminationGames),
-    );
-    this.app().teamPlays = new Map(Object.entries(this.app().teamPlays));
-    this.app().teamPlays.forEach((value: TeamPlay[]) => {
-      for (const teamPlay of value) {
-        teamPlay.teamsPlayed = new Map(Object.entries(teamPlay.teamsPlayed));
-      }
-    });
-    this.app().playoffs = new Map();
-    this.app().eliminationGamesMap.forEach((games, key) => {
-      let quarter1: Game = emptyGame(1, 'QUARTER');
-      let quarter2: Game = emptyGame(2, 'QUARTER');
-      let quarter3: Game = emptyGame(3, 'QUARTER');
-      let quarter4: Game = emptyGame(4, 'QUARTER');
-
-      let semi1: Game = emptyGame(1, 'SEMI');
-      let semi2: Game = emptyGame(2, 'SEMI');
-
-      let finals: Game = emptyGame(1, 'FINAL');
-      let thirds: Game = emptyGame(1, 'THIRD');
-      games.forEach((game) => {
-        switch (game.stage) {
-          case 'QUARTER':
-            switch (game.weekNumber) {
-              case 1:
-                quarter1 = game;
-                break;
-              case 2:
-                quarter2 = game;
-                break;
-              case 3:
-                quarter3 = game;
-                break;
-              case 4:
-                quarter4 = game;
-                break;
-            }
-            break;
-          case 'SEMI':
-            switch (game.weekNumber) {
-              case 1:
-                semi1 = game;
-                break;
-              case 2:
-                semi2 = game;
-                break;
-            }
-            break;
-          case 'THIRD':
-            thirds = game;
-            break;
-          case 'FINAL':
-            finals = game;
-            break;
-        }
-      });
-      const playoffs: Playoffs = {
-        quarter1: quarter1,
-        quarter2: quarter2,
-        quarter3: quarter3,
-        quarter4: quarter4,
-
-        semi1: semi1,
-        semi2: semi2,
-
-        finals: finals,
-        thirds: thirds,
-      };
-      this.app().playoffs.set(key, playoffs);
-    });
   }
 }
 

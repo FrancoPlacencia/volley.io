@@ -1,13 +1,12 @@
 import { Game } from './game.model';
+import { PlayerStat } from './player-stat.model';
 import { Playoffs } from './playoffs.model';
-import { Standing } from './standing.model';
 import { TeamOption } from './team-option.model';
 import { TeamPlay } from './team-play.model';
 import { Team } from './team.model';
 
 export interface AppTournament {
   // Tournament Data
-  tournamentId: number;
   name: string;
   year: number;
   startDate: Date;
@@ -23,26 +22,27 @@ export interface AppTournament {
 
   isActive: boolean;
 
-  games: Game[];
   teams: Team[];
+  teamsMap: Map<string, Team[]>;
   teamOptions: Map<string, TeamOption[]>;
+
+  games: Game[];
   standings: Map<string, TeamOption[]>;
   eliminationGames: Map<string, Game[]>;
 
   // MODEL
-  standingsMap: Map<string, Standing[]>;
+  standingsMap: Map<string, Team[]>;
   weeksMap: Map<number, Map<string, Game[]>>;
-  teamsMap: Map<string, Team[]>;
-  teamOptionsMap: Map<string, TeamOption[]>;
+
   eliminationGamesMap: Map<string, Game[]>;
   playoffs: Map<string, Playoffs>;
 
   teamPlays: Map<string, TeamPlay[]>;
+  playerStats: PlayerStat[];
 }
 export function emptyAppTournament(): AppTournament {
   const tournament: AppTournament = {
     // Tournament Data
-    tournamentId: 0,
     name: '',
     year: 0,
     startDate: new Date(),
@@ -68,11 +68,12 @@ export function emptyAppTournament(): AppTournament {
     standingsMap: new Map(),
     weeksMap: new Map(),
     teamsMap: new Map(),
-    teamOptionsMap: new Map(),
     eliminationGamesMap: new Map(),
     playoffs: new Map(),
 
     teamPlays: new Map(),
+
+    playerStats: [],
   };
   return tournament;
 }
