@@ -1,11 +1,8 @@
 import { Component, Input, OnInit, signal } from '@angular/core';
 import { MatTableDataSource } from '@angular/material/table';
 import { MatTabsModule } from '@angular/material/tabs';
-import {
-  AppTournament,
-  emptyAppTournament,
-} from '../../core/model/app-tournament.model';
 import { TeamPlay } from '../../core/model/team-play.model';
+import { emptyApp, VolleyApp } from '../../core/model/volley-app.model';
 import { Standings } from '../standings/standings';
 import { TeamPlayed } from '../team-played/team-played';
 
@@ -16,7 +13,7 @@ import { TeamPlayed } from '../team-played/team-played';
   styleUrl: './categories.scss',
 })
 export class Categories implements OnInit {
-  @Input() app: AppTournament = emptyAppTournament();
+  @Input() app: VolleyApp = emptyApp();
 
   public femElimination = signal<number>(0);
   public varElimination = signal<number>(0);
@@ -29,15 +26,15 @@ export class Categories implements OnInit {
   public rounds = signal<number>(0);
 
   ngOnInit(): void {
-    this.app.standingsMap.forEach((standing, key) => {
+    this.app.standings.forEach((standing, key) => {
       this.standingTable.set(key, new MatTableDataSource(standing));
     });
     this.teamPlays.set(this.app.teamPlays);
-    this.rounds.set(this.app.rounds);
+    this.rounds.set(this.app.tournament.rounds);
 
-    this.femElimination.set(this.app.femElimination);
-    this.varElimination.set(this.app.varElimination);
-    this.mixElimination.set(this.app.mixElimination);
+    this.femElimination.set(this.app.tournament.femElimination);
+    this.varElimination.set(this.app.tournament.varElimination);
+    this.mixElimination.set(this.app.tournament.mixElimination);
   }
 
   public eliminationByCategory(category: string): number {

@@ -7,23 +7,21 @@ import { MatListModule } from '@angular/material/list';
 import { MatSidenavModule } from '@angular/material/sidenav';
 import { MatToolbarModule } from '@angular/material/toolbar';
 import { RouterModule } from '@angular/router';
-import {
-  AppTournament,
-  emptyAppTournament,
-} from '../../core/model/app-tournament.model';
+
 import { AppSharedService } from '../../core/services/app-tournament-shared';
 
 import { buildApp } from '../../shared/util/build-util';
 
 import * as jsonData from '../../../assets/data.json';
 
+import { emptyApp, VolleyApp } from '../../core/model/volley-app.model';
 import { DarkMode } from '../../shared/components/dark-mode/dark-mode';
 import { Loading } from '../../shared/components/loading/loading';
 import { Categories } from '../categories/categories';
 import { Games } from '../games/games';
+import { PlayerStatUi } from '../player-stat-ui/player-stat-ui';
 import { TournamentUi } from '../tournament-ui/tournament-ui';
 import { Weeks } from '../weeks/weeks';
-import { PlayerStatUi } from '../player-stat-ui/player-stat-ui';
 
 @Component({
   selector: 'app-home',
@@ -53,7 +51,7 @@ export class Home implements OnInit {
   public loaded = signal<boolean>(false);
   public error = signal<string>('');
 
-  public app = signal<AppTournament>(emptyAppTournament());
+  public app = signal<VolleyApp>(emptyApp());
 
   public menuItems = signal<MenuItem[]>([
     {
@@ -69,9 +67,7 @@ export class Home implements OnInit {
   public display = signal<string>('tournament');
 
   ngOnInit(): void {
-    this.app.set(
-      buildApp(JSON.parse(JSON.stringify(jsonData)) as AppTournament),
-    );
+    this.app.set(buildApp(JSON.parse(JSON.stringify(jsonData)) as VolleyApp));
     this.loaded.set(true);
   }
 

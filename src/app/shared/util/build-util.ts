@@ -1,8 +1,8 @@
-import { AppTournament } from '../../core/model/app-tournament.model';
 import { Game } from '../../core/model/game.model';
 import { TeamOption } from '../../core/model/team-option.model';
 import { TeamPlay } from '../../core/model/team-play.model';
 import { Team } from '../../core/model/team.model';
+import { VolleyApp } from '../../core/model/volley-app.model';
 
 const daysOfWeek: string[] = [
   'DOMINGO',
@@ -31,14 +31,13 @@ const months: string[] = [
 
 const categories: string[] = ['FEMENIL', 'VARONIL', 'MIXTO'];
 
-export function buildApp(appTournament: AppTournament): AppTournament {
-  const app = appTournament;
+export function buildApp(app: VolleyApp): VolleyApp {
   app.teamsMap = buildTeamMap(app.teams);
   app.teamOptions = buildTeamOptions(app.teams);
 
   app.weeksMap = buildGameWeeks(app.games);
 
-  app.standingsMap = buildStandings(app.teams);
+  app.standings = buildStandings(app.teams);
   app.eliminationGamesMap = new Map(Object.entries(app.eliminationGames));
   app.teamPlays = buildTeamPlay(app.teamPlays);
   app.playoffs = new Map();

@@ -14,15 +14,13 @@ import { Game } from '../../core/model/game.model';
 })
 export class GameUi {
   @Input() game!: Game;
-
-  @Input() isAdmin: boolean = false;
   @Input() displayName: boolean = false;
 
   @Input() isPlayoffs: boolean = false;
 
   @Input() elimination: number = 0;
 
-  @Input() teamFilter: number = 0;
+  @Input() teamFilter: string = '';
 
   @Output() isProcessing: boolean = false;
   @Output('parentEdit') parentEdit: EventEmitter<any> = new EventEmitter();

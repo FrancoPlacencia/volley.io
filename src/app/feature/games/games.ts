@@ -9,13 +9,10 @@ import {
 import { MatCardModule } from '@angular/material/card';
 import { MatFormFieldModule } from '@angular/material/form-field';
 import { MatSelectModule } from '@angular/material/select';
-import {
-  AppTournament,
-  emptyAppTournament,
-} from '../../core/model/app-tournament.model';
 import { Game } from '../../core/model/game.model';
 import { TeamOption } from '../../core/model/team-option.model';
 import { TeamStat } from '../../core/model/team-stat.model';
+import { emptyApp, VolleyApp } from '../../core/model/volley-app.model';
 import { Week } from '../week/week';
 
 @Component({
@@ -32,7 +29,7 @@ import { Week } from '../week/week';
   styleUrl: './games.scss',
 })
 export class Games implements OnInit {
-  @Input() app: AppTournament = emptyAppTournament();
+  @Input() app: VolleyApp = emptyApp();
 
   private formBuilder: FormBuilder = inject(FormBuilder);
 
@@ -80,7 +77,7 @@ export class Games implements OnInit {
         }
       });
     });
-    this.filterGames().set('', _games);
+    this.filterGames().set(this.teamName(), _games);
     console.log('games', this.filterGames());
   }
 

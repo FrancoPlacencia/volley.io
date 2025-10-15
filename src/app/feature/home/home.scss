@@ -91,11 +91,17 @@ mat-toolbar {
 
   @include mat.icon-overrides(
     (
-      color: var(--mat-sys-on-primary),
+      color: var(--mat-sys-primary),
     )
   );
 }
 
 .navigation > button {
   margin-left: 10px;
+  border-radius: var(
+    --mat-button-protected-container-shape,
+    var(--mat-sys-corner-large)
+  ) !important;
+
+  font-size: 12px;
 }

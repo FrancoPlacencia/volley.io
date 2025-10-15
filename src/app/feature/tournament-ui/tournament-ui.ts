@@ -1,10 +1,8 @@
 import { Component, Input, OnInit, signal } from '@angular/core';
 import { MatCardModule } from '@angular/material/card';
 import { MatIconModule } from '@angular/material/icon';
-import {
-  AppTournament,
-  emptyAppTournament,
-} from './../../core/model/app-tournament.model';
+import { emptyTournament, Tournament } from '../../core/model/tournament.model';
+import { emptyApp, VolleyApp } from '../../core/model/volley-app.model';
 
 @Component({
   selector: 'app-tournament-ui',
@@ -13,27 +11,24 @@ import {
   styleUrl: './tournament-ui.scss',
 })
 export class TournamentUi implements OnInit {
-  @Input() app: AppTournament = emptyAppTournament();
+  @Input() app: VolleyApp = emptyApp();
 
   public loaded = signal<boolean>(false);
   public error = signal<string>('');
 
-  public name = signal<string>('');
   public startDate = signal<string>('');
   public femTeams = signal<number>(0);
   public varTeams = signal<number>(0);
   public mixTeams = signal<number>(0);
 
-  public femElimination = signal<number>(0);
-  public varElimination = signal<number>(0);
-  public mixElimination = signal<number>(0);
-
   public totalEquipos = signal<number>(0);
-  public qualification = signal<number>(0);
+
+  public tournament = signal<Tournament>(emptyTournament());
 
   ngOnInit(): void {
-    this.name.set(this.app.name);
-    const _startDate = new Date(this.app.startDate);
+    this.tournament.set(this.app.tournament);
+
+    const _startDate = new Date(this.tournament().startDate);
     const day = _startDate.getDate();
     const month = _startDate.toLocaleString('es-ES', { month: 'long' });
     const year = _startDate.getFullYear();
@@ -44,10 +39,5 @@ export class TournamentUi implements OnInit {
     this.varTeams.set(this.app.teamsMap.get('VARONIL')?.length || 0);
     this.mixTeams.set(this.app.teamsMap.get('MIXTO')?.length || 0);
     this.totalEquipos.set(this.femTeams() + this.varTeams() + this.mixTeams());
-    this.femElimination.set(this.app.femElimination);
-    this.varElimination.set(this.app.varElimination);
-    this.mixElimination.set(this.app.mixElimination);
-
-    this.qualification.set(this.app.qualification);
   }
 }

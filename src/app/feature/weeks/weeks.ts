@@ -1,11 +1,8 @@
 import { Component, Input, OnInit, signal } from '@angular/core';
 import { MatTabsModule } from '@angular/material/tabs';
 
-import {
-  AppTournament,
-  emptyAppTournament,
-} from '../../core/model/app-tournament.model';
 import { Game } from '../../core/model/game.model';
+import { emptyApp, VolleyApp } from '../../core/model/volley-app.model';
 import { Week } from '../week/week';
 
 @Component({
@@ -15,7 +12,7 @@ import { Week } from '../week/week';
   styleUrl: './weeks.scss',
 })
 export class Weeks implements OnInit {
-  @Input() app: AppTournament = emptyAppTournament();
+  @Input() app: VolleyApp = emptyApp();
 
   public weeksMap = signal<Map<number, Map<string, Game[]>>>(
     new Map<number, Map<string, Game[]>>(),

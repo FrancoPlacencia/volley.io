@@ -38,16 +38,17 @@
   <div class="match-details">
     <div
       [ngClass]="{
-          winner: teamStat.state === 'WINNER' && teamStat.teamId !== teamFilter,
-          losser: teamStat.state === 'LOSSER' && teamStat.teamId !== teamFilter,
+
+          winner: teamStat.state === 'WINNER' && teamStat.teamName !== teamFilter,
+          losser: teamStat.state === 'LOSSER' && teamStat.teamName !== teamFilter,
           default:
-            teamStat.state === 'DEFAULT' && teamStat.teamId !== teamFilter,
-          'winner-selected':
-            teamStat.state === 'WINNER' && teamStat.teamId === teamFilter,
-          'losser-selected':
-            teamStat.state === 'LOSSER' && teamStat.teamId === teamFilter,
-          'default-selected':
-            teamStat.state === 'DEFAULT' && teamStat.teamId === teamFilter,
+            teamStat.state === 'DEFAULT' && teamStat.teamName !== teamFilter,
+          'winner-selected green-theme':
+            teamStat.state === 'WINNER' && teamStat.teamName === teamFilter,
+          'losser-selected orange-theme':
+            teamStat.state === 'LOSSER' && teamStat.teamName === teamFilter,
+          'default-selected red-theme':
+            teamStat.state === 'DEFAULT' && teamStat.teamName === teamFilter,
         }"
       class="match-team"
     >

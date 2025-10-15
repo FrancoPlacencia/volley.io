@@ -1,7 +1,9 @@
 <main>
   <mat-card class="box full">
     <mat-card-content>
-      <h1 class="blue-theme"><mat-icon>emoji_events</mat-icon> {{name()}}</h1>
+      <h1 class="blue-theme">
+        <mat-icon>emoji_events</mat-icon> {{tournament().name}}
+      </h1>
       <h3>Formato</h3>
       <ul>
         <li>A partir del {{startDate()}}</li>
@@ -11,21 +13,21 @@
             <span class="blue-theme"
               ><b>Varonil ({{varTeams()}} Equipos):</b></span
             >
-            Los mejores <b>{{varElimination()}} equipos</b> pasan a
+            Los mejores <b>{{tournament().varElimination}} equipos</b> pasan a
             eliminatorias.
           </li>
           <li>
             <span class="pink-theme"
               ><b>Femenil ({{femTeams()}} Equipos):</b></span
             >
-            Los mejores <b>{{femElimination()}} equipos</b> pasan a
+            Los mejores <b>{{tournament().femElimination}} equipos</b> pasan a
             eliminatorias.
           </li>
           <li>
             <span class="green-theme"
               ><b>Mixto ({{mixTeams()}} Equipos):</b></span
             >
-            Los mejores <b>{{mixElimination()}} equipos</b> pasan a
+            Los mejores <b>{{tournament().mixElimination}} equipos</b> pasan a
             eliminatorias.
           </li>
         </ul>
@@ -36,7 +38,7 @@
         <li>Eliminatorias:</li>
         <ul>
           <li>Partidos mejor de 5 (3 de 5)</li>
-          <li>Jugadores necesitan {{qualification()}}% de juegos</li>
+          <li>Jugadores necesitan {{tournament().qualification}}% de juegos</li>
         </ul>
       </ul>
     </mat-card-content>

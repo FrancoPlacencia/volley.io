@@ -84,16 +84,19 @@
 }
 
 .winner-selected {
-  color: green;
-  font-weight: 550 !important;
-}
-.losser-selected {
-  color: #9ac09c;
+  color: var(--mat-sys-on-primary) !important;
+  background-color: var(--mat-sys-primary) !important;
   font-weight: 500 !important;
 }
+.losser-selected {
+  color: var(--mat-sys-on-primary) !important;
+  background-color: var(--mat-sys-primary) !important;
+  font-weight: 400 !important;
+}
 .default-selected {
+  color: var(--mat-sys-on-primary) !important;
+  background-color: var(--mat-sys-primary) !important;
   text-decoration: line-through;
-  color: #c84646;
 }
 
 .match-players {

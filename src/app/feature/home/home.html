@@ -10,7 +10,11 @@
 </mat-toolbar>
 <mat-toolbar class="navigation">
   @for(item of menuItems(); track item){
-  <button matButton (click)="moveTo(item.route)">
+  <button
+    matButton="elevated"
+    (click)="moveTo(item.route)"
+    [disabled]="display() === item.route"
+  >
     <mat-icon class="material-icons md-18">{{item.icon}}</mat-icon
     >{{item.label}}
   </button>
