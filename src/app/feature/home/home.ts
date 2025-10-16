@@ -62,6 +62,13 @@ export class Home implements OnInit {
     { label: 'Jornadas', icon: 'calendar_month', route: 'weeks' },
     { label: 'Categorias', icon: 'category', route: 'category' },
     { label: 'Juegos', icon: 'sports_volleyball', route: 'game' },
+    /*
+    {
+      label: 'Jugadores',
+      icon: 'groups',
+      route: 'players',
+    },
+    */
   ]);
 
   public display = signal<string>('tournament');

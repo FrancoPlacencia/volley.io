@@ -1,7 +1,13 @@
+<!-- eslint-disable @angular-eslint/template/click-events-have-key-events -->
 <mat-toolbar class="top-bar">
-  <a [routerLink]="['/']">
+  <a>
     <div class="logo">
-      <img src="assets/images/logo-small.png" alt="volley-logo" tabindex="0" />
+      <img
+        src="assets/images/logo-small.png"
+        alt="volley-logo"
+        tabindex="0"
+        (click)="moveTo('tournament')"
+      />
     </div>
   </a>
   <div>
@@ -11,12 +17,13 @@
 <mat-toolbar class="navigation">
   @for(item of menuItems(); track item){
   <button
+    class="icon-text-button"
     matButton="elevated"
     (click)="moveTo(item.route)"
     [disabled]="display() === item.route"
   >
-    <mat-icon class="material-icons md-18">{{item.icon}}</mat-icon
-    >{{item.label}}
+    <mat-icon class="material-icons md-18">{{item.icon}}</mat-icon>
+    <span class="button-text">{{item.label}}</span>
   </button>
   }
 </mat-toolbar>

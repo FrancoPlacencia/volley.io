@@ -22,3 +22,22 @@ npm install prettier prettier-eslint eslint-config-prettier eslint-plugin-pretti
 ng build --configuration production
 ```
 
+## Responsive
+Media sizes
+```css
+/* mobile */
+@media(max-width: 480px){}
+
+/* tablets */
+@media(min-width: 481px) and (max-width: 768px){}
+
+/* laptops */
+@media(min-width: 769px) and (max-width: 1024px){}
+
+/* desktops */
+@media(min-width: 1025px) and (max-width: 1200px){}
+
+/* tv */
+@media(min-width: 1201px) {}
+```
+

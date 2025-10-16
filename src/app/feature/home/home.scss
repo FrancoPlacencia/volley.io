@@ -59,8 +59,6 @@ mat-toolbar {
 
   display: flex;
   justify-content: space-between;
-  padding-top: 40px !important;
-  padding-bottom: 40px !important;
 
   .logo {
     padding-left: 2.5%;
@@ -78,9 +76,9 @@ mat-toolbar {
 }
 
 .navigation {
-  padding-top: 10px !important;
-  padding-bottom: 10px !important;
+  padding: 10px;
   justify-content: start;
+  display: flex;
 
   @include mat.toolbar-overrides(
     (
@@ -96,12 +94,51 @@ mat-toolbar {
   );
 }
 
-.navigation > button {
-  margin-left: 10px;
+.logo {
+  height: 65px;
+}
+
+.icon-text-button {
+  margin: 0px 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
   border-radius: var(
     --mat-button-protected-container-shape,
-    var(--mat-sys-corner-large)
+    var(--mat-sys-corner-small)
   ) !important;
+  cursor: pointer;
+  font-size: 14px;
+}
 
-  font-size: 12px;
+.mat-icon {
+  margin: 0px !important;
+}
+
+.button-icon {
+  margin-bottom: 4px;
+}
+
+/* mobile */
+@media (max-width: 480px) {
+  mat-toolbar {
+    height: 75px;
+  }
+
+  .navigation {
+    justify-content: space-around;
+    padding: 10px 3px !important;
+  }
+
+  .logo {
+    height: 75px;
+  }
+
+  .icon-text-button {
+    margin-right: 0px 5px;
+    flex-direction: column;
+    padding: 30px 15px 20px 15px;
+  }
 }
