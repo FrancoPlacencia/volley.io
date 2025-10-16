@@ -3254,7 +3254,7 @@
             {
               "number": 6,
               "name": "Cristian Teofilo Sandoval Cerros",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 7,
@@ -3264,7 +3264,7 @@
             {
               "number": 8,
               "name": "Lourdes Cerros Almaraz",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 9,
@@ -3274,17 +3274,17 @@
             {
               "number": 10,
               "name": "Wendali Adilene Ledezma Almaraz",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 12,
               "name": "Sarel Guadalupe Figueroa G",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 17,
               "name": "Veronica Itzel Rodriguez Rodriguez",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 18,
@@ -3294,7 +3294,7 @@
             {
               "number": 27,
               "name": "Joel Martinez Valdez",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 30,
@@ -3340,7 +3340,7 @@
             {
               "number": 3,
               "name": "Luz Elena Joaquin Muñoz",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 4,
@@ -3350,12 +3350,12 @@
             {
               "number": 5,
               "name": "Jonathan de Jesus Padilla Ortiz",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 7,
               "name": "Rebeca Bernal Rubira",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 9,
@@ -3365,7 +3365,7 @@
             {
               "number": 11,
               "name": "Francisco Emmanuel Placencia Castellanos",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 18,
@@ -3380,7 +3380,7 @@
             {
               "number": 27,
               "name": "Marco Antonio Alvarado Romo",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 50,
@@ -3471,17 +3471,17 @@
             {
               "number": 1,
               "name": "Jose de Jesus Leandro Orozco",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 2,
               "name": "Ruby del Socorro Leandro Ledezma",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 3,
               "name": "Abraham Hector Leandro Rocha",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 7,
@@ -3496,12 +3496,12 @@
             {
               "number": 12,
               "name": "Jose de Jesus Leandro Rocha",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 13,
               "name": "Evelyn Elizabeth Ramirez Ruvalcaba",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 999,
@@ -3557,17 +3557,17 @@
             {
               "number": 9,
               "name": "Yazmin Gisela Nava Vera",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 10,
               "name": "Jorge Luis Leandro Nava",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 24,
               "name": "Marlene Ornelas Mendez",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 25,
@@ -3577,22 +3577,22 @@
             {
               "number": 30,
               "name": "Floricel Velazquez Perez",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 31,
               "name": "David Leandro Perez",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 98,
               "name": "Luis Jesus Macias Nieves",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 99,
               "name": "Ruben Marquez Ruiz",
-              "gamePlayed": false
+              "gamePlayed": true
             }
           ]
         },
@@ -3713,27 +3713,27 @@
             {
               "number": 5,
               "name": "Mariana Catalina Varela Mayorga",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 7,
               "name": "Cesar Murillo Lopez",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 9,
               "name": "Manuel de A Marquez Garcia",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 11,
               "name": "Victoria Marquez Solis",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 14,
               "name": "Joselyn Marquez Solis",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 16,
@@ -3743,12 +3743,12 @@
             {
               "number": 19,
               "name": "Lucy Solis Avila",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 26,
               "name": "Manuel de Jesus Soto Murillo",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 27,
@@ -3804,37 +3804,37 @@
             {
               "number": 9,
               "name": "Yazmin Gisela Nava Vera",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 10,
               "name": "Jorge Luis Leandro Nava",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 24,
               "name": "Marlene Ornelas Mendez",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 25,
               "name": "Liliana Ornelas Mendez",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 30,
               "name": "Floricel Velazquez Perez",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 31,
               "name": "David Leandro Perez",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 98,
               "name": "Luis Jesus Macias Nieves",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 99,
@@ -3885,22 +3885,22 @@
             {
               "number": 2,
               "name": "Ruth Alejandra Martinez Rodriguez",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 4,
               "name": "Mario Alfredo Acero Figueroa",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 9,
               "name": "Manuel Hernandez Leandro",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 11,
               "name": "Ana Xochitl Hernandez Ramos",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 17,
@@ -3910,12 +3910,12 @@
             {
               "number": 20,
               "name": "Perla Iveth Solis Avila",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 23,
               "name": "Diego Daniel Solis Avila",
-              "gamePlayed": false
+              "gamePlayed": true
             }
           ]
         }
@@ -4081,42 +4081,42 @@
             {
               "number": 2,
               "name": "Ruby del Socorro Leandro Ledezma",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 9,
               "name": "Yazmin Gisela Nava Vera",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 11,
               "name": "Liliana Ornelas Mendez",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 13,
               "name": "Diana Itzel Bustos Sandoval",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 17,
               "name": "Ruth Alejandra Martinez Rodriguez",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 20,
               "name": "Perla Iveth Solis Avila",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 24,
               "name": "Marlene Ornelas Mendez",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 30,
               "name": "Floricel Velazquez Perez",
-              "gamePlayed": false
+              "gamePlayed": true
             }
           ]
         }
@@ -4247,27 +4247,27 @@
             {
               "number": 5,
               "name": "Mariana Catalina Varela Mayorga",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 7,
               "name": "Cesar Murillo Lopez",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 9,
               "name": "Manuel de A Marquez Garcia",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 11,
               "name": "Victoria Marquez Solis",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 14,
               "name": "Joselyn Marquez Solis",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 16,
@@ -4277,12 +4277,12 @@
             {
               "number": 19,
               "name": "Lucy Solis Avila",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 26,
               "name": "Manuel de Jesus Soto Murillo",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 27,
@@ -4333,27 +4333,27 @@
             {
               "number": 11,
               "name": "Juan Eduardo Sandoval Sandoval",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 13,
               "name": "Hilda Martinez Ramirez",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 15,
               "name": "Jose Manuel Jimenez Bernal",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 16,
               "name": "Ma de Jesus Padilla Luna",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 31,
               "name": "Ines Jimenez Ruvalcaba",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 911,
@@ -4363,7 +4363,7 @@
             {
               "number": 997,
               "name": "Jose Cuauthemoc Figueroa Cuevas",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 998,
@@ -4539,12 +4539,12 @@
             {
               "number": 2,
               "name": "Martha Juanita Duque Elizalde",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 3,
               "name": "Luz Elena Joaquin Muñoz",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 5,
@@ -4554,7 +4554,7 @@
             {
               "number": 8,
               "name": "Paula Renata Macias Nieves",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 9,
@@ -4564,17 +4564,17 @@
             {
               "number": 10,
               "name": "Sandra Leticia Velasco Cuevas",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 12,
               "name": "Giselle Mary Renteria",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 27,
               "name": "Estrella Guadalupe Figueroa Joaquin",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 33,
@@ -4635,27 +4635,27 @@
             {
               "number": 7,
               "name": "Alonso Nuñez Esqueda",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 8,
               "name": "Jibran Ulises Ramirez Villalpando",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 10,
               "name": "Taurino Macias Velasco",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 11,
               "name": "Esmeralda Renteria V",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 12,
               "name": "Maria de Jesus Ortega Muñoz",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 15,
@@ -4665,7 +4665,7 @@
             {
               "number": 97,
               "name": "German Rodriguez A",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 98,
@@ -4801,12 +4801,12 @@
             {
               "number": 7,
               "name": "Fabricio Romo Rodriguez",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 10,
               "name": "Salvador Zorrilla Hernandez",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 11,
@@ -4816,7 +4816,7 @@
             {
               "number": 13,
               "name": "Jairo Alejandro Vera Ruvira",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 17,
@@ -4836,12 +4836,12 @@
             {
               "number": 26,
               "name": "Manuel de Jesus Soto Murillo",
-              "gamePlayed": false
+              "gamePlayed": true
             },
             {
               "number": 27,
               "name": "Joel Martinez Valdez",
-              "gamePlayed": false
+              "gamePlayed": true
             }
           ]
         }
@@ -14761,9 +14761,9 @@
           "lastName": "Joaquin Muñoz",
           "sex": "FEMALE",
           "number": 3,
-          "gamesPlayed": 1,
+          "gamesPlayed": 2,
           "gamesTotal": 26,
-          "gamesPercentage": 4,
+          "gamesPercentage": 8,
           "isActive": true,
           "gamePlayed": null
         },
@@ -14783,9 +14783,9 @@
           "lastName": "Padilla Ortiz",
           "sex": "MALE",
           "number": 5,
-          "gamesPlayed": 0,
-          "gamesTotal": 0,
-          "gamesPercentage": 0,
+          "gamesPlayed": 1,
+          "gamesTotal": 26,
+          "gamesPercentage": 4,
           "isActive": true,
           "gamePlayed": null
         },
@@ -14794,9 +14794,9 @@
           "lastName": "Bernal Rubira",
           "sex": "FEMALE",
           "number": 7,
-          "gamesPlayed": 1,
+          "gamesPlayed": 2,
           "gamesTotal": 26,
-          "gamesPercentage": 4,
+          "gamesPercentage": 8,
           "isActive": true,
           "gamePlayed": null
         },
@@ -14816,9 +14816,9 @@
           "lastName": "Placencia Castellanos",
           "sex": "MALE",
           "number": 11,
-          "gamesPlayed": 1,
+          "gamesPlayed": 2,
           "gamesTotal": 26,
-          "gamesPercentage": 4,
+          "gamesPercentage": 8,
           "isActive": true,
           "gamePlayed": null
         },
@@ -14849,9 +14849,9 @@
           "lastName": "Alvarado Romo",
           "sex": "MALE",
           "number": 27,
-          "gamesPlayed": 0,
-          "gamesTotal": 0,
-          "gamesPercentage": 0,
+          "gamesPlayed": 1,
+          "gamesTotal": 26,
+          "gamesPercentage": 4,
           "isActive": true,
           "gamePlayed": null
         },
@@ -14886,9 +14886,9 @@
           "lastName": "Leandro Orozco",
           "sex": "MALE",
           "number": 1,
-          "gamesPlayed": 1,
+          "gamesPlayed": 2,
           "gamesTotal": 26,
-          "gamesPercentage": 4,
+          "gamesPercentage": 8,
           "isActive": true,
           "gamePlayed": null
         },
@@ -14897,9 +14897,9 @@
           "lastName": "Leandro Ledezma",
           "sex": "FEMALE",
           "number": 2,
-          "gamesPlayed": 1,
+          "gamesPlayed": 2,
           "gamesTotal": 26,
-          "gamesPercentage": 4,
+          "gamesPercentage": 8,
           "isActive": true,
           "gamePlayed": null
         },
@@ -14908,9 +14908,9 @@
           "lastName": "Leandro Rocha",
           "sex": "MALE",
           "number": 3,
-          "gamesPlayed": 0,
-          "gamesTotal": 0,
-          "gamesPercentage": 0,
+          "gamesPlayed": 1,
+          "gamesTotal": 26,
+          "gamesPercentage": 4,
           "isActive": true,
           "gamePlayed": null
         },
@@ -14941,9 +14941,9 @@
           "lastName": "Leandro Rocha",
           "sex": "MALE",
           "number": 12,
-          "gamesPlayed": 1,
+          "gamesPlayed": 2,
           "gamesTotal": 26,
-          "gamesPercentage": 4,
+          "gamesPercentage": 8,
           "isActive": true,
           "gamePlayed": null
         },
@@ -14952,9 +14952,9 @@
           "lastName": "Ramirez Ruvalcaba",
           "sex": "FEMALE",
           "number": 13,
-          "gamesPlayed": 1,
+          "gamesPlayed": 2,
           "gamesTotal": 26,
-          "gamesPercentage": 4,
+          "gamesPercentage": 8,
           "isActive": true,
           "gamePlayed": null
         },
@@ -15000,9 +15000,9 @@
           "lastName": "Romo Rodriguez",
           "sex": "MALE",
           "number": 7,
-          "gamesPlayed": 1,
+          "gamesPlayed": 2,
           "gamesTotal": 14,
-          "gamesPercentage": 7,
+          "gamesPercentage": 14,
           "isActive": true,
           "gamePlayed": null
         },
@@ -15011,9 +15011,9 @@
           "lastName": "Zorrilla Hernandez",
           "sex": "MALE",
           "number": 10,
-          "gamesPlayed": 0,
-          "gamesTotal": 0,
-          "gamesPercentage": 0,
+          "gamesPlayed": 1,
+          "gamesTotal": 14,
+          "gamesPercentage": 7,
           "isActive": true,
           "gamePlayed": null
         },
@@ -15033,9 +15033,9 @@
           "lastName": "Vera Ruvira",
           "sex": "MALE",
           "number": 13,
-          "gamesPlayed": 1,
+          "gamesPlayed": 2,
           "gamesTotal": 14,
-          "gamesPercentage": 7,
+          "gamesPercentage": 14,
           "isActive": true,
           "gamePlayed": null
         },
@@ -15077,9 +15077,9 @@
           "lastName": "Soto Murillo",
           "sex": "MALE",
           "number": 26,
-          "gamesPlayed": 1,
+          "gamesPlayed": 2,
           "gamesTotal": 14,
-          "gamesPercentage": 7,
+          "gamesPercentage": 14,
           "isActive": true,
           "gamePlayed": null
         },
@@ -15088,9 +15088,9 @@
           "lastName": "Martinez Valdez",
           "sex": "MALE",
           "number": 27,
-          "gamesPlayed": 1,
+          "gamesPlayed": 2,
           "gamesTotal": 14,
-          "gamesPercentage": 7,
+          "gamesPercentage": 14,
           "isActive": true,
           "gamePlayed": null
         }
@@ -15136,9 +15136,9 @@
           "lastName": "Sandoval Cerros",
           "sex": "MALE",
           "number": 6,
-          "gamesPlayed": 2,
+          "gamesPlayed": 3,
           "gamesTotal": 26,
-          "gamesPercentage": 8,
+          "gamesPercentage": 12,
           "isActive": true,
           "gamePlayed": null
         },
@@ -15158,9 +15158,9 @@
           "lastName": "Cerros Almaraz",
           "sex": "FEMALE",
           "number": 8,
-          "gamesPlayed": 0,
-          "gamesTotal": 0,
-          "gamesPercentage": 0,
+          "gamesPlayed": 1,
+          "gamesTotal": 26,
+          "gamesPercentage": 4,
           "isActive": true,
           "gamePlayed": null
         },
@@ -15180,9 +15180,9 @@
           "lastName": "Ledezma Almaraz",
           "sex": "FEMALE",
           "number": 10,
-          "gamesPlayed": 2,
+          "gamesPlayed": 3,
           "gamesTotal": 26,
-          "gamesPercentage": 8,
+          "gamesPercentage": 12,
           "isActive": true,
           "gamePlayed": null
         },
@@ -15191,9 +15191,9 @@
           "lastName": "Figueroa G",
           "sex": "FEMALE",
           "number": 12,
-          "gamesPlayed": 2,
+          "gamesPlayed": 3,
           "gamesTotal": 26,
-          "gamesPercentage": 8,
+          "gamesPercentage": 12,
           "isActive": true,
           "gamePlayed": null
         },
@@ -15202,9 +15202,9 @@
           "lastName": "Rodriguez Rodriguez",
           "sex": "FEMALE",
           "number": 17,
-          "gamesPlayed": 2,
+          "gamesPlayed": 3,
           "gamesTotal": 26,
-          "gamesPercentage": 8,
+          "gamesPercentage": 12,
           "isActive": true,
           "gamePlayed": null
         },
@@ -15224,9 +15224,9 @@
           "lastName": "Martinez Valdez",
           "sex": "MALE",
           "number": 27,
-          "gamesPlayed": 2,
+          "gamesPlayed": 3,
           "gamesTotal": 26,
-          "gamesPercentage": 8,
+          "gamesPercentage": 12,
           "isActive": true,
           "gamePlayed": null
         },
@@ -15400,9 +15400,9 @@
           "lastName": "Sandoval Sandoval",
           "sex": "MALE",
           "number": 11,
-          "gamesPlayed": 1,
+          "gamesPlayed": 2,
           "gamesTotal": 26,
-          "gamesPercentage": 4,
+          "gamesPercentage": 8,
           "isActive": true,
           "gamePlayed": null
         },
@@ -15411,9 +15411,9 @@
           "lastName": "Martinez Ramirez",
           "sex": "FEMALE",
           "number": 13,
-          "gamesPlayed": 1,
+          "gamesPlayed": 2,
           "gamesTotal": 26,
-          "gamesPercentage": 4,
+          "gamesPercentage": 8,
           "isActive": true,
           "gamePlayed": null
         },
@@ -15422,9 +15422,9 @@
           "lastName": "Jimenez Bernal",
           "sex": "MALE",
           "number": 15,
-          "gamesPlayed": 1,
+          "gamesPlayed": 2,
           "gamesTotal": 26,
-          "gamesPercentage": 4,
+          "gamesPercentage": 8,
           "isActive": true,
           "gamePlayed": null
         },
@@ -15433,9 +15433,9 @@
           "lastName": "Padilla Luna",
           "sex": "FEMALE",
           "number": 16,
-          "gamesPlayed": 1,
+          "gamesPlayed": 2,
           "gamesTotal": 26,
-          "gamesPercentage": 4,
+          "gamesPercentage": 8,
           "isActive": true,
           "gamePlayed": null
         },
@@ -15444,9 +15444,9 @@
           "lastName": "Jimenez Ruvalcaba",
           "sex": "FEMALE",
           "number": 31,
-          "gamesPlayed": 1,
+          "gamesPlayed": 2,
           "gamesTotal": 26,
-          "gamesPercentage": 4,
+          "gamesPercentage": 8,
           "isActive": true,
           "gamePlayed": null
         },
@@ -15466,9 +15466,9 @@
           "lastName": "Figueroa Cuevas",
           "sex": "MALE",
           "number": 997,
-          "gamesPlayed": 0,
-          "gamesTotal": 0,
-          "gamesPercentage": 0,
+          "gamesPlayed": 1,
+          "gamesTotal": 26,
+          "gamesPercentage": 4,
           "isActive": true,
           "gamePlayed": null
         },
@@ -15714,9 +15714,9 @@
           "lastName": "Nuñez Esqueda",
           "sex": "MALE",
           "number": 7,
-          "gamesPlayed": 2,
+          "gamesPlayed": 3,
           "gamesTotal": 26,
-          "gamesPercentage": 8,
+          "gamesPercentage": 12,
           "isActive": true,
           "gamePlayed": null
         },
@@ -15725,9 +15725,9 @@
           "lastName": "Ramirez Villalpando",
           "sex": "MALE",
           "number": 8,
-          "gamesPlayed": 2,
+          "gamesPlayed": 3,
           "gamesTotal": 26,
-          "gamesPercentage": 8,
+          "gamesPercentage": 12,
           "isActive": true,
           "gamePlayed": null
         },
@@ -15736,9 +15736,9 @@
           "lastName": "Macias Velasco",
           "sex": "MALE",
           "number": 10,
-          "gamesPlayed": 2,
+          "gamesPlayed": 3,
           "gamesTotal": 26,
-          "gamesPercentage": 8,
+          "gamesPercentage": 12,
           "isActive": true,
           "gamePlayed": null
         },
@@ -15747,9 +15747,9 @@
           "lastName": "Renteria V",
           "sex": "FEMALE",
           "number": 11,
-          "gamesPlayed": 1,
+          "gamesPlayed": 2,
           "gamesTotal": 26,
-          "gamesPercentage": 4,
+          "gamesPercentage": 8,
           "isActive": true,
           "gamePlayed": null
         },
@@ -15758,9 +15758,9 @@
           "lastName": "Ortega Muñoz",
           "sex": "FEMALE",
           "number": 12,
-          "gamesPlayed": 2,
+          "gamesPlayed": 3,
           "gamesTotal": 26,
-          "gamesPercentage": 8,
+          "gamesPercentage": 12,
           "isActive": true,
           "gamePlayed": null
         },
@@ -15780,9 +15780,9 @@
           "lastName": "Rodriguez A",
           "sex": "MALE",
           "number": 97,
-          "gamesPlayed": 2,
+          "gamesPlayed": 3,
           "gamesTotal": 26,
-          "gamesPercentage": 8,
+          "gamesPercentage": 12,
           "isActive": true,
           "gamePlayed": null
         },
@@ -15842,9 +15842,9 @@
           "lastName": "Duque Elizalde",
           "sex": "FEMALE",
           "number": 2,
-          "gamesPlayed": 2,
+          "gamesPlayed": 3,
           "gamesTotal": 12,
-          "gamesPercentage": 17,
+          "gamesPercentage": 25,
           "isActive": true,
           "gamePlayed": null
         },
@@ -15853,9 +15853,9 @@
           "lastName": "Joaquin Muñoz",
           "sex": "FEMALE",
           "number": 3,
-          "gamesPlayed": 2,
+          "gamesPlayed": 3,
           "gamesTotal": 12,
-          "gamesPercentage": 17,
+          "gamesPercentage": 25,
           "isActive": true,
           "gamePlayed": null
         },
@@ -15875,9 +15875,9 @@
           "lastName": "Macias Nieves",
           "sex": "FEMALE",
           "number": 8,
-          "gamesPlayed": 1,
+          "gamesPlayed": 2,
           "gamesTotal": 12,
-          "gamesPercentage": 8,
+          "gamesPercentage": 17,
           "isActive": true,
           "gamePlayed": null
         },
@@ -15897,9 +15897,9 @@
           "lastName": "Velasco Cuevas",
           "sex": "FEMALE",
           "number": 10,
-          "gamesPlayed": 2,
+          "gamesPlayed": 3,
           "gamesTotal": 12,
-          "gamesPercentage": 17,
+          "gamesPercentage": 25,
           "isActive": true,
           "gamePlayed": null
         },
@@ -15908,9 +15908,9 @@
           "lastName": "Renteria",
           "sex": "FEMALE",
           "number": 12,
-          "gamesPlayed": 2,
+          "gamesPlayed": 3,
           "gamesTotal": 12,
-          "gamesPercentage": 17,
+          "gamesPercentage": 25,
           "isActive": true,
           "gamePlayed": null
         },
@@ -15919,9 +15919,9 @@
           "lastName": "Figueroa Joaquin",
           "sex": "FEMALE",
           "number": 27,
-          "gamesPlayed": 2,
+          "gamesPlayed": 3,
           "gamesTotal": 12,
-          "gamesPercentage": 17,
+          "gamesPercentage": 25,
           "isActive": true,
           "gamePlayed": null
         },
@@ -16142,9 +16142,9 @@
           "lastName": "Martinez Rodriguez",
           "sex": "FEMALE",
           "number": 2,
-          "gamesPlayed": 3,
+          "gamesPlayed": 4,
           "gamesTotal": 26,
-          "gamesPercentage": 12,
+          "gamesPercentage": 15,
           "isActive": true,
           "gamePlayed": null
         },
@@ -16153,9 +16153,9 @@
           "lastName": "Acero Figueroa",
           "sex": "MALE",
           "number": 4,
-          "gamesPlayed": 3,
+          "gamesPlayed": 4,
           "gamesTotal": 26,
-          "gamesPercentage": 12,
+          "gamesPercentage": 15,
           "isActive": true,
           "gamePlayed": null
         },
@@ -16164,9 +16164,9 @@
           "lastName": "Hernandez Leandro",
           "sex": "MALE",
           "number": 9,
-          "gamesPlayed": 3,
+          "gamesPlayed": 4,
           "gamesTotal": 26,
-          "gamesPercentage": 12,
+          "gamesPercentage": 15,
           "isActive": true,
           "gamePlayed": null
         },
@@ -16175,9 +16175,9 @@
           "lastName": "Hernandez Ramos",
           "sex": "FEMALE",
           "number": 11,
-          "gamesPlayed": 3,
+          "gamesPlayed": 4,
           "gamesTotal": 26,
-          "gamesPercentage": 12,
+          "gamesPercentage": 15,
           "isActive": true,
           "gamePlayed": null
         },
@@ -16197,9 +16197,9 @@
           "lastName": "Solis Avila",
           "sex": "FEMALE",
           "number": 20,
-          "gamesPlayed": 3,
+          "gamesPlayed": 4,
           "gamesTotal": 26,
-          "gamesPercentage": 12,
+          "gamesPercentage": 15,
           "isActive": true,
           "gamePlayed": null
         },
@@ -16208,9 +16208,9 @@
           "lastName": "Solis Avila",
           "sex": "MALE",
           "number": 23,
-          "gamesPlayed": 1,
+          "gamesPlayed": 2,
           "gamesTotal": 26,
-          "gamesPercentage": 4,
+          "gamesPercentage": 8,
           "isActive": true,
           "gamePlayed": null
         }
@@ -16234,9 +16234,9 @@
           "lastName": "Varela Mayorga",
           "sex": "FEMALE",
           "number": 5,
-          "gamesPlayed": 1,
+          "gamesPlayed": 3,
           "gamesTotal": 26,
-          "gamesPercentage": 4,
+          "gamesPercentage": 12,
           "isActive": true,
           "gamePlayed": null
         },
@@ -16245,9 +16245,9 @@
           "lastName": "Murillo Lopez",
           "sex": "MALE",
           "number": 7,
-          "gamesPlayed": 2,
+          "gamesPlayed": 4,
           "gamesTotal": 26,
-          "gamesPercentage": 8,
+          "gamesPercentage": 15,
           "isActive": true,
           "gamePlayed": null
         },
@@ -16256,9 +16256,9 @@
           "lastName": "Marquez Garcia",
           "sex": "MALE",
           "number": 9,
-          "gamesPlayed": 2,
+          "gamesPlayed": 4,
           "gamesTotal": 26,
-          "gamesPercentage": 8,
+          "gamesPercentage": 15,
           "isActive": true,
           "gamePlayed": null
         },
@@ -16267,9 +16267,9 @@
           "lastName": "Marquez Solis",
           "sex": "FEMALE",
           "number": 11,
-          "gamesPlayed": 1,
+          "gamesPlayed": 3,
           "gamesTotal": 26,
-          "gamesPercentage": 4,
+          "gamesPercentage": 12,
           "isActive": true,
           "gamePlayed": null
         },
@@ -16278,9 +16278,9 @@
           "lastName": "Marquez Solis",
           "sex": "FEMALE",
           "number": 14,
-          "gamesPlayed": 1,
+          "gamesPlayed": 3,
           "gamesTotal": 26,
-          "gamesPercentage": 4,
+          "gamesPercentage": 12,
           "isActive": true,
           "gamePlayed": null
         },
@@ -16300,9 +16300,9 @@
           "lastName": "Solis Avila",
           "sex": "FEMALE",
           "number": 19,
-          "gamesPlayed": 2,
+          "gamesPlayed": 4,
           "gamesTotal": 26,
-          "gamesPercentage": 8,
+          "gamesPercentage": 15,
           "isActive": true,
           "gamePlayed": null
         },
@@ -16311,9 +16311,9 @@
           "lastName": "Soto Murillo",
           "sex": "MALE",
           "number": 26,
-          "gamesPlayed": 2,
+          "gamesPlayed": 4,
           "gamesTotal": 26,
-          "gamesPercentage": 8,
+          "gamesPercentage": 15,
           "isActive": true,
           "gamePlayed": null
         },
@@ -16649,9 +16649,9 @@
           "lastName": "Leandro Ledezma",
           "sex": "FEMALE",
           "number": 2,
-          "gamesPlayed": 2,
+          "gamesPlayed": 3,
           "gamesTotal": 12,
-          "gamesPercentage": 17,
+          "gamesPercentage": 25,
           "isActive": true,
           "gamePlayed": null
         },
@@ -16660,9 +16660,9 @@
           "lastName": "Nava Vera",
           "sex": "FEMALE",
           "number": 9,
-          "gamesPlayed": 2,
+          "gamesPlayed": 3,
           "gamesTotal": 12,
-          "gamesPercentage": 17,
+          "gamesPercentage": 25,
           "isActive": true,
           "gamePlayed": null
         },
@@ -16671,9 +16671,9 @@
           "lastName": "Ornelas Mendez",
           "sex": "FEMALE",
           "number": 11,
-          "gamesPlayed": 2,
+          "gamesPlayed": 3,
           "gamesTotal": 12,
-          "gamesPercentage": 17,
+          "gamesPercentage": 25,
           "isActive": true,
           "gamePlayed": null
         },
@@ -16682,9 +16682,9 @@
           "lastName": "Bustos Sandoval",
           "sex": "FEMALE",
           "number": 13,
-          "gamesPlayed": 2,
+          "gamesPlayed": 3,
           "gamesTotal": 12,
-          "gamesPercentage": 17,
+          "gamesPercentage": 25,
           "isActive": true,
           "gamePlayed": null
         },
@@ -16693,9 +16693,9 @@
           "lastName": "Martinez Rodriguez",
           "sex": "FEMALE",
           "number": 17,
-          "gamesPlayed": 2,
+          "gamesPlayed": 3,
           "gamesTotal": 12,
-          "gamesPercentage": 17,
+          "gamesPercentage": 25,
           "isActive": true,
           "gamePlayed": null
         },
@@ -16704,9 +16704,9 @@
           "lastName": "Solis Avila",
           "sex": "FEMALE",
           "number": 20,
-          "gamesPlayed": 2,
+          "gamesPlayed": 3,
           "gamesTotal": 12,
-          "gamesPercentage": 17,
+          "gamesPercentage": 25,
           "isActive": true,
           "gamePlayed": null
         },
@@ -16715,9 +16715,9 @@
           "lastName": "Ornelas Mendez",
           "sex": "FEMALE",
           "number": 24,
-          "gamesPlayed": 2,
+          "gamesPlayed": 3,
           "gamesTotal": 12,
-          "gamesPercentage": 17,
+          "gamesPercentage": 25,
           "isActive": true,
           "gamePlayed": null
         },
@@ -16726,9 +16726,9 @@
           "lastName": "Velazquez Perez",
           "sex": "FEMALE",
           "number": 30,
-          "gamesPlayed": 1,
+          "gamesPlayed": 2,
           "gamesTotal": 12,
-          "gamesPercentage": 8,
+          "gamesPercentage": 17,
           "isActive": true,
           "gamePlayed": null
         }
@@ -16752,9 +16752,9 @@
           "lastName": "Nava Vera",
           "sex": "FEMALE",
           "number": 9,
-          "gamesPlayed": 2,
+          "gamesPlayed": 4,
           "gamesTotal": 26,
-          "gamesPercentage": 8,
+          "gamesPercentage": 15,
           "isActive": true,
           "gamePlayed": null
         },
@@ -16763,9 +16763,9 @@
           "lastName": "Leandro Nava",
           "sex": "MALE",
           "number": 10,
-          "gamesPlayed": 2,
+          "gamesPlayed": 4,
           "gamesTotal": 26,
-          "gamesPercentage": 8,
+          "gamesPercentage": 15,
           "isActive": true,
           "gamePlayed": null
         },
@@ -16774,9 +16774,9 @@
           "lastName": "Ornelas Mendez",
           "sex": "FEMALE",
           "number": 24,
-          "gamesPlayed": 2,
+          "gamesPlayed": 4,
           "gamesTotal": 26,
-          "gamesPercentage": 8,
+          "gamesPercentage": 15,
           "isActive": true,
           "gamePlayed": null
         },
@@ -16785,9 +16785,9 @@
           "lastName": "Ornelas Mendez",
           "sex": "FEMALE",
           "number": 25,
-          "gamesPlayed": 2,
+          "gamesPlayed": 3,
           "gamesTotal": 26,
-          "gamesPercentage": 8,
+          "gamesPercentage": 12,
           "isActive": true,
           "gamePlayed": null
         },
@@ -16796,9 +16796,9 @@
           "lastName": "Velazquez Perez",
           "sex": "FEMALE",
           "number": 30,
-          "gamesPlayed": 2,
+          "gamesPlayed": 4,
           "gamesTotal": 26,
-          "gamesPercentage": 8,
+          "gamesPercentage": 15,
           "isActive": true,
           "gamePlayed": null
         },
@@ -16807,9 +16807,9 @@
           "lastName": "Leandro Perez",
           "sex": "MALE",
           "number": 31,
-          "gamesPlayed": 2,
+          "gamesPlayed": 4,
           "gamesTotal": 26,
-          "gamesPercentage": 8,
+          "gamesPercentage": 15,
           "isActive": true,
           "gamePlayed": null
         },
@@ -16818,9 +16818,9 @@
           "lastName": "Macias Nieves",
           "sex": "MALE",
           "number": 98,
-          "gamesPlayed": 0,
-          "gamesTotal": 0,
-          "gamesPercentage": 0,
+          "gamesPlayed": 2,
+          "gamesTotal": 26,
+          "gamesPercentage": 8,
           "isActive": true,
           "gamePlayed": null
         },
@@ -16829,9 +16829,9 @@
           "lastName": "Marquez Ruiz",
           "sex": "MALE",
           "number": 99,
-          "gamesPlayed": 1,
+          "gamesPlayed": 2,
           "gamesTotal": 26,
-          "gamesPercentage": 4,
+          "gamesPercentage": 8,
           "isActive": true,
           "gamePlayed": null
         }

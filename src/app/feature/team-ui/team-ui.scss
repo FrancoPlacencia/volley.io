@@ -10,8 +10,6 @@
   padding: 10px;
 
   mat-card {
-    /*background-color: var(--mat-sys-surface-dim) !important;*/
-
     mat-card-content {
       display: flex;
       flex-direction: column;
@@ -33,30 +31,63 @@
 
           font-weight: 500;
           padding: 5px;
-          font-size: 1.5rem;
+          font-size: 1.25rem;
         }
         .player-games {
           width: 40%;
           padding: 5px;
-          font-size: 1.5rem;
+          font-size: 1.25rem;
         }
         .player-porcentage {
           width: 40%;
           padding: 5px;
-          font-size: 1.5rem;
+          font-size: 1.25rem;
         }
       }
 
       .player-name {
         padding-bottom: 10px;
-        font-size: 1.5rem;
+        font-size: 1.25rem;
+      }
+    }
+  }
+}
+
+/* mobile */
+@media (max-width: 480px) {
+  .player-container {
+    grid-template-columns: repeat(2, 50%);
+  }
+
+  .player-card {
+    padding: 5px;
+    mat-card {
+      mat-card-content {
+        padding: 5px !important;
+
+        .player-info {
+          .player-number {
+            font-size: 0.75rem;
+            padding-bottom: 0px;
+          }
+          .player-games {
+            font-size: 0.75rem;
+          }
+          .player-porcentage {
+            font-size: 0.75rem;
+          }
+        }
+        .player-name {
+          font-size: 0.75rem;
+          padding-bottom: 0px;
+        }
       }
     }
   }
 }
 
 /* tables and small laptops */
-@media (min-width: 769px) and (max-width: 1024px) {
+@media (min-width: 481px) and (max-width: 768px) {
   .player-container {
     grid-template-columns: repeat(3, 33%);
   }
@@ -79,37 +110,6 @@
         }
         .player-name {
           font-size: 1rem;
-        }
-      }
-    }
-  }
-}
-
-/* mobile */
-@media (max-width: 767px) {
-  .player-container {
-    grid-template-columns: repeat(2, 50%);
-  }
-
-  .player-card {
-    mat-card {
-      mat-card-content {
-        padding: 5px !important;
-
-        .player-info {
-          .player-number {
-            font-size: 0.75rem;
-            padding-bottom: 0px;
-          }
-          .player-games {
-            font-size: 0.75rem;
-          }
-          .player-porcentage {
-            font-size: 0.75rem;
-          }
-        }
-        .player-name {
-          font-size: 0.75rem;
         }
       }
     }
