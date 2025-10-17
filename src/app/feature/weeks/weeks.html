@@ -1,7 +1,0 @@
-<mat-tab-group #weeksTab [selectedIndex]="weeksMap().size">
-  @for (week of weeksMap(); track week[0]) {
-  <mat-tab [label]="'J' + week[0]">
-    <app-week [days]="week[1]" [displayName]="true"></app-week>
-  </mat-tab>
-  }
-</mat-tab-group>
