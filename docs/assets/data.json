@@ -45302,6 +45302,2714 @@
                     ]
                 }
             ]
+        },
+        {
+            "weekNumber": 18,
+            "category": "MIXTO",
+            "stage": "REGULAR",
+            "gameDate": "2026-01-19T23:30:00.000+00:00",
+            "gamePlace": "ARRIBA",
+            "byDefault": false,
+            "teamStats": [
+                {
+                    "teamName": "CHIQUE MIX",
+                    "score": 1,
+                    "sets": 2,
+                    "points": 56,
+                    "state": "WINNER",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "state": "LOSSER",
+                            "points": 16
+                        },
+                        {
+                            "setNumber": 2,
+                            "state": "WINNER",
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 3,
+                            "state": "WINNER",
+                            "points": 15
+                        },
+                        {
+                            "setNumber": 4,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 5,
+                            "state": "PENDING",
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 2,
+                            "name": "Ricardo Ledesma",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 3,
+                            "name": "Melisa Rodriguez",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 5,
+                            "name": "Maria de Jesus Cerros",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 6,
+                            "name": "Cristian Teofilo Sandoval Cerros",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 7,
+                            "name": "Javier Sandoval",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 8,
+                            "name": "Lourdes Cerros Almaraz",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 9,
+                            "name": "Armando Vera",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 10,
+                            "name": "Wendali Adilene Ledezma Almaraz",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 12,
+                            "name": "Sarel Guadalupe Figueroa G",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 17,
+                            "name": "Veronica Itzel Rodriguez Rodriguez",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 18,
+                            "name": "Brayan de Jesus Varela Mayorga",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 27,
+                            "name": "Joel Martinez Valdez",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 30,
+                            "name": "Karla Alejandra Barajas Avila",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 108,
+                            "name": "Erick Saldaña",
+                            "gamePlayed": true
+                        }
+                    ]
+                },
+                {
+                    "teamName": "SPIKERS",
+                    "score": 0,
+                    "sets": 1,
+                    "points": 55,
+                    "state": "LOSSER",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "state": "WINNER",
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 2,
+                            "state": "LOSSER",
+                            "points": 20
+                        },
+                        {
+                            "setNumber": 3,
+                            "state": "LOSSER",
+                            "points": 10
+                        },
+                        {
+                            "setNumber": 4,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 5,
+                            "state": "PENDING",
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 5,
+                            "name": "Mariana Catalina Varela Mayorga",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 7,
+                            "name": "Cesar Murillo Lopez",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 9,
+                            "name": "Manuel de A Marquez Garcia",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 11,
+                            "name": "Victoria Marquez Solis",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 14,
+                            "name": "Joselyn Marquez Solis",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 16,
+                            "name": "Isela Rojas Muñoz",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 19,
+                            "name": "Lucy Solis Avila",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 25,
+                            "name": "Edi Santiago Padilla Solis",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 26,
+                            "name": "Manuel de Jesus Soto Murillo",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 27,
+                            "name": "Edgar Delgado Contreras",
+                            "gamePlayed": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "weekNumber": 18,
+            "category": "MIXTO",
+            "stage": "REGULAR",
+            "gameDate": "2026-01-19T23:30:00.000+00:00",
+            "gamePlace": "ABAJO",
+            "byDefault": false,
+            "teamStats": [
+                {
+                    "teamName": "FENIX",
+                    "score": 1,
+                    "sets": 2,
+                    "points": 50,
+                    "state": "WINNER",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "state": "WINNER",
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 2,
+                            "state": "WINNER",
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 3,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 4,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 5,
+                            "state": "PENDING",
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 1,
+                            "name": "Salvador Zorrilla Hernandez",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 2,
+                            "name": "Martha Juanita Duque Elizalde",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 7,
+                            "name": "Gildardo Leandro Leandro",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 10,
+                            "name": "Sandra Leticia Velasco Cuevas",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 14,
+                            "name": "Leonardo Daniel Cerros Medina",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 16,
+                            "name": "Jairo Ruiz Pulido",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 19,
+                            "name": "Jose Alberto Bernal Ruvira",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 27,
+                            "name": "Estrella Guadalupe Figueroa Joaquin",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 31,
+                            "name": "Giselle Mary Renteria",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 99,
+                            "name": "Efrain Avila Rodriguez",
+                            "gamePlayed": false
+                        }
+                    ]
+                },
+                {
+                    "teamName": "TIBURONES",
+                    "score": 0,
+                    "sets": 0,
+                    "points": 27,
+                    "state": "LOSSER",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "state": "LOSSER",
+                            "points": 9
+                        },
+                        {
+                            "setNumber": 2,
+                            "state": "LOSSER",
+                            "points": 18
+                        },
+                        {
+                            "setNumber": 3,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 4,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 5,
+                            "state": "PENDING",
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 1,
+                            "name": "Marlen Lechuga",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 5,
+                            "name": "Adan Gutierrez",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 7,
+                            "name": "Jesus Camacho",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 9,
+                            "name": "Carlos Vicencio Raygoza",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 10,
+                            "name": "Pablo Vicencio",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 11,
+                            "name": "Marisol Guitierrez Torres",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 13,
+                            "name": "Jimena Frausto",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 14,
+                            "name": "Ricardo Santa Cruz",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 16,
+                            "name": "Gustavo Vicencio",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 23,
+                            "name": "Frida Frausto",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 28,
+                            "name": "Areli Raygoza",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 55,
+                            "name": "Carlos Vicencio",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 77,
+                            "name": "Antonio Frausto",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 100,
+                            "name": "Daisy Denise Vicencio",
+                            "gamePlayed": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "weekNumber": 18,
+            "category": "MIXTO",
+            "stage": "REGULAR",
+            "gameDate": "2026-01-20T00:30:00.000+00:00",
+            "gamePlace": "ARRIBA",
+            "byDefault": false,
+            "teamStats": [
+                {
+                    "teamName": "CAZADORES",
+                    "score": 0,
+                    "sets": 0,
+                    "points": 15,
+                    "state": "LOSSER",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "state": "LOSSER",
+                            "points": 5
+                        },
+                        {
+                            "setNumber": 2,
+                            "state": "LOSSER",
+                            "points": 10
+                        },
+                        {
+                            "setNumber": 3,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 4,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 5,
+                            "state": "PENDING",
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 2,
+                            "name": "Martina Alvarado Barajas",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 3,
+                            "name": "Luz Elena Joaquin Muñoz",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 4,
+                            "name": "Pahola Deni Velasco Valdez",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 5,
+                            "name": "Jonathan de Jesus Padilla Ortiz",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 7,
+                            "name": "Rebeca Bernal Rubira",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 9,
+                            "name": "Sergio E Robles Leaños",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 10,
+                            "name": "Claudia Rodriguez Martinez",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 11,
+                            "name": "Francisco Emmanuel Placencia Castellanos",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 16,
+                            "name": "Nicolas Ramos",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 18,
+                            "name": "Elizabeth Macias Nieves",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 25,
+                            "name": "Dulce Maria Figueroa Joaquin",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 27,
+                            "name": "Marco Antonio Alvarado Romo",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 50,
+                            "name": "Armando Ramirez",
+                            "gamePlayed": false
+                        }
+                    ]
+                },
+                {
+                    "teamName": "RENCOROSOS",
+                    "score": 1,
+                    "sets": 2,
+                    "points": 50,
+                    "state": "WINNER",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "state": "WINNER",
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 2,
+                            "state": "WINNER",
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 3,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 4,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 5,
+                            "state": "PENDING",
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 1,
+                            "name": "Marco Aurelio Martinez Rodriguez",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 2,
+                            "name": "Ruth Alejandra Martinez Rodriguez",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 4,
+                            "name": "Mario Alfredo Acero Figueroa",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 9,
+                            "name": "Manuel Hernandez Leandro",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 11,
+                            "name": "Ana Xochitl Hernandez Ramos",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 17,
+                            "name": "Karina Michelle Martinez Rodriguez",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 20,
+                            "name": "Perla Iveth Solis Avila",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 23,
+                            "name": "Diego Daniel Solis Avila",
+                            "gamePlayed": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "weekNumber": 18,
+            "category": "MIXTO",
+            "stage": "REGULAR",
+            "gameDate": "2026-01-20T00:30:00.000+00:00",
+            "gamePlace": "ABAJO",
+            "byDefault": false,
+            "teamStats": [
+                {
+                    "teamName": "CHIQUE MIX",
+                    "score": 1,
+                    "sets": 2,
+                    "points": 50,
+                    "state": "WINNER",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "state": "WINNER",
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 2,
+                            "state": "WINNER",
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 3,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 4,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 5,
+                            "state": "PENDING",
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 2,
+                            "name": "Ricardo Ledesma",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 3,
+                            "name": "Melisa Rodriguez",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 5,
+                            "name": "Maria de Jesus Cerros",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 6,
+                            "name": "Cristian Teofilo Sandoval Cerros",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 7,
+                            "name": "Javier Sandoval",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 8,
+                            "name": "Lourdes Cerros Almaraz",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 9,
+                            "name": "Armando Vera",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 10,
+                            "name": "Wendali Adilene Ledezma Almaraz",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 12,
+                            "name": "Sarel Guadalupe Figueroa G",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 17,
+                            "name": "Veronica Itzel Rodriguez Rodriguez",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 18,
+                            "name": "Brayan de Jesus Varela Mayorga",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 27,
+                            "name": "Joel Martinez Valdez",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 30,
+                            "name": "Karla Alejandra Barajas Avila",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 108,
+                            "name": "Erick Saldaña",
+                            "gamePlayed": true
+                        }
+                    ]
+                },
+                {
+                    "teamName": "GUERREROS",
+                    "score": 0,
+                    "sets": 0,
+                    "points": 28,
+                    "state": "LOSSER",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "state": "LOSSER",
+                            "points": 15
+                        },
+                        {
+                            "setNumber": 2,
+                            "state": "LOSSER",
+                            "points": 13
+                        },
+                        {
+                            "setNumber": 3,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 4,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 5,
+                            "state": "PENDING",
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 2,
+                            "name": "Abigail Olegario Muñoz Saldaña",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 3,
+                            "name": "Alexis Barajas Sandoval",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 6,
+                            "name": "Jose Eduardo Rodriguez Vivencio",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 11,
+                            "name": "Jonathan Lopez Jimenez",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 13,
+                            "name": "Francisco Duque Elizalde",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 15,
+                            "name": "Juan Jose Saldaña Muñoz",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 16,
+                            "name": "Cecilia Velasco Ruvalcaba",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 18,
+                            "name": "Juan Pablo Saldaña Velasco",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 21,
+                            "name": "Maribel Velasco Ruvalcaba",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 23,
+                            "name": "Ana Laura Avila Grijalva",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 26,
+                            "name": "Emilse Palma Ramirez",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 30,
+                            "name": "Yazmin Gonzalez Perez",
+                            "gamePlayed": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "weekNumber": 18,
+            "category": "MIXTO",
+            "stage": "REGULAR",
+            "gameDate": "2026-01-20T01:30:00.000+00:00",
+            "gamePlace": "ARRIBA",
+            "byDefault": false,
+            "teamStats": [
+                {
+                    "teamName": "CHIQUE MIX",
+                    "score": 1,
+                    "sets": 2,
+                    "points": 50,
+                    "state": "WINNER",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "state": "WINNER",
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 2,
+                            "state": "WINNER",
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 3,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 4,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 5,
+                            "state": "PENDING",
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 2,
+                            "name": "Ricardo Ledesma",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 3,
+                            "name": "Melisa Rodriguez",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 5,
+                            "name": "Maria de Jesus Cerros",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 6,
+                            "name": "Cristian Teofilo Sandoval Cerros",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 7,
+                            "name": "Javier Sandoval",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 8,
+                            "name": "Lourdes Cerros Almaraz",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 9,
+                            "name": "Armando Vera",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 10,
+                            "name": "Wendali Adilene Ledezma Almaraz",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 12,
+                            "name": "Sarel Guadalupe Figueroa G",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 17,
+                            "name": "Veronica Itzel Rodriguez Rodriguez",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 18,
+                            "name": "Brayan de Jesus Varela Mayorga",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 27,
+                            "name": "Joel Martinez Valdez",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 30,
+                            "name": "Karla Alejandra Barajas Avila",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 108,
+                            "name": "Erick Saldaña",
+                            "gamePlayed": true
+                        }
+                    ]
+                },
+                {
+                    "teamName": "VIKINGOS MIX",
+                    "score": 0,
+                    "sets": 0,
+                    "points": 35,
+                    "state": "LOSSER",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "state": "LOSSER",
+                            "points": 22
+                        },
+                        {
+                            "setNumber": 2,
+                            "state": "LOSSER",
+                            "points": 13
+                        },
+                        {
+                            "setNumber": 3,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 4,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 5,
+                            "state": "PENDING",
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 9,
+                            "name": "Yazmin Gisela Nava Vera",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 10,
+                            "name": "Jorge Luis Leandro Nava",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 12,
+                            "name": "Luis Jesus Macias Nieves",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 24,
+                            "name": "Marlene Ornelas Mendez",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 25,
+                            "name": "Liliana Ornelas Mendez",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 27,
+                            "name": "Ruben Marquez Ruiz",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 30,
+                            "name": "Floricel Velazquez Perez",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 31,
+                            "name": "David Leandro Perez",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 127,
+                            "name": "Aurelio Sigaca",
+                            "gamePlayed": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "weekNumber": 18,
+            "category": "MIXTO",
+            "stage": "REGULAR",
+            "gameDate": "2026-01-20T01:30:00.000+00:00",
+            "gamePlace": "ARRIBA",
+            "byDefault": false,
+            "teamStats": [
+                {
+                    "teamName": "RENCOROSOS",
+                    "score": 1,
+                    "sets": 2,
+                    "points": 50,
+                    "state": "WINNER",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "state": "WINNER",
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 2,
+                            "state": "WINNER",
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 3,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 4,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 5,
+                            "state": "PENDING",
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 1,
+                            "name": "Marco Aurelio Martinez Rodriguez",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 2,
+                            "name": "Ruth Alejandra Martinez Rodriguez",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 4,
+                            "name": "Mario Alfredo Acero Figueroa",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 9,
+                            "name": "Manuel Hernandez Leandro",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 11,
+                            "name": "Ana Xochitl Hernandez Ramos",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 17,
+                            "name": "Karina Michelle Martinez Rodriguez",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 20,
+                            "name": "Perla Iveth Solis Avila",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 23,
+                            "name": "Diego Daniel Solis Avila",
+                            "gamePlayed": true
+                        }
+                    ]
+                },
+                {
+                    "teamName": "GUERREROS",
+                    "score": 0,
+                    "sets": 0,
+                    "points": 23,
+                    "state": "LOSSER",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "state": "LOSSER",
+                            "points": 11
+                        },
+                        {
+                            "setNumber": 2,
+                            "state": "LOSSER",
+                            "points": 12
+                        },
+                        {
+                            "setNumber": 3,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 4,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 5,
+                            "state": "PENDING",
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 2,
+                            "name": "Abigail Olegario Muñoz Saldaña",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 3,
+                            "name": "Alexis Barajas Sandoval",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 6,
+                            "name": "Jose Eduardo Rodriguez Vivencio",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 11,
+                            "name": "Jonathan Lopez Jimenez",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 13,
+                            "name": "Francisco Duque Elizalde",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 15,
+                            "name": "Juan Jose Saldaña Muñoz",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 16,
+                            "name": "Cecilia Velasco Ruvalcaba",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 18,
+                            "name": "Juan Pablo Saldaña Velasco",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 21,
+                            "name": "Maribel Velasco Ruvalcaba",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 23,
+                            "name": "Ana Laura Avila Grijalva",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 26,
+                            "name": "Emilse Palma Ramirez",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 30,
+                            "name": "Yazmin Gonzalez Perez",
+                            "gamePlayed": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "weekNumber": 18,
+            "category": "MIXTO",
+            "stage": "REGULAR",
+            "gameDate": "2026-01-20T23:30:00.000+00:00",
+            "gamePlace": "ABAJO",
+            "byDefault": false,
+            "teamStats": [
+                {
+                    "teamName": "MIXTICOS",
+                    "score": 1,
+                    "sets": 2,
+                    "points": 50,
+                    "state": "WINNER",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "state": "WINNER",
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 2,
+                            "state": "WINNER",
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 3,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 4,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 5,
+                            "state": "PENDING",
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 1,
+                            "name": "Nancy Ortega Muñoz",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 3,
+                            "name": "Jose Luis Vazquez Luevano",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 7,
+                            "name": "Alonso Nuñez Esqueda",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 8,
+                            "name": "Jibran Ulises Ramirez Villalpando",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 10,
+                            "name": "Taurino Macias Velasco",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 11,
+                            "name": "Esmeralda Renteria V",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 12,
+                            "name": "Maria de Jesus Ortega Muñoz",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 14,
+                            "name": "German Rodriguez Arambula",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 15,
+                            "name": "Oscar Raudel Leandro Orozco",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 16,
+                            "name": "Maria Guadalupe Nuñez Esqueda",
+                            "gamePlayed": false
+                        }
+                    ]
+                },
+                {
+                    "teamName": "GUERREROS",
+                    "score": 0,
+                    "sets": 0,
+                    "points": 32,
+                    "state": "LOSSER",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "state": "LOSSER",
+                            "points": 15
+                        },
+                        {
+                            "setNumber": 2,
+                            "state": "LOSSER",
+                            "points": 17
+                        },
+                        {
+                            "setNumber": 3,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 4,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 5,
+                            "state": "PENDING",
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 2,
+                            "name": "Abigail Olegario Muñoz Saldaña",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 3,
+                            "name": "Alexis Barajas Sandoval",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 6,
+                            "name": "Jose Eduardo Rodriguez Vivencio",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 11,
+                            "name": "Jonathan Lopez Jimenez",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 13,
+                            "name": "Francisco Duque Elizalde",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 15,
+                            "name": "Juan Jose Saldaña Muñoz",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 16,
+                            "name": "Cecilia Velasco Ruvalcaba",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 18,
+                            "name": "Juan Pablo Saldaña Velasco",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 21,
+                            "name": "Maribel Velasco Ruvalcaba",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 23,
+                            "name": "Ana Laura Avila Grijalva",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 26,
+                            "name": "Emilse Palma Ramirez",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 30,
+                            "name": "Yazmin Gonzalez Perez",
+                            "gamePlayed": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "weekNumber": 18,
+            "category": "MIXTO",
+            "stage": "REGULAR",
+            "gameDate": "2026-01-21T00:30:00.000+00:00",
+            "gamePlace": "ABAJO",
+            "byDefault": true,
+            "teamStats": [
+                {
+                    "teamName": "HUANUSCO",
+                    "score": 0,
+                    "sets": 0,
+                    "points": 0,
+                    "state": "DEFAULT",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "state": "DEFAULT",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 2,
+                            "state": "DEFAULT",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 3,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 4,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 5,
+                            "state": "PENDING",
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 4,
+                            "name": "Francisco Enriquez Hernandez",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 5,
+                            "name": "Lucia Valenzuela Perez",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 10,
+                            "name": "Kenia Yali Robles Nuñez",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 12,
+                            "name": "Valeria Ortega Rodriguez",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 23,
+                            "name": "Brisa Maria Chavez Frausto",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 24,
+                            "name": "Aaron Rojas Perez",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 96,
+                            "name": "Erick Ortega Rodriguez",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 97,
+                            "name": "Kender Nesta Valenzuela",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 98,
+                            "name": "Emilio Pereira Rodriguez",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 99,
+                            "name": "Ramon Uriel Torres Ruvalcaba",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 924,
+                            "name": "Alejandra Sofia Serrano Velasco",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 999,
+                            "name": "Emmanuel Alvarez Guerrero",
+                            "gamePlayed": false
+                        }
+                    ]
+                },
+                {
+                    "teamName": "MIXTICOS",
+                    "score": 1,
+                    "sets": 2,
+                    "points": 50,
+                    "state": "WINNER",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "state": "WINNER",
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 2,
+                            "state": "WINNER",
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 3,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 4,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 5,
+                            "state": "PENDING",
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 1,
+                            "name": "Nancy Ortega Muñoz",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 3,
+                            "name": "Jose Luis Vazquez Luevano",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 7,
+                            "name": "Alonso Nuñez Esqueda",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 8,
+                            "name": "Jibran Ulises Ramirez Villalpando",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 10,
+                            "name": "Taurino Macias Velasco",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 11,
+                            "name": "Esmeralda Renteria V",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 12,
+                            "name": "Maria de Jesus Ortega Muñoz",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 14,
+                            "name": "German Rodriguez Arambula",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 15,
+                            "name": "Oscar Raudel Leandro Orozco",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 16,
+                            "name": "Maria Guadalupe Nuñez Esqueda",
+                            "gamePlayed": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "weekNumber": 18,
+            "category": "MIXTO",
+            "stage": "REGULAR",
+            "gameDate": "2026-01-21T01:30:00.000+00:00",
+            "gamePlace": "ABAJO",
+            "byDefault": false,
+            "teamStats": [
+                {
+                    "teamName": "HUANUSCO",
+                    "score": 1,
+                    "sets": 2,
+                    "points": 53,
+                    "state": "WINNER",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "state": "LOSSER",
+                            "points": 13
+                        },
+                        {
+                            "setNumber": 2,
+                            "state": "WINNER",
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 3,
+                            "state": "WINNER",
+                            "points": 15
+                        },
+                        {
+                            "setNumber": 4,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 5,
+                            "state": "PENDING",
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 4,
+                            "name": "Francisco Enriquez Hernandez",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 5,
+                            "name": "Lucia Valenzuela Perez",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 10,
+                            "name": "Kenia Yali Robles Nuñez",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 12,
+                            "name": "Valeria Ortega Rodriguez",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 23,
+                            "name": "Brisa Maria Chavez Frausto",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 24,
+                            "name": "Aaron Rojas Perez",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 96,
+                            "name": "Erick Ortega Rodriguez",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 97,
+                            "name": "Kender Nesta Valenzuela",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 98,
+                            "name": "Emilio Pereira Rodriguez",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 99,
+                            "name": "Ramon Uriel Torres Ruvalcaba",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 924,
+                            "name": "Alejandra Sofia Serrano Velasco",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 999,
+                            "name": "Emmanuel Alvarez Guerrero",
+                            "gamePlayed": false
+                        }
+                    ]
+                },
+                {
+                    "teamName": "VIKINGOS MIX",
+                    "score": 0,
+                    "sets": 1,
+                    "points": 58,
+                    "state": "LOSSER",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "state": "WINNER",
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 2,
+                            "state": "LOSSER",
+                            "points": 22
+                        },
+                        {
+                            "setNumber": 3,
+                            "state": "LOSSER",
+                            "points": 11
+                        },
+                        {
+                            "setNumber": 4,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 5,
+                            "state": "PENDING",
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 9,
+                            "name": "Yazmin Gisela Nava Vera",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 10,
+                            "name": "Jorge Luis Leandro Nava",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 12,
+                            "name": "Luis Jesus Macias Nieves",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 24,
+                            "name": "Marlene Ornelas Mendez",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 25,
+                            "name": "Liliana Ornelas Mendez",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 27,
+                            "name": "Ruben Marquez Ruiz",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 30,
+                            "name": "Floricel Velazquez Perez",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 31,
+                            "name": "David Leandro Perez",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 127,
+                            "name": "Aurelio Sigaca",
+                            "gamePlayed": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "weekNumber": 18,
+            "category": "MIXTO",
+            "stage": "REGULAR",
+            "gameDate": "2026-01-21T02:30:00.000+00:00",
+            "gamePlace": "ABAJO",
+            "byDefault": false,
+            "teamStats": [
+                {
+                    "teamName": "RENCOROSOS",
+                    "score": 1,
+                    "sets": 2,
+                    "points": 50,
+                    "state": "WINNER",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "state": "WINNER",
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 2,
+                            "state": "WINNER",
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 3,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 4,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 5,
+                            "state": "PENDING",
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 1,
+                            "name": "Marco Aurelio Martinez Rodriguez",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 2,
+                            "name": "Ruth Alejandra Martinez Rodriguez",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 4,
+                            "name": "Mario Alfredo Acero Figueroa",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 9,
+                            "name": "Manuel Hernandez Leandro",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 11,
+                            "name": "Ana Xochitl Hernandez Ramos",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 17,
+                            "name": "Karina Michelle Martinez Rodriguez",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 20,
+                            "name": "Perla Iveth Solis Avila",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 23,
+                            "name": "Diego Daniel Solis Avila",
+                            "gamePlayed": true
+                        }
+                    ]
+                },
+                {
+                    "teamName": "TIBURONES",
+                    "score": 0,
+                    "sets": 0,
+                    "points": 22,
+                    "state": "LOSSER",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "state": "LOSSER",
+                            "points": 8
+                        },
+                        {
+                            "setNumber": 2,
+                            "state": "LOSSER",
+                            "points": 14
+                        },
+                        {
+                            "setNumber": 3,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 4,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 5,
+                            "state": "PENDING",
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 1,
+                            "name": "Marlen Lechuga",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 5,
+                            "name": "Adan Gutierrez",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 7,
+                            "name": "Jesus Camacho",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 9,
+                            "name": "Carlos Vicencio Raygoza",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 10,
+                            "name": "Pablo Vicencio",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 11,
+                            "name": "Marisol Guitierrez Torres",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 13,
+                            "name": "Jimena Frausto",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 14,
+                            "name": "Ricardo Santa Cruz",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 16,
+                            "name": "Gustavo Vicencio",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 23,
+                            "name": "Frida Frausto",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 28,
+                            "name": "Areli Raygoza",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 55,
+                            "name": "Carlos Vicencio",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 77,
+                            "name": "Antonio Frausto",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 100,
+                            "name": "Daisy Denise Vicencio",
+                            "gamePlayed": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "weekNumber": 18,
+            "category": "MIXTO",
+            "stage": "REGULAR",
+            "gameDate": "2026-01-21T23:30:00.000+00:00",
+            "gamePlace": "ARRIBA",
+            "byDefault": false,
+            "teamStats": [
+                {
+                    "teamName": "CAZADORES",
+                    "score": 0,
+                    "sets": 1,
+                    "points": 47,
+                    "state": "LOSSER",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "state": "LOSSER",
+                            "points": 15
+                        },
+                        {
+                            "setNumber": 2,
+                            "state": "WINNER",
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 3,
+                            "state": "LOSSER",
+                            "points": 7
+                        },
+                        {
+                            "setNumber": 4,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 5,
+                            "state": "PENDING",
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 2,
+                            "name": "Martina Alvarado Barajas",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 3,
+                            "name": "Luz Elena Joaquin Muñoz",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 4,
+                            "name": "Pahola Deni Velasco Valdez",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 5,
+                            "name": "Jonathan de Jesus Padilla Ortiz",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 7,
+                            "name": "Rebeca Bernal Rubira",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 9,
+                            "name": "Sergio E Robles Leaños",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 10,
+                            "name": "Claudia Rodriguez Martinez",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 11,
+                            "name": "Francisco Emmanuel Placencia Castellanos",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 16,
+                            "name": "Nicolas Ramos",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 18,
+                            "name": "Elizabeth Macias Nieves",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 25,
+                            "name": "Dulce Maria Figueroa Joaquin",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 27,
+                            "name": "Marco Antonio Alvarado Romo",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 50,
+                            "name": "Armando Ramirez",
+                            "gamePlayed": false
+                        }
+                    ]
+                },
+                {
+                    "teamName": "FENIX",
+                    "score": 1,
+                    "sets": 2,
+                    "points": 59,
+                    "state": "WINNER",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "state": "WINNER",
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 2,
+                            "state": "LOSSER",
+                            "points": 19
+                        },
+                        {
+                            "setNumber": 3,
+                            "state": "WINNER",
+                            "points": 15
+                        },
+                        {
+                            "setNumber": 4,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 5,
+                            "state": "PENDING",
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 1,
+                            "name": "Salvador Zorrilla Hernandez",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 2,
+                            "name": "Martha Juanita Duque Elizalde",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 7,
+                            "name": "Gildardo Leandro Leandro",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 10,
+                            "name": "Sandra Leticia Velasco Cuevas",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 14,
+                            "name": "Leonardo Daniel Cerros Medina",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 16,
+                            "name": "Jairo Ruiz Pulido",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 19,
+                            "name": "Jose Alberto Bernal Ruvira",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 27,
+                            "name": "Estrella Guadalupe Figueroa Joaquin",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 31,
+                            "name": "Giselle Mary Renteria",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 99,
+                            "name": "Efrain Avila Rodriguez",
+                            "gamePlayed": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "weekNumber": 18,
+            "category": "VARONIL",
+            "stage": "REGULAR",
+            "gameDate": "2026-01-22T00:30:00.000+00:00",
+            "gamePlace": "ARRIBA",
+            "byDefault": true,
+            "teamStats": [
+                {
+                    "teamName": "CIERVOS",
+                    "score": 0,
+                    "sets": 0,
+                    "points": 0,
+                    "state": "PENDING",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 2,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 3,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 4,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 5,
+                            "state": "PENDING",
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 1,
+                            "name": "Victor Daniel Ropon Lopez",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 2,
+                            "name": "Juan de Dios Ronpon Lopez",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 4,
+                            "name": "Fabian Neftali De Loera Lopez",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 6,
+                            "name": "Eduardo Velasco Ramirez",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 7,
+                            "name": "Aldo Sebastian Gonzalez Valdivia",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 9,
+                            "name": "Oscar Alan Valdivia Gallegos",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 11,
+                            "name": "Emiliano Saucedo Rodriguez",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 12,
+                            "name": "J Jesus Rosales Soto",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 17,
+                            "name": "Kevin Emmanuel Romo Pacheco",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 104,
+                            "name": "Cesar Saucedo",
+                            "gamePlayed": false
+                        }
+                    ]
+                },
+                {
+                    "teamName": "VAGOS",
+                    "score": 0,
+                    "sets": 0,
+                    "points": 0,
+                    "state": "PENDING",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 2,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 3,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 4,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 5,
+                            "state": "PENDING",
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 2,
+                            "name": "Oliver Echeverria B",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 7,
+                            "name": "Ivan Echeverria B",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 15,
+                            "name": "Giovani Rodriguez",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 25,
+                            "name": "Erik Echeverria B",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 40,
+                            "name": "Alejandro Rodriguez",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 100,
+                            "name": "Manuel Almanza",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 998,
+                            "name": "Alexis Daniel Loera Muñoz",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 999,
+                            "name": "Javier Echeverria B",
+                            "gamePlayed": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "weekNumber": 18,
+            "category": "MIXTO",
+            "stage": "REGULAR",
+            "gameDate": "2026-01-22T01:30:00.000+00:00",
+            "gamePlace": "ARRIBA",
+            "byDefault": false,
+            "teamStats": [
+                {
+                    "teamName": "VIKINGOS MIX",
+                    "score": 0,
+                    "sets": 0,
+                    "points": 30,
+                    "state": "LOSSER",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "state": "LOSSER",
+                            "points": 17
+                        },
+                        {
+                            "setNumber": 2,
+                            "state": "LOSSER",
+                            "points": 13
+                        },
+                        {
+                            "setNumber": 3,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 4,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 5,
+                            "state": "PENDING",
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 9,
+                            "name": "Yazmin Gisela Nava Vera",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 10,
+                            "name": "Jorge Luis Leandro Nava",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 12,
+                            "name": "Luis Jesus Macias Nieves",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 24,
+                            "name": "Marlene Ornelas Mendez",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 25,
+                            "name": "Liliana Ornelas Mendez",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 27,
+                            "name": "Ruben Marquez Ruiz",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 30,
+                            "name": "Floricel Velazquez Perez",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 31,
+                            "name": "David Leandro Perez",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 127,
+                            "name": "Aurelio Sigaca",
+                            "gamePlayed": false
+                        }
+                    ]
+                },
+                {
+                    "teamName": "VENGADORES",
+                    "score": 1,
+                    "sets": 2,
+                    "points": 50,
+                    "state": "WINNER",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "state": "WINNER",
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 2,
+                            "state": "WINNER",
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 3,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 4,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 5,
+                            "state": "PENDING",
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 1,
+                            "name": "Alondra Isabel Robles Davalos",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 2,
+                            "name": "Fabian Rodriguez",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 5,
+                            "name": "Lizbeth Alejandra Velasco Valdez",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 7,
+                            "name": "Jimena Valadez Leandro",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 8,
+                            "name": "Alexis Daniel Loera Muñoz",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 13,
+                            "name": "Jairo Alejandro Vera Ruvira",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 14,
+                            "name": "Marisol Estrada Avila",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 24,
+                            "name": "Ximena Padilla",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 100,
+                            "name": "Eduardo Robles",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 101,
+                            "name": "Naileah Padilla",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 107,
+                            "name": "Fabricio Romo Rodriguez",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 114,
+                            "name": "Oswaldo Meza",
+                            "gamePlayed": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "weekNumber": 18,
+            "category": "MIXTO",
+            "stage": "REGULAR",
+            "gameDate": "2026-01-22T02:30:00.000+00:00",
+            "gamePlace": "ARRIBA",
+            "byDefault": false,
+            "teamStats": [
+                {
+                    "teamName": "VENGADORES",
+                    "score": 1,
+                    "sets": 2,
+                    "points": 50,
+                    "state": "WINNER",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "state": "WINNER",
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 2,
+                            "state": "WINNER",
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 3,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 4,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 5,
+                            "state": "PENDING",
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 1,
+                            "name": "Alondra Isabel Robles Davalos",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 2,
+                            "name": "Fabian Rodriguez",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 5,
+                            "name": "Lizbeth Alejandra Velasco Valdez",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 7,
+                            "name": "Jimena Valadez Leandro",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 8,
+                            "name": "Alexis Daniel Loera Muñoz",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 13,
+                            "name": "Jairo Alejandro Vera Ruvira",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 14,
+                            "name": "Marisol Estrada Avila",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 24,
+                            "name": "Ximena Padilla",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 100,
+                            "name": "Eduardo Robles",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 101,
+                            "name": "Naileah Padilla",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 107,
+                            "name": "Fabricio Romo Rodriguez",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 114,
+                            "name": "Oswaldo Meza",
+                            "gamePlayed": false
+                        }
+                    ]
+                },
+                {
+                    "teamName": "CAZADORES",
+                    "score": 0,
+                    "sets": 0,
+                    "points": 29,
+                    "state": "LOSSER",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "state": "LOSSER",
+                            "points": 17
+                        },
+                        {
+                            "setNumber": 2,
+                            "state": "LOSSER",
+                            "points": 12
+                        },
+                        {
+                            "setNumber": 3,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 4,
+                            "state": "PENDING",
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 5,
+                            "state": "PENDING",
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 2,
+                            "name": "Martina Alvarado Barajas",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 3,
+                            "name": "Luz Elena Joaquin Muñoz",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 4,
+                            "name": "Pahola Deni Velasco Valdez",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 5,
+                            "name": "Jonathan de Jesus Padilla Ortiz",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 7,
+                            "name": "Rebeca Bernal Rubira",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 9,
+                            "name": "Sergio E Robles Leaños",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 10,
+                            "name": "Claudia Rodriguez Martinez",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 11,
+                            "name": "Francisco Emmanuel Placencia Castellanos",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 16,
+                            "name": "Nicolas Ramos",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 18,
+                            "name": "Elizabeth Macias Nieves",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 25,
+                            "name": "Dulce Maria Figueroa Joaquin",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 27,
+                            "name": "Marco Antonio Alvarado Romo",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 50,
+                            "name": "Armando Ramirez",
+                            "gamePlayed": false
+                        }
+                    ]
+                }
+            ]
         }
     ],
     "teams": [
@@ -45312,20 +48020,20 @@
             "initials": "CAZADOR",
             "isActive": true,
             "gamesWon": 8,
-            "gamesLost": 13,
-            "setsWon": 21,
-            "setsLost": 28,
-            "pointsWon": 965,
-            "pointsLost": 877,
+            "gamesLost": 16,
+            "setsWon": 22,
+            "setsLost": 34,
+            "pointsWon": 1056,
+            "pointsLost": 1036,
             "teamPlayers": [
                 {
                     "name": "Martina",
                     "lastName": "Alvarado Barajas",
                     "sex": "FEMALE",
                     "number": 2,
-                    "gamesPlayed": 12,
+                    "gamesPlayed": 13,
                     "gamesTotal": 24,
-                    "gamesPercentage": 50,
+                    "gamesPercentage": 54,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -45334,9 +48042,9 @@
                     "lastName": "Joaquin Muñoz",
                     "sex": "FEMALE",
                     "number": 3,
-                    "gamesPlayed": 15,
+                    "gamesPlayed": 17,
                     "gamesTotal": 24,
-                    "gamesPercentage": 63,
+                    "gamesPercentage": 71,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -45356,9 +48064,9 @@
                     "lastName": "Padilla Ortiz",
                     "sex": "MALE",
                     "number": 5,
-                    "gamesPlayed": 17,
+                    "gamesPlayed": 20,
                     "gamesTotal": 24,
-                    "gamesPercentage": 71,
+                    "gamesPercentage": 83,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -45367,9 +48075,9 @@
                     "lastName": "Bernal Rubira",
                     "sex": "FEMALE",
                     "number": 7,
-                    "gamesPlayed": 16,
+                    "gamesPlayed": 18,
                     "gamesTotal": 24,
-                    "gamesPercentage": 67,
+                    "gamesPercentage": 75,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -45378,9 +48086,9 @@
                     "lastName": "Robles Leaños",
                     "sex": "MALE",
                     "number": 9,
-                    "gamesPlayed": 11,
+                    "gamesPlayed": 12,
                     "gamesTotal": 24,
-                    "gamesPercentage": 46,
+                    "gamesPercentage": 50,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -45389,9 +48097,9 @@
                     "lastName": "Rodriguez Martinez",
                     "sex": "FEMALE",
                     "number": 10,
-                    "gamesPlayed": 5,
+                    "gamesPlayed": 8,
                     "gamesTotal": 24,
-                    "gamesPercentage": 21,
+                    "gamesPercentage": 33,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -45400,9 +48108,9 @@
                     "lastName": "Placencia Castellanos",
                     "sex": "MALE",
                     "number": 11,
-                    "gamesPlayed": 20,
+                    "gamesPlayed": 23,
                     "gamesTotal": 24,
-                    "gamesPercentage": 83,
+                    "gamesPercentage": 96,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -45422,9 +48130,9 @@
                     "lastName": "Macias Nieves",
                     "sex": "FEMALE",
                     "number": 18,
-                    "gamesPlayed": 18,
+                    "gamesPlayed": 21,
                     "gamesTotal": 24,
-                    "gamesPercentage": 75,
+                    "gamesPercentage": 88,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -45474,7 +48182,7 @@
         },
         {
             "category": "MIXTO",
-            "position": 4,
+            "position": 6,
             "name": "CDR",
             "initials": "CDR",
             "isActive": true,
@@ -45731,25 +48439,25 @@
         },
         {
             "category": "MIXTO",
-            "position": 6,
+            "position": 5,
             "name": "CHIQUE MIX",
             "initials": "CHIQUE",
             "isActive": true,
-            "gamesWon": 13,
+            "gamesWon": 16,
             "gamesLost": 8,
-            "setsWon": 31,
-            "setsLost": 20,
-            "pointsWon": 1028,
-            "pointsLost": 924,
+            "setsWon": 37,
+            "setsLost": 21,
+            "pointsWon": 1184,
+            "pointsLost": 1042,
             "teamPlayers": [
                 {
                     "name": "Ricardo",
                     "lastName": "Ledesma",
                     "sex": "MALE",
                     "number": 2,
-                    "gamesPlayed": 6,
+                    "gamesPlayed": 7,
                     "gamesTotal": 24,
-                    "gamesPercentage": 25,
+                    "gamesPercentage": 29,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -45758,9 +48466,9 @@
                     "lastName": "Rodriguez",
                     "sex": "FEMALE",
                     "number": 3,
-                    "gamesPlayed": 2,
+                    "gamesPlayed": 3,
                     "gamesTotal": 24,
-                    "gamesPercentage": 8,
+                    "gamesPercentage": 13,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -45769,9 +48477,9 @@
                     "lastName": "Cerros",
                     "sex": "FEMALE",
                     "number": 5,
-                    "gamesPlayed": 9,
+                    "gamesPlayed": 11,
                     "gamesTotal": 24,
-                    "gamesPercentage": 38,
+                    "gamesPercentage": 46,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -45780,9 +48488,9 @@
                     "lastName": "Sandoval Cerros",
                     "sex": "MALE",
                     "number": 6,
-                    "gamesPlayed": 15,
+                    "gamesPlayed": 18,
                     "gamesTotal": 24,
-                    "gamesPercentage": 63,
+                    "gamesPercentage": 75,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -45802,9 +48510,9 @@
                     "lastName": "Cerros Almaraz",
                     "sex": "FEMALE",
                     "number": 8,
-                    "gamesPlayed": 13,
+                    "gamesPlayed": 16,
                     "gamesTotal": 24,
-                    "gamesPercentage": 54,
+                    "gamesPercentage": 67,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -45824,9 +48532,9 @@
                     "lastName": "Ledezma Almaraz",
                     "sex": "FEMALE",
                     "number": 10,
-                    "gamesPlayed": 20,
+                    "gamesPlayed": 23,
                     "gamesTotal": 24,
-                    "gamesPercentage": 83,
+                    "gamesPercentage": 96,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -45835,9 +48543,9 @@
                     "lastName": "Figueroa G",
                     "sex": "FEMALE",
                     "number": 12,
-                    "gamesPlayed": 15,
+                    "gamesPlayed": 17,
                     "gamesTotal": 24,
-                    "gamesPercentage": 63,
+                    "gamesPercentage": 71,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -45846,9 +48554,9 @@
                     "lastName": "Rodriguez Rodriguez",
                     "sex": "FEMALE",
                     "number": 17,
-                    "gamesPlayed": 18,
+                    "gamesPlayed": 21,
                     "gamesTotal": 24,
-                    "gamesPercentage": 75,
+                    "gamesPercentage": 88,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -45868,9 +48576,9 @@
                     "lastName": "Martinez Valdez",
                     "sex": "MALE",
                     "number": 27,
-                    "gamesPlayed": 19,
+                    "gamesPlayed": 22,
                     "gamesTotal": 24,
-                    "gamesPercentage": 79,
+                    "gamesPercentage": 92,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -45879,9 +48587,9 @@
                     "lastName": "Barajas Avila",
                     "sex": "FEMALE",
                     "number": 30,
-                    "gamesPlayed": 12,
+                    "gamesPlayed": 15,
                     "gamesTotal": 24,
-                    "gamesPercentage": 50,
+                    "gamesPercentage": 63,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -45890,9 +48598,9 @@
                     "lastName": "Saldaña",
                     "sex": "MALE",
                     "number": 108,
-                    "gamesPlayed": 7,
+                    "gamesPlayed": 10,
                     "gamesTotal": 24,
-                    "gamesPercentage": 29,
+                    "gamesPercentage": 42,
                     "isActive": true,
                     "gamePlayed": null
                 }
@@ -45914,7 +48622,7 @@
             "initials": "CIERVOS",
             "isActive": true,
             "gamesWon": 11,
-            "gamesLost": 2,
+            "gamesLost": 3,
             "setsWon": 23,
             "setsLost": 5,
             "pointsWon": 615,
@@ -46221,16 +48929,16 @@
         },
         {
             "category": "MIXTO",
-            "position": 5,
+            "position": 4,
             "name": "FENIX",
             "initials": "FENIX",
             "isActive": true,
-            "gamesWon": 14,
+            "gamesWon": 16,
             "gamesLost": 8,
-            "setsWon": 33,
-            "setsLost": 18,
-            "pointsWon": 1128,
-            "pointsLost": 909,
+            "setsWon": 37,
+            "setsLost": 19,
+            "pointsWon": 1237,
+            "pointsLost": 983,
             "teamPlayers": [
                 {
                     "name": "Salvador",
@@ -46248,9 +48956,9 @@
                     "lastName": "Duque Elizalde",
                     "sex": "FEMALE",
                     "number": 2,
-                    "gamesPlayed": 21,
+                    "gamesPlayed": 23,
                     "gamesTotal": 24,
-                    "gamesPercentage": 88,
+                    "gamesPercentage": 96,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -46259,9 +48967,9 @@
                     "lastName": "Leandro Leandro",
                     "sex": "MALE",
                     "number": 7,
-                    "gamesPlayed": 20,
+                    "gamesPlayed": 22,
                     "gamesTotal": 24,
-                    "gamesPercentage": 83,
+                    "gamesPercentage": 92,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -46270,9 +48978,9 @@
                     "lastName": "Velasco Cuevas",
                     "sex": "FEMALE",
                     "number": 10,
-                    "gamesPlayed": 22,
+                    "gamesPlayed": 24,
                     "gamesTotal": 24,
-                    "gamesPercentage": 92,
+                    "gamesPercentage": 100,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -46281,9 +48989,9 @@
                     "lastName": "Cerros Medina",
                     "sex": "MALE",
                     "number": 14,
-                    "gamesPlayed": 9,
+                    "gamesPlayed": 10,
                     "gamesTotal": 24,
-                    "gamesPercentage": 38,
+                    "gamesPercentage": 42,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -46292,9 +49000,9 @@
                     "lastName": "Ruiz Pulido",
                     "sex": "MALE",
                     "number": 16,
-                    "gamesPlayed": 19,
+                    "gamesPlayed": 20,
                     "gamesTotal": 24,
-                    "gamesPercentage": 79,
+                    "gamesPercentage": 83,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -46303,9 +49011,9 @@
                     "lastName": "Bernal Ruvira",
                     "sex": "MALE",
                     "number": 19,
-                    "gamesPlayed": 22,
+                    "gamesPlayed": 24,
                     "gamesTotal": 24,
-                    "gamesPercentage": 92,
+                    "gamesPercentage": 100,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -46325,9 +49033,9 @@
                     "lastName": "Renteria",
                     "sex": "FEMALE",
                     "number": 31,
-                    "gamesPlayed": 9,
+                    "gamesPlayed": 11,
                     "gamesTotal": 24,
-                    "gamesPercentage": 38,
+                    "gamesPercentage": 46,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -46360,20 +49068,20 @@
             "initials": "GUERR",
             "isActive": true,
             "gamesWon": 3,
-            "gamesLost": 18,
+            "gamesLost": 21,
             "setsWon": 10,
-            "setsLost": 37,
-            "pointsWon": 737,
-            "pointsLost": 1048,
+            "setsLost": 43,
+            "pointsWon": 820,
+            "pointsLost": 1198,
             "teamPlayers": [
                 {
                     "name": "Abigail Olegario",
                     "lastName": "Muñoz Saldaña",
                     "sex": "MALE",
                     "number": 2,
-                    "gamesPlayed": 7,
+                    "gamesPlayed": 9,
                     "gamesTotal": 24,
-                    "gamesPercentage": 29,
+                    "gamesPercentage": 38,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -46382,9 +49090,9 @@
                     "lastName": "Barajas Sandoval",
                     "sex": "MALE",
                     "number": 3,
-                    "gamesPlayed": 13,
+                    "gamesPlayed": 15,
                     "gamesTotal": 24,
-                    "gamesPercentage": 54,
+                    "gamesPercentage": 63,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -46393,9 +49101,9 @@
                     "lastName": "Rodriguez Vivencio",
                     "sex": "MALE",
                     "number": 6,
-                    "gamesPlayed": 14,
+                    "gamesPlayed": 17,
                     "gamesTotal": 24,
-                    "gamesPercentage": 58,
+                    "gamesPercentage": 71,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -46415,9 +49123,9 @@
                     "lastName": "Duque Elizalde",
                     "sex": "MALE",
                     "number": 13,
-                    "gamesPlayed": 20,
+                    "gamesPlayed": 21,
                     "gamesTotal": 24,
-                    "gamesPercentage": 83,
+                    "gamesPercentage": 88,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -46426,9 +49134,9 @@
                     "lastName": "Saldaña Muñoz",
                     "sex": "MALE",
                     "number": 15,
-                    "gamesPlayed": 7,
+                    "gamesPlayed": 10,
                     "gamesTotal": 24,
-                    "gamesPercentage": 29,
+                    "gamesPercentage": 42,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -46437,9 +49145,9 @@
                     "lastName": "Velasco Ruvalcaba",
                     "sex": "FEMALE",
                     "number": 16,
-                    "gamesPlayed": 14,
+                    "gamesPlayed": 16,
                     "gamesTotal": 24,
-                    "gamesPercentage": 58,
+                    "gamesPercentage": 67,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -46448,9 +49156,9 @@
                     "lastName": "Saldaña Velasco",
                     "sex": "MALE",
                     "number": 18,
-                    "gamesPlayed": 18,
+                    "gamesPlayed": 21,
                     "gamesTotal": 24,
-                    "gamesPercentage": 75,
+                    "gamesPercentage": 88,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -46459,9 +49167,9 @@
                     "lastName": "Velasco Ruvalcaba",
                     "sex": "FEMALE",
                     "number": 21,
-                    "gamesPlayed": 19,
+                    "gamesPlayed": 22,
                     "gamesTotal": 24,
-                    "gamesPercentage": 79,
+                    "gamesPercentage": 92,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -46492,9 +49200,9 @@
                     "lastName": "Gonzalez Perez",
                     "sex": "FEMALE",
                     "number": 30,
-                    "gamesPlayed": 11,
+                    "gamesPlayed": 13,
                     "gamesTotal": 24,
-                    "gamesPercentage": 46,
+                    "gamesPercentage": 54,
                     "isActive": true,
                     "gamePlayed": null
                 }
@@ -46671,12 +49379,12 @@
             "name": "HUANUSCO",
             "initials": "HUANUS",
             "isActive": true,
-            "gamesWon": 6,
-            "gamesLost": 16,
-            "setsWon": 15,
-            "setsLost": 33,
-            "pointsWon": 847,
-            "pointsLost": 1025,
+            "gamesWon": 7,
+            "gamesLost": 17,
+            "setsWon": 17,
+            "setsLost": 36,
+            "pointsWon": 900,
+            "pointsLost": 1133,
             "teamPlayers": [
                 {
                     "name": "Francisco",
@@ -46705,9 +49413,9 @@
                     "lastName": "Robles Nuñez",
                     "sex": "FEMALE",
                     "number": 10,
-                    "gamesPlayed": 17,
+                    "gamesPlayed": 18,
                     "gamesTotal": 24,
-                    "gamesPercentage": 71,
+                    "gamesPercentage": 75,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -46716,9 +49424,9 @@
                     "lastName": "Ortega Rodriguez",
                     "sex": "FEMALE",
                     "number": 12,
-                    "gamesPlayed": 19,
+                    "gamesPlayed": 20,
                     "gamesTotal": 24,
-                    "gamesPercentage": 79,
+                    "gamesPercentage": 83,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -46727,9 +49435,9 @@
                     "lastName": "Chavez Frausto",
                     "sex": "FEMALE",
                     "number": 23,
-                    "gamesPlayed": 15,
+                    "gamesPlayed": 16,
                     "gamesTotal": 24,
-                    "gamesPercentage": 63,
+                    "gamesPercentage": 67,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -46749,9 +49457,9 @@
                     "lastName": "Ortega Rodriguez",
                     "sex": "MALE",
                     "number": 96,
-                    "gamesPlayed": 18,
+                    "gamesPlayed": 19,
                     "gamesTotal": 24,
-                    "gamesPercentage": 75,
+                    "gamesPercentage": 79,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -46782,9 +49490,9 @@
                     "lastName": "Torres Ruvalcaba",
                     "sex": "MALE",
                     "number": 99,
-                    "gamesPlayed": 14,
+                    "gamesPlayed": 15,
                     "gamesTotal": 24,
-                    "gamesPercentage": 58,
+                    "gamesPercentage": 63,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -46823,25 +49531,25 @@
         },
         {
             "category": "MIXTO",
-            "position": 2,
+            "position": 1,
             "name": "MIXTICOS",
             "initials": "MIXTIC",
             "isActive": true,
-            "gamesWon": 18,
+            "gamesWon": 20,
             "gamesLost": 4,
-            "setsWon": 39,
+            "setsWon": 43,
             "setsLost": 12,
-            "pointsWon": 1096,
-            "pointsLost": 895,
+            "pointsWon": 1196,
+            "pointsLost": 927,
             "teamPlayers": [
                 {
                     "name": "Nancy",
                     "lastName": "Ortega Muñoz",
                     "sex": "FEMALE",
                     "number": 1,
-                    "gamesPlayed": 20,
+                    "gamesPlayed": 22,
                     "gamesTotal": 24,
-                    "gamesPercentage": 83,
+                    "gamesPercentage": 92,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -46861,9 +49569,9 @@
                     "lastName": "Nuñez Esqueda",
                     "sex": "MALE",
                     "number": 7,
-                    "gamesPlayed": 20,
+                    "gamesPlayed": 22,
                     "gamesTotal": 24,
-                    "gamesPercentage": 83,
+                    "gamesPercentage": 92,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -46872,9 +49580,9 @@
                     "lastName": "Ramirez Villalpando",
                     "sex": "MALE",
                     "number": 8,
-                    "gamesPlayed": 11,
+                    "gamesPlayed": 13,
                     "gamesTotal": 24,
-                    "gamesPercentage": 46,
+                    "gamesPercentage": 54,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -46883,9 +49591,9 @@
                     "lastName": "Macias Velasco",
                     "sex": "MALE",
                     "number": 10,
-                    "gamesPlayed": 19,
+                    "gamesPlayed": 21,
                     "gamesTotal": 24,
-                    "gamesPercentage": 79,
+                    "gamesPercentage": 88,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -46894,9 +49602,9 @@
                     "lastName": "Renteria V",
                     "sex": "FEMALE",
                     "number": 11,
-                    "gamesPlayed": 20,
+                    "gamesPlayed": 22,
                     "gamesTotal": 24,
-                    "gamesPercentage": 83,
+                    "gamesPercentage": 92,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -46905,9 +49613,9 @@
                     "lastName": "Ortega Muñoz",
                     "sex": "FEMALE",
                     "number": 12,
-                    "gamesPlayed": 17,
+                    "gamesPlayed": 19,
                     "gamesTotal": 24,
-                    "gamesPercentage": 71,
+                    "gamesPercentage": 79,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -46916,9 +49624,9 @@
                     "lastName": "Rodriguez Arambula",
                     "sex": "MALE",
                     "number": 14,
-                    "gamesPlayed": 14,
+                    "gamesPlayed": 15,
                     "gamesTotal": 24,
-                    "gamesPercentage": 58,
+                    "gamesPercentage": 63,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -46927,9 +49635,9 @@
                     "lastName": "Leandro Orozco",
                     "sex": "MALE",
                     "number": 15,
-                    "gamesPlayed": 15,
+                    "gamesPlayed": 17,
                     "gamesTotal": 24,
-                    "gamesPercentage": 63,
+                    "gamesPercentage": 71,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -47631,21 +50339,21 @@
             "name": "RENCOROSOS",
             "initials": "RENCOR",
             "isActive": true,
-            "gamesWon": 12,
+            "gamesWon": 15,
             "gamesLost": 9,
-            "setsWon": 27,
+            "setsWon": 33,
             "setsLost": 23,
-            "pointsWon": 922,
-            "pointsLost": 890,
+            "pointsWon": 1072,
+            "pointsLost": 950,
             "teamPlayers": [
                 {
                     "name": "Marco Aurelio",
                     "lastName": "Martinez Rodriguez",
                     "sex": "MALE",
                     "number": 1,
-                    "gamesPlayed": 13,
+                    "gamesPlayed": 15,
                     "gamesTotal": 24,
-                    "gamesPercentage": 54,
+                    "gamesPercentage": 63,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -47654,9 +50362,9 @@
                     "lastName": "Martinez Rodriguez",
                     "sex": "FEMALE",
                     "number": 2,
-                    "gamesPlayed": 20,
+                    "gamesPlayed": 23,
                     "gamesTotal": 24,
-                    "gamesPercentage": 83,
+                    "gamesPercentage": 96,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -47665,9 +50373,9 @@
                     "lastName": "Acero Figueroa",
                     "sex": "MALE",
                     "number": 4,
-                    "gamesPlayed": 20,
+                    "gamesPlayed": 23,
                     "gamesTotal": 24,
-                    "gamesPercentage": 83,
+                    "gamesPercentage": 96,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -47676,9 +50384,9 @@
                     "lastName": "Hernandez Leandro",
                     "sex": "MALE",
                     "number": 9,
-                    "gamesPlayed": 19,
+                    "gamesPlayed": 22,
                     "gamesTotal": 24,
-                    "gamesPercentage": 79,
+                    "gamesPercentage": 92,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -47687,9 +50395,9 @@
                     "lastName": "Hernandez Ramos",
                     "sex": "FEMALE",
                     "number": 11,
-                    "gamesPlayed": 18,
+                    "gamesPlayed": 20,
                     "gamesTotal": 24,
-                    "gamesPercentage": 75,
+                    "gamesPercentage": 83,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -47698,9 +50406,9 @@
                     "lastName": "Martinez Rodriguez",
                     "sex": "FEMALE",
                     "number": 17,
-                    "gamesPlayed": 12,
+                    "gamesPlayed": 13,
                     "gamesTotal": 24,
-                    "gamesPercentage": 50,
+                    "gamesPercentage": 54,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -47709,9 +50417,9 @@
                     "lastName": "Solis Avila",
                     "sex": "FEMALE",
                     "number": 20,
-                    "gamesPlayed": 15,
+                    "gamesPlayed": 17,
                     "gamesTotal": 24,
-                    "gamesPercentage": 63,
+                    "gamesPercentage": 71,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -47720,9 +50428,9 @@
                     "lastName": "Solis Avila",
                     "sex": "MALE",
                     "number": 23,
-                    "gamesPlayed": 14,
+                    "gamesPlayed": 17,
                     "gamesTotal": 24,
-                    "gamesPercentage": 58,
+                    "gamesPercentage": 71,
                     "isActive": true,
                     "gamePlayed": null
                 }
@@ -47739,25 +50447,25 @@
         },
         {
             "category": "MIXTO",
-            "position": 1,
+            "position": 2,
             "name": "SPIKERS",
             "initials": "SPIKERS",
             "isActive": true,
             "gamesWon": 20,
-            "gamesLost": 3,
-            "setsWon": 40,
-            "setsLost": 13,
-            "pointsWon": 1172,
-            "pointsLost": 953,
+            "gamesLost": 4,
+            "setsWon": 41,
+            "setsLost": 15,
+            "pointsWon": 1227,
+            "pointsLost": 1009,
             "teamPlayers": [
                 {
                     "name": "Mariana Catalina",
                     "lastName": "Varela Mayorga",
                     "sex": "FEMALE",
                     "number": 5,
-                    "gamesPlayed": 19,
+                    "gamesPlayed": 20,
                     "gamesTotal": 24,
-                    "gamesPercentage": 79,
+                    "gamesPercentage": 83,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -47766,9 +50474,9 @@
                     "lastName": "Murillo Lopez",
                     "sex": "MALE",
                     "number": 7,
-                    "gamesPlayed": 19,
+                    "gamesPlayed": 20,
                     "gamesTotal": 24,
-                    "gamesPercentage": 79,
+                    "gamesPercentage": 83,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -47777,9 +50485,9 @@
                     "lastName": "Marquez Garcia",
                     "sex": "MALE",
                     "number": 9,
-                    "gamesPlayed": 22,
+                    "gamesPlayed": 23,
                     "gamesTotal": 24,
-                    "gamesPercentage": 92,
+                    "gamesPercentage": 96,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -47788,9 +50496,9 @@
                     "lastName": "Marquez Solis",
                     "sex": "FEMALE",
                     "number": 11,
-                    "gamesPlayed": 17,
+                    "gamesPlayed": 18,
                     "gamesTotal": 24,
-                    "gamesPercentage": 71,
+                    "gamesPercentage": 75,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -47799,9 +50507,9 @@
                     "lastName": "Marquez Solis",
                     "sex": "FEMALE",
                     "number": 14,
-                    "gamesPlayed": 21,
+                    "gamesPlayed": 22,
                     "gamesTotal": 24,
-                    "gamesPercentage": 88,
+                    "gamesPercentage": 92,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -47821,9 +50529,9 @@
                     "lastName": "Solis Avila",
                     "sex": "FEMALE",
                     "number": 19,
-                    "gamesPlayed": 19,
+                    "gamesPlayed": 20,
                     "gamesTotal": 24,
-                    "gamesPercentage": 79,
+                    "gamesPercentage": 83,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -47832,9 +50540,9 @@
                     "lastName": "Padilla Solis",
                     "sex": "MALE",
                     "number": 25,
-                    "gamesPlayed": 9,
+                    "gamesPlayed": 10,
                     "gamesTotal": 24,
-                    "gamesPercentage": 38,
+                    "gamesPercentage": 42,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -47854,9 +50562,9 @@
                     "lastName": "Delgado Contreras",
                     "sex": "MALE",
                     "number": 27,
-                    "gamesPlayed": 10,
+                    "gamesPlayed": 11,
                     "gamesTotal": 24,
-                    "gamesPercentage": 42,
+                    "gamesPercentage": 46,
                     "isActive": true,
                     "gamePlayed": null
                 }
@@ -47878,11 +50586,11 @@
             "initials": "TIBURON",
             "isActive": true,
             "gamesWon": 0,
-            "gamesLost": 22,
+            "gamesLost": 24,
             "setsWon": 3,
-            "setsLost": 44,
-            "pointsWon": 551,
-            "pointsLost": 1116,
+            "setsLost": 48,
+            "pointsWon": 600,
+            "pointsLost": 1216,
             "teamPlayers": [
                 {
                     "name": "Marlen",
@@ -47922,9 +50630,9 @@
                     "lastName": "Vicencio Raygoza",
                     "sex": "MALE",
                     "number": 9,
-                    "gamesPlayed": 16,
+                    "gamesPlayed": 18,
                     "gamesTotal": 24,
-                    "gamesPercentage": 67,
+                    "gamesPercentage": 75,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -47966,9 +50674,9 @@
                     "lastName": "Santa Cruz",
                     "sex": "MALE",
                     "number": 14,
-                    "gamesPlayed": 11,
+                    "gamesPlayed": 13,
                     "gamesTotal": 24,
-                    "gamesPercentage": 46,
+                    "gamesPercentage": 54,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -47988,9 +50696,9 @@
                     "lastName": "Frausto",
                     "sex": "FEMALE",
                     "number": 23,
-                    "gamesPlayed": 17,
+                    "gamesPlayed": 19,
                     "gamesTotal": 24,
-                    "gamesPercentage": 71,
+                    "gamesPercentage": 79,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -48010,9 +50718,9 @@
                     "lastName": "Vicencio",
                     "sex": "MALE",
                     "number": 55,
-                    "gamesPlayed": 14,
+                    "gamesPlayed": 16,
                     "gamesTotal": 24,
-                    "gamesPercentage": 58,
+                    "gamesPercentage": 67,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -48021,9 +50729,9 @@
                     "lastName": "Frausto",
                     "sex": "MALE",
                     "number": 77,
-                    "gamesPlayed": 16,
+                    "gamesPlayed": 18,
                     "gamesTotal": 24,
-                    "gamesPercentage": 67,
+                    "gamesPercentage": 75,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -48032,9 +50740,9 @@
                     "lastName": "Vicencio",
                     "sex": "MALE",
                     "number": 100,
-                    "gamesPlayed": 12,
+                    "gamesPlayed": 14,
                     "gamesTotal": 24,
-                    "gamesPercentage": 50,
+                    "gamesPercentage": 58,
                     "isActive": true,
                     "gamePlayed": null
                 }
@@ -48581,7 +51289,7 @@
             "initials": "VAGOS",
             "isActive": true,
             "gamesWon": 10,
-            "gamesLost": 3,
+            "gamesLost": 4,
             "setsWon": 21,
             "setsLost": 6,
             "pointsWon": 599,
@@ -48692,21 +51400,21 @@
             "name": "VENGADORES",
             "initials": "VENGADOR",
             "isActive": true,
-            "gamesWon": 17,
+            "gamesWon": 19,
             "gamesLost": 5,
-            "setsWon": 35,
+            "setsWon": 39,
             "setsLost": 17,
-            "pointsWon": 1042,
-            "pointsLost": 927,
+            "pointsWon": 1142,
+            "pointsLost": 986,
             "teamPlayers": [
                 {
                     "name": "Alondra Isabel",
                     "lastName": "Robles Davalos",
                     "sex": "FEMALE",
                     "number": 1,
-                    "gamesPlayed": 15,
+                    "gamesPlayed": 17,
                     "gamesTotal": 24,
-                    "gamesPercentage": 63,
+                    "gamesPercentage": 71,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -48715,9 +51423,9 @@
                     "lastName": "Rodriguez",
                     "sex": "MALE",
                     "number": 2,
-                    "gamesPlayed": 17,
+                    "gamesPlayed": 19,
                     "gamesTotal": 24,
-                    "gamesPercentage": 71,
+                    "gamesPercentage": 79,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -48726,9 +51434,9 @@
                     "lastName": "Velasco Valdez",
                     "sex": "FEMALE",
                     "number": 5,
-                    "gamesPlayed": 16,
+                    "gamesPlayed": 18,
                     "gamesTotal": 24,
-                    "gamesPercentage": 67,
+                    "gamesPercentage": 75,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -48737,9 +51445,9 @@
                     "lastName": "Valadez Leandro",
                     "sex": "FEMALE",
                     "number": 7,
-                    "gamesPlayed": 18,
+                    "gamesPlayed": 20,
                     "gamesTotal": 24,
-                    "gamesPercentage": 75,
+                    "gamesPercentage": 83,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -48770,9 +51478,9 @@
                     "lastName": "Estrada Avila",
                     "sex": "FEMALE",
                     "number": 14,
-                    "gamesPlayed": 16,
+                    "gamesPlayed": 18,
                     "gamesTotal": 24,
-                    "gamesPercentage": 67,
+                    "gamesPercentage": 75,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -48814,9 +51522,9 @@
                     "lastName": "Romo Rodriguez",
                     "sex": "MALE",
                     "number": 107,
-                    "gamesPlayed": 14,
+                    "gamesPlayed": 16,
                     "gamesTotal": 24,
-                    "gamesPercentage": 58,
+                    "gamesPercentage": 67,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -49095,20 +51803,20 @@
             "initials": "VIKING",
             "isActive": true,
             "gamesWon": 9,
-            "gamesLost": 12,
-            "setsWon": 21,
-            "setsLost": 29,
-            "pointsWon": 908,
-            "pointsLost": 971,
+            "gamesLost": 15,
+            "setsWon": 22,
+            "setsLost": 35,
+            "pointsWon": 1031,
+            "pointsLost": 1124,
             "teamPlayers": [
                 {
                     "name": "Yazmin Gisela",
                     "lastName": "Nava Vera",
                     "sex": "FEMALE",
                     "number": 9,
-                    "gamesPlayed": 17,
+                    "gamesPlayed": 20,
                     "gamesTotal": 24,
-                    "gamesPercentage": 71,
+                    "gamesPercentage": 83,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -49117,9 +51825,9 @@
                     "lastName": "Leandro Nava",
                     "sex": "MALE",
                     "number": 10,
-                    "gamesPlayed": 19,
+                    "gamesPlayed": 22,
                     "gamesTotal": 24,
-                    "gamesPercentage": 79,
+                    "gamesPercentage": 92,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -49128,9 +51836,9 @@
                     "lastName": "Macias Nieves",
                     "sex": "MALE",
                     "number": 12,
-                    "gamesPlayed": 10,
+                    "gamesPlayed": 12,
                     "gamesTotal": 24,
-                    "gamesPercentage": 42,
+                    "gamesPercentage": 50,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -49139,9 +51847,9 @@
                     "lastName": "Ornelas Mendez",
                     "sex": "FEMALE",
                     "number": 24,
-                    "gamesPlayed": 19,
+                    "gamesPlayed": 22,
                     "gamesTotal": 24,
-                    "gamesPercentage": 79,
+                    "gamesPercentage": 92,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -49150,9 +51858,9 @@
                     "lastName": "Ornelas Mendez",
                     "sex": "FEMALE",
                     "number": 25,
-                    "gamesPlayed": 15,
+                    "gamesPlayed": 18,
                     "gamesTotal": 24,
-                    "gamesPercentage": 63,
+                    "gamesPercentage": 75,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -49172,9 +51880,9 @@
                     "lastName": "Velazquez Perez",
                     "sex": "FEMALE",
                     "number": 30,
-                    "gamesPlayed": 16,
+                    "gamesPlayed": 19,
                     "gamesTotal": 24,
-                    "gamesPercentage": 67,
+                    "gamesPercentage": 79,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -49183,9 +51891,9 @@
                     "lastName": "Leandro Perez",
                     "sex": "MALE",
                     "number": 31,
-                    "gamesPlayed": 15,
+                    "gamesPlayed": 18,
                     "gamesTotal": 24,
-                    "gamesPercentage": 63,
+                    "gamesPercentage": 75,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -49215,12 +51923,12 @@
     "eliminationGames": {
         "VARONIL": [
             {
-                "gameId": 2027,
+                "gameId": 2233,
                 "tournamentId": 5,
                 "weekNumber": 1,
                 "category": "VARONIL",
                 "stage": "SEMI",
-                "gameDate": "2026-01-16T17:19:58.000+00:00",
+                "gameDate": "2026-01-22T21:32:27.000+00:00",
                 "gamePlace": "ARRIBA",
                 "byDefault": false,
                 "teamStats": [
@@ -49299,12 +52007,12 @@
                 ]
             },
             {
-                "gameId": 2028,
+                "gameId": 2234,
                 "tournamentId": 5,
                 "weekNumber": 2,
                 "category": "VARONIL",
                 "stage": "SEMI",
-                "gameDate": "2026-01-16T17:19:58.000+00:00",
+                "gameDate": "2026-01-22T21:32:27.000+00:00",
                 "gamePlace": "ARRIBA",
                 "byDefault": false,
                 "teamStats": [
@@ -49383,12 +52091,12 @@
                 ]
             },
             {
-                "gameId": 2030,
+                "gameId": 2236,
                 "tournamentId": 5,
                 "weekNumber": 3,
                 "category": "VARONIL",
                 "stage": "QUARTER",
-                "gameDate": "2026-01-16T17:19:58.000+00:00",
+                "gameDate": "2026-01-22T21:32:27.000+00:00",
                 "gamePlace": "ARRIBA",
                 "byDefault": false,
                 "teamStats": [
@@ -49467,12 +52175,12 @@
                 ]
             },
             {
-                "gameId": 2029,
+                "gameId": 2235,
                 "tournamentId": 5,
                 "weekNumber": 4,
                 "category": "VARONIL",
                 "stage": "QUARTER",
-                "gameDate": "2026-01-16T17:19:58.000+00:00",
+                "gameDate": "2026-01-22T21:32:27.000+00:00",
                 "gamePlace": "ARRIBA",
                 "byDefault": false,
                 "teamStats": [
@@ -49553,18 +52261,18 @@
         ],
         "MIXTO": [
             {
-                "gameId": 2031,
+                "gameId": 2237,
                 "tournamentId": 5,
                 "weekNumber": 1,
                 "category": "MIXTO",
                 "stage": "QUARTER",
-                "gameDate": "2026-01-16T17:19:58.000+00:00",
+                "gameDate": "2026-01-22T21:32:27.000+00:00",
                 "gamePlace": "ARRIBA",
                 "byDefault": false,
                 "teamStats": [
                     {
-                        "teamId": 486,
-                        "teamName": "SPIKERS",
+                        "teamId": 485,
+                        "teamName": "MIXTICOS",
                         "players": [],
                         "score": 0,
                         "sets": 0,
@@ -49637,18 +52345,18 @@
                 ]
             },
             {
-                "gameId": 2032,
+                "gameId": 2238,
                 "tournamentId": 5,
                 "weekNumber": 2,
                 "category": "MIXTO",
                 "stage": "QUARTER",
-                "gameDate": "2026-01-16T17:19:58.000+00:00",
+                "gameDate": "2026-01-22T21:32:27.000+00:00",
                 "gamePlace": "ARRIBA",
                 "byDefault": false,
                 "teamStats": [
                     {
-                        "teamId": 485,
-                        "teamName": "MIXTICOS",
+                        "teamId": 486,
+                        "teamName": "SPIKERS",
                         "players": [],
                         "score": 0,
                         "sets": 0,
@@ -49721,102 +52429,18 @@
                 ]
             },
             {
-                "gameId": 2034,
+                "gameId": 2240,
                 "tournamentId": 5,
                 "weekNumber": 3,
                 "category": "MIXTO",
                 "stage": "QUARTER",
-                "gameDate": "2026-01-16T17:19:58.000+00:00",
+                "gameDate": "2026-01-22T21:32:27.000+00:00",
                 "gamePlace": "ARRIBA",
                 "byDefault": false,
                 "teamStats": [
-                    {
-                        "teamId": 491,
-                        "teamName": "CDR",
-                        "players": [],
-                        "score": 0,
-                        "sets": 0,
-                        "points": 0,
-                        "state": "PENDING",
-                        "setStats": [
-                            {
-                                "setNumber": 1,
-                                "state": "PENDING",
-                                "points": 0
-                            },
-                            {
-                                "setNumber": 2,
-                                "state": "PENDING",
-                                "points": 0
-                            },
-                            {
-                                "setNumber": 3,
-                                "state": "PENDING",
-                                "points": 0
-                            },
-                            {
-                                "setNumber": 4,
-                                "state": "PENDING",
-                                "points": 0
-                            },
-                            {
-                                "setNumber": 5,
-                                "state": "PENDING",
-                                "points": 0
-                            }
-                        ]
-                    },
                     {
                         "teamId": 484,
                         "teamName": "FENIX",
-                        "players": [],
-                        "score": 0,
-                        "sets": 0,
-                        "points": 0,
-                        "state": "PENDING",
-                        "setStats": [
-                            {
-                                "setNumber": 1,
-                                "state": "PENDING",
-                                "points": 0
-                            },
-                            {
-                                "setNumber": 2,
-                                "state": "PENDING",
-                                "points": 0
-                            },
-                            {
-                                "setNumber": 3,
-                                "state": "PENDING",
-                                "points": 0
-                            },
-                            {
-                                "setNumber": 4,
-                                "state": "PENDING",
-                                "points": 0
-                            },
-                            {
-                                "setNumber": 5,
-                                "state": "PENDING",
-                                "points": 0
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "gameId": 2033,
-                "tournamentId": 5,
-                "weekNumber": 4,
-                "category": "MIXTO",
-                "stage": "QUARTER",
-                "gameDate": "2026-01-16T17:19:58.000+00:00",
-                "gamePlace": "ARRIBA",
-                "byDefault": false,
-                "teamStats": [
-                    {
-                        "teamId": 497,
-                        "teamName": "VENGADORES",
                         "players": [],
                         "score": 0,
                         "sets": 0,
@@ -49887,16 +52511,100 @@
                         ]
                     }
                 ]
+            },
+            {
+                "gameId": 2239,
+                "tournamentId": 5,
+                "weekNumber": 4,
+                "category": "MIXTO",
+                "stage": "QUARTER",
+                "gameDate": "2026-01-22T21:32:27.000+00:00",
+                "gamePlace": "ARRIBA",
+                "byDefault": false,
+                "teamStats": [
+                    {
+                        "teamId": 497,
+                        "teamName": "VENGADORES",
+                        "players": [],
+                        "score": 0,
+                        "sets": 0,
+                        "points": 0,
+                        "state": "PENDING",
+                        "setStats": [
+                            {
+                                "setNumber": 1,
+                                "state": "PENDING",
+                                "points": 0
+                            },
+                            {
+                                "setNumber": 2,
+                                "state": "PENDING",
+                                "points": 0
+                            },
+                            {
+                                "setNumber": 3,
+                                "state": "PENDING",
+                                "points": 0
+                            },
+                            {
+                                "setNumber": 4,
+                                "state": "PENDING",
+                                "points": 0
+                            },
+                            {
+                                "setNumber": 5,
+                                "state": "PENDING",
+                                "points": 0
+                            }
+                        ]
+                    },
+                    {
+                        "teamId": 491,
+                        "teamName": "CDR",
+                        "players": [],
+                        "score": 0,
+                        "sets": 0,
+                        "points": 0,
+                        "state": "PENDING",
+                        "setStats": [
+                            {
+                                "setNumber": 1,
+                                "state": "PENDING",
+                                "points": 0
+                            },
+                            {
+                                "setNumber": 2,
+                                "state": "PENDING",
+                                "points": 0
+                            },
+                            {
+                                "setNumber": 3,
+                                "state": "PENDING",
+                                "points": 0
+                            },
+                            {
+                                "setNumber": 4,
+                                "state": "PENDING",
+                                "points": 0
+                            },
+                            {
+                                "setNumber": 5,
+                                "state": "PENDING",
+                                "points": 0
+                            }
+                        ]
+                    }
+                ]
             }
         ],
         "FEMENIL": [
             {
-                "gameId": 2023,
+                "gameId": 2229,
                 "tournamentId": 5,
                 "weekNumber": 1,
                 "category": "FEMENIL",
                 "stage": "SEMI",
-                "gameDate": "2026-01-16T17:19:58.000+00:00",
+                "gameDate": "2026-01-22T21:32:27.000+00:00",
                 "gamePlace": "ARRIBA",
                 "byDefault": false,
                 "teamStats": [
@@ -49975,12 +52683,12 @@
                 ]
             },
             {
-                "gameId": 2024,
+                "gameId": 2230,
                 "tournamentId": 5,
                 "weekNumber": 2,
                 "category": "FEMENIL",
                 "stage": "SEMI",
-                "gameDate": "2026-01-16T17:19:58.000+00:00",
+                "gameDate": "2026-01-22T21:32:27.000+00:00",
                 "gamePlace": "ARRIBA",
                 "byDefault": false,
                 "teamStats": [
@@ -50059,12 +52767,12 @@
                 ]
             },
             {
-                "gameId": 2026,
+                "gameId": 2232,
                 "tournamentId": 5,
                 "weekNumber": 3,
                 "category": "FEMENIL",
                 "stage": "QUARTER",
-                "gameDate": "2026-01-16T17:19:58.000+00:00",
+                "gameDate": "2026-01-22T21:32:27.000+00:00",
                 "gamePlace": "ARRIBA",
                 "byDefault": false,
                 "teamStats": [
@@ -50143,12 +52851,12 @@
                 ]
             },
             {
-                "gameId": 2025,
+                "gameId": 2231,
                 "tournamentId": 5,
                 "weekNumber": 4,
                 "category": "FEMENIL",
                 "stage": "QUARTER",
-                "gameDate": "2026-01-16T17:19:58.000+00:00",
+                "gameDate": "2026-01-22T21:32:27.000+00:00",
                 "gamePlace": "ARRIBA",
                 "byDefault": false,
                 "teamStats": [
@@ -50316,7 +53024,7 @@
                         "lost": 0
                     },
                     "VAGOS": {
-                        "played": 1,
+                        "played": 2,
                         "win": 0,
                         "lost": 1
                     }
@@ -50562,7 +53270,7 @@
                         "lost": 0
                     },
                     "CIERVOS": {
-                        "played": 1,
+                        "played": 2,
                         "win": 1,
                         "lost": 0
                     },
@@ -50620,9 +53328,9 @@
                         "lost": 2
                     },
                     "FENIX": {
-                        "played": 1,
+                        "played": 2,
                         "win": 0,
-                        "lost": 1
+                        "lost": 2
                     },
                     "GUERREROS": {
                         "played": 2,
@@ -50645,9 +53353,9 @@
                         "lost": 2
                     },
                     "RENCOROSOS": {
-                        "played": 1,
+                        "played": 2,
                         "win": 1,
-                        "lost": 0
+                        "lost": 1
                     },
                     "SPIKERS": {
                         "played": 2,
@@ -50660,9 +53368,9 @@
                         "lost": 0
                     },
                     "VENGADORES": {
-                        "played": 1,
+                        "played": 2,
                         "win": 1,
-                        "lost": 0
+                        "lost": 1
                     },
                     "VIKINGOS MIX": {
                         "played": 2,
@@ -50767,8 +53475,8 @@
                         "lost": 0
                     },
                     "GUERREROS": {
-                        "played": 1,
-                        "win": 1,
+                        "played": 2,
+                        "win": 2,
                         "lost": 0
                     },
                     "HUANUSCO": {
@@ -50792,8 +53500,8 @@
                         "lost": 2
                     },
                     "SPIKERS": {
-                        "played": 1,
-                        "win": 0,
+                        "played": 2,
+                        "win": 1,
                         "lost": 1
                     },
                     "TIBURONES": {
@@ -50807,8 +53515,8 @@
                         "lost": 1
                     },
                     "VIKINGOS MIX": {
-                        "played": 1,
-                        "win": 1,
+                        "played": 2,
+                        "win": 2,
                         "lost": 0
                     }
                 }
@@ -50818,8 +53526,8 @@
                 "initials": "FENIX",
                 "teamsPlayed": {
                     "CAZADORES": {
-                        "played": 1,
-                        "win": 1,
+                        "played": 2,
+                        "win": 2,
                         "lost": 0
                     },
                     "CDR": {
@@ -50868,8 +53576,8 @@
                         "lost": 2
                     },
                     "TIBURONES": {
-                        "played": 1,
-                        "win": 1,
+                        "played": 2,
+                        "win": 2,
                         "lost": 0
                     },
                     "VENGADORES": {
@@ -50899,9 +53607,9 @@
                         "lost": 2
                     },
                     "CHIQUE MIX": {
-                        "played": 1,
+                        "played": 2,
                         "win": 0,
-                        "lost": 1
+                        "lost": 2
                     },
                     "FENIX": {
                         "played": 2,
@@ -50919,9 +53627,9 @@
                         "lost": 1
                     },
                     "MIXTICOS": {
-                        "played": 1,
+                        "played": 2,
                         "win": 0,
-                        "lost": 1
+                        "lost": 2
                     },
                     "PECHOCHOS": {
                         "played": 2,
@@ -50929,9 +53637,9 @@
                         "lost": 2
                     },
                     "RENCOROSOS": {
-                        "played": 1,
+                        "played": 2,
                         "win": 0,
-                        "lost": 1
+                        "lost": 2
                     },
                     "SPIKERS": {
                         "played": 2,
@@ -50990,9 +53698,9 @@
                         "lost": 0
                     },
                     "MIXTICOS": {
-                        "played": 1,
+                        "played": 2,
                         "win": 0,
-                        "lost": 1
+                        "lost": 2
                     },
                     "PECHOCHOS": {
                         "played": 2,
@@ -51020,8 +53728,8 @@
                         "lost": 2
                     },
                     "VIKINGOS MIX": {
-                        "played": 1,
-                        "win": 0,
+                        "played": 2,
+                        "win": 1,
                         "lost": 1
                     }
                 }
@@ -51051,13 +53759,13 @@
                         "lost": 0
                     },
                     "GUERREROS": {
-                        "played": 1,
-                        "win": 1,
+                        "played": 2,
+                        "win": 2,
                         "lost": 0
                     },
                     "HUANUSCO": {
-                        "played": 1,
-                        "win": 1,
+                        "played": 2,
+                        "win": 2,
                         "lost": 0
                     },
                     "MIXTICOS": {
@@ -51173,8 +53881,8 @@
                 "initials": "RENCOR",
                 "teamsPlayed": {
                     "CAZADORES": {
-                        "played": 1,
-                        "win": 0,
+                        "played": 2,
+                        "win": 1,
                         "lost": 1
                     },
                     "CDR": {
@@ -51193,8 +53901,8 @@
                         "lost": 1
                     },
                     "GUERREROS": {
-                        "played": 1,
-                        "win": 1,
+                        "played": 2,
+                        "win": 2,
                         "lost": 0
                     },
                     "HUANUSCO": {
@@ -51223,8 +53931,8 @@
                         "lost": 2
                     },
                     "TIBURONES": {
-                        "played": 1,
-                        "win": 1,
+                        "played": 2,
+                        "win": 2,
                         "lost": 0
                     },
                     "VENGADORES": {
@@ -51254,9 +53962,9 @@
                         "lost": 0
                     },
                     "CHIQUE MIX": {
-                        "played": 1,
+                        "played": 2,
                         "win": 1,
-                        "lost": 0
+                        "lost": 1
                     },
                     "FENIX": {
                         "played": 2,
@@ -51330,9 +54038,9 @@
                         "lost": 2
                     },
                     "FENIX": {
-                        "played": 1,
+                        "played": 2,
                         "win": 0,
-                        "lost": 1
+                        "lost": 2
                     },
                     "GUERREROS": {
                         "played": 2,
@@ -51355,9 +54063,9 @@
                         "lost": 2
                     },
                     "RENCOROSOS": {
-                        "played": 1,
+                        "played": 2,
                         "win": 0,
-                        "lost": 1
+                        "lost": 2
                     },
                     "SPIKERS": {
                         "played": 2,
@@ -51386,8 +54094,8 @@
                 "initials": "VENGADOR",
                 "teamsPlayed": {
                     "CAZADORES": {
-                        "played": 1,
-                        "win": 0,
+                        "played": 2,
+                        "win": 1,
                         "lost": 1
                     },
                     "CDR": {
@@ -51446,8 +54154,8 @@
                         "lost": 0
                     },
                     "VIKINGOS MIX": {
-                        "played": 1,
-                        "win": 1,
+                        "played": 2,
+                        "win": 2,
                         "lost": 0
                     }
                 }
@@ -51467,9 +54175,9 @@
                         "lost": 2
                     },
                     "CHIQUE MIX": {
-                        "played": 1,
+                        "played": 2,
                         "win": 0,
-                        "lost": 1
+                        "lost": 2
                     },
                     "FENIX": {
                         "played": 2,
@@ -51482,9 +54190,9 @@
                         "lost": 0
                     },
                     "HUANUSCO": {
-                        "played": 1,
+                        "played": 2,
                         "win": 1,
-                        "lost": 0
+                        "lost": 1
                     },
                     "MIXTICOS": {
                         "played": 2,
@@ -51512,9 +54220,9 @@
                         "lost": 0
                     },
                     "VENGADORES": {
-                        "played": 1,
+                        "played": 2,
                         "win": 0,
-                        "lost": 1
+                        "lost": 2
                     },
                     "VIKINGOS MIX": {
                         "played": 0,
