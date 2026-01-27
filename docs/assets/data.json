@@ -2119,7 +2119,7 @@
                         },
                         {
                             "number": 11,
-                            "name": "Emiliano Saucedo Rodriguez",
+                            "name": "Cesar Emiliano Saucedo Rodriguez",
                             "gamePlayed": false
                         },
                         {
@@ -2131,11 +2131,6 @@
                             "number": 17,
                             "name": "Kevin Emmanuel Romo Pacheco",
                             "gamePlayed": true
-                        },
-                        {
-                            "number": 104,
-                            "name": "Cesar Saucedo",
-                            "gamePlayed": false
                         }
                     ]
                 },
@@ -2483,7 +2478,7 @@
                         },
                         {
                             "number": 11,
-                            "name": "Emiliano Saucedo Rodriguez",
+                            "name": "Cesar Emiliano Saucedo Rodriguez",
                             "gamePlayed": false
                         },
                         {
@@ -2495,11 +2490,6 @@
                             "number": 17,
                             "name": "Kevin Emmanuel Romo Pacheco",
                             "gamePlayed": true
-                        },
-                        {
-                            "number": 104,
-                            "name": "Cesar Saucedo",
-                            "gamePlayed": false
                         }
                     ]
                 },
@@ -10205,7 +10195,7 @@
                         },
                         {
                             "number": 11,
-                            "name": "Emiliano Saucedo Rodriguez",
+                            "name": "Cesar Emiliano Saucedo Rodriguez",
                             "gamePlayed": true
                         },
                         {
@@ -10216,11 +10206,6 @@
                         {
                             "number": 17,
                             "name": "Kevin Emmanuel Romo Pacheco",
-                            "gamePlayed": false
-                        },
-                        {
-                            "number": 104,
-                            "name": "Cesar Saucedo",
                             "gamePlayed": false
                         }
                     ]
@@ -10378,7 +10363,7 @@
                         {
                             "number": 4,
                             "name": "Fabian Neftali De Loera Lopez",
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 6,
@@ -10397,7 +10382,7 @@
                         },
                         {
                             "number": 11,
-                            "name": "Emiliano Saucedo Rodriguez",
+                            "name": "Cesar Emiliano Saucedo Rodriguez",
                             "gamePlayed": true
                         },
                         {
@@ -10408,11 +10393,6 @@
                         {
                             "number": 17,
                             "name": "Kevin Emmanuel Romo Pacheco",
-                            "gamePlayed": false
-                        },
-                        {
-                            "number": 104,
-                            "name": "Cesar Saucedo",
                             "gamePlayed": false
                         }
                     ]
@@ -18144,7 +18124,7 @@
                         },
                         {
                             "number": 11,
-                            "name": "Emiliano Saucedo Rodriguez",
+                            "name": "Cesar Emiliano Saucedo Rodriguez",
                             "gamePlayed": false
                         },
                         {
@@ -18155,11 +18135,6 @@
                         {
                             "number": 17,
                             "name": "Kevin Emmanuel Romo Pacheco",
-                            "gamePlayed": false
-                        },
-                        {
-                            "number": 104,
-                            "name": "Cesar Saucedo",
                             "gamePlayed": false
                         }
                     ]
@@ -18346,7 +18321,7 @@
                         },
                         {
                             "number": 11,
-                            "name": "Emiliano Saucedo Rodriguez",
+                            "name": "Cesar Emiliano Saucedo Rodriguez",
                             "gamePlayed": false
                         },
                         {
@@ -18357,11 +18332,6 @@
                         {
                             "number": 17,
                             "name": "Kevin Emmanuel Romo Pacheco",
-                            "gamePlayed": false
-                        },
-                        {
-                            "number": 104,
-                            "name": "Cesar Saucedo",
                             "gamePlayed": false
                         }
                     ]
@@ -24259,7 +24229,7 @@
                         {
                             "number": 1,
                             "name": "Victor Daniel Ropon Lopez",
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 2,
@@ -24288,8 +24258,8 @@
                         },
                         {
                             "number": 11,
-                            "name": "Emiliano Saucedo Rodriguez",
-                            "gamePlayed": false
+                            "name": "Cesar Emiliano Saucedo Rodriguez",
+                            "gamePlayed": true
                         },
                         {
                             "number": 12,
@@ -24300,11 +24270,6 @@
                             "number": 17,
                             "name": "Kevin Emmanuel Romo Pacheco",
                             "gamePlayed": false
-                        },
-                        {
-                            "number": 104,
-                            "name": "Cesar Saucedo",
-                            "gamePlayed": true
                         }
                     ]
                 },
@@ -24618,7 +24583,7 @@
                         {
                             "number": 1,
                             "name": "Victor Daniel Ropon Lopez",
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 2,
@@ -24647,8 +24612,8 @@
                         },
                         {
                             "number": 11,
-                            "name": "Emiliano Saucedo Rodriguez",
-                            "gamePlayed": false
+                            "name": "Cesar Emiliano Saucedo Rodriguez",
+                            "gamePlayed": true
                         },
                         {
                             "number": 12,
@@ -24658,11 +24623,6 @@
                         {
                             "number": 17,
                             "name": "Kevin Emmanuel Romo Pacheco",
-                            "gamePlayed": false
-                        },
-                        {
-                            "number": 104,
-                            "name": "Cesar Saucedo",
                             "gamePlayed": true
                         }
                     ]
@@ -30983,8 +30943,8 @@
                         },
                         {
                             "number": 11,
-                            "name": "Emiliano Saucedo Rodriguez",
-                            "gamePlayed": false
+                            "name": "Cesar Emiliano Saucedo Rodriguez",
+                            "gamePlayed": true
                         },
                         {
                             "number": 12,
@@ -30994,11 +30954,6 @@
                         {
                             "number": 17,
                             "name": "Kevin Emmanuel Romo Pacheco",
-                            "gamePlayed": true
-                        },
-                        {
-                            "number": 104,
-                            "name": "Cesar Saucedo",
                             "gamePlayed": true
                         }
                     ]
@@ -31357,7 +31312,7 @@
                         },
                         {
                             "number": 11,
-                            "name": "Emiliano Saucedo Rodriguez",
+                            "name": "Cesar Emiliano Saucedo Rodriguez",
                             "gamePlayed": true
                         },
                         {
@@ -31369,11 +31324,6 @@
                             "number": 17,
                             "name": "Kevin Emmanuel Romo Pacheco",
                             "gamePlayed": true
-                        },
-                        {
-                            "number": 104,
-                            "name": "Cesar Saucedo",
-                            "gamePlayed": false
                         }
                     ]
                 },
@@ -36558,8 +36508,8 @@
                         },
                         {
                             "number": 11,
-                            "name": "Emiliano Saucedo Rodriguez",
-                            "gamePlayed": false
+                            "name": "Cesar Emiliano Saucedo Rodriguez",
+                            "gamePlayed": true
                         },
                         {
                             "number": 12,
@@ -36570,11 +36520,6 @@
                             "number": 17,
                             "name": "Kevin Emmanuel Romo Pacheco",
                             "gamePlayed": false
-                        },
-                        {
-                            "number": 104,
-                            "name": "Cesar Saucedo",
-                            "gamePlayed": true
                         }
                     ]
                 },
@@ -37119,7 +37064,7 @@
                         },
                         {
                             "number": 11,
-                            "name": "Emiliano Saucedo Rodriguez",
+                            "name": "Cesar Emiliano Saucedo Rodriguez",
                             "gamePlayed": true
                         },
                         {
@@ -37130,11 +37075,6 @@
                         {
                             "number": 17,
                             "name": "Kevin Emmanuel Romo Pacheco",
-                            "gamePlayed": false
-                        },
-                        {
-                            "number": 104,
-                            "name": "Cesar Saucedo",
                             "gamePlayed": false
                         }
                     ]
@@ -43659,7 +43599,7 @@
                         },
                         {
                             "number": 11,
-                            "name": "Emiliano Saucedo Rodriguez",
+                            "name": "Cesar Emiliano Saucedo Rodriguez",
                             "gamePlayed": false
                         },
                         {
@@ -43670,11 +43610,6 @@
                         {
                             "number": 17,
                             "name": "Kevin Emmanuel Romo Pacheco",
-                            "gamePlayed": false
-                        },
-                        {
-                            "number": 104,
-                            "name": "Cesar Saucedo",
                             "gamePlayed": false
                         }
                     ]
@@ -47455,20 +47390,20 @@
             "teamStats": [
                 {
                     "teamName": "CIERVOS",
-                    "score": 0,
-                    "sets": 0,
-                    "points": 0,
-                    "state": "PENDING",
+                    "score": 1,
+                    "sets": 2,
+                    "points": 50,
+                    "state": "WINNER",
                     "setStats": [
                         {
                             "setNumber": 1,
-                            "state": "PENDING",
-                            "points": 0
+                            "state": "WINNER",
+                            "points": 25
                         },
                         {
                             "setNumber": 2,
-                            "state": "PENDING",
-                            "points": 0
+                            "state": "WINNER",
+                            "points": 25
                         },
                         {
                             "setNumber": 3,
@@ -47490,52 +47425,47 @@
                         {
                             "number": 1,
                             "name": "Victor Daniel Ropon Lopez",
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 2,
                             "name": "Juan de Dios Ronpon Lopez",
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 4,
                             "name": "Fabian Neftali De Loera Lopez",
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 6,
                             "name": "Eduardo Velasco Ramirez",
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 7,
                             "name": "Aldo Sebastian Gonzalez Valdivia",
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 9,
                             "name": "Oscar Alan Valdivia Gallegos",
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 11,
-                            "name": "Emiliano Saucedo Rodriguez",
-                            "gamePlayed": false
+                            "name": "Cesar Emiliano Saucedo Rodriguez",
+                            "gamePlayed": true
                         },
                         {
                             "number": 12,
                             "name": "J Jesus Rosales Soto",
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 17,
                             "name": "Kevin Emmanuel Romo Pacheco",
-                            "gamePlayed": false
-                        },
-                        {
-                            "number": 104,
-                            "name": "Cesar Saucedo",
-                            "gamePlayed": false
+                            "gamePlayed": true
                         }
                     ]
                 },
@@ -47544,16 +47474,16 @@
                     "score": 0,
                     "sets": 0,
                     "points": 0,
-                    "state": "PENDING",
+                    "state": "DEFAULT",
                     "setStats": [
                         {
                             "setNumber": 1,
-                            "state": "PENDING",
+                            "state": "DEFAULT",
                             "points": 0
                         },
                         {
                             "setNumber": 2,
-                            "state": "PENDING",
+                            "state": "DEFAULT",
                             "points": 0
                         },
                         {
@@ -48621,11 +48551,11 @@
             "name": "CIERVOS",
             "initials": "CIERVOS",
             "isActive": true,
-            "gamesWon": 11,
-            "gamesLost": 3,
-            "setsWon": 23,
+            "gamesWon": 12,
+            "gamesLost": 2,
+            "setsWon": 25,
             "setsLost": 5,
-            "pointsWon": 615,
+            "pointsWon": 665,
             "pointsLost": 435,
             "teamPlayers": [
                 {
@@ -48633,9 +48563,9 @@
                     "lastName": "Ropon Lopez",
                     "sex": "MALE",
                     "number": 1,
-                    "gamesPlayed": 6,
+                    "gamesPlayed": 9,
                     "gamesTotal": 14,
-                    "gamesPercentage": 43,
+                    "gamesPercentage": 64,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -48644,9 +48574,9 @@
                     "lastName": "Ronpon Lopez",
                     "sex": "MALE",
                     "number": 2,
-                    "gamesPlayed": 10,
+                    "gamesPlayed": 11,
                     "gamesTotal": 14,
-                    "gamesPercentage": 71,
+                    "gamesPercentage": 79,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -48655,9 +48585,9 @@
                     "lastName": "De Loera Lopez",
                     "sex": "MALE",
                     "number": 4,
-                    "gamesPlayed": 4,
+                    "gamesPlayed": 6,
                     "gamesTotal": 14,
-                    "gamesPercentage": 29,
+                    "gamesPercentage": 43,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -48666,9 +48596,9 @@
                     "lastName": "Velasco Ramirez",
                     "sex": "MALE",
                     "number": 6,
-                    "gamesPlayed": 10,
+                    "gamesPlayed": 11,
                     "gamesTotal": 14,
-                    "gamesPercentage": 71,
+                    "gamesPercentage": 79,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -48677,9 +48607,9 @@
                     "lastName": "Gonzalez Valdivia",
                     "sex": "MALE",
                     "number": 7,
-                    "gamesPlayed": 10,
+                    "gamesPlayed": 11,
                     "gamesTotal": 14,
-                    "gamesPercentage": 71,
+                    "gamesPercentage": 79,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -48688,20 +48618,20 @@
                     "lastName": "Valdivia Gallegos",
                     "sex": "MALE",
                     "number": 9,
-                    "gamesPlayed": 4,
+                    "gamesPlayed": 5,
                     "gamesTotal": 14,
-                    "gamesPercentage": 29,
+                    "gamesPercentage": 36,
                     "isActive": true,
                     "gamePlayed": null
                 },
                 {
-                    "name": "Emiliano",
+                    "name": "Cesar Emiliano",
                     "lastName": "Saucedo Rodriguez",
                     "sex": "MALE",
                     "number": 11,
-                    "gamesPlayed": 4,
+                    "gamesPlayed": 9,
                     "gamesTotal": 14,
-                    "gamesPercentage": 29,
+                    "gamesPercentage": 64,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -48710,9 +48640,9 @@
                     "lastName": "Rosales Soto",
                     "sex": "MALE",
                     "number": 12,
-                    "gamesPlayed": 9,
+                    "gamesPlayed": 10,
                     "gamesTotal": 14,
-                    "gamesPercentage": 64,
+                    "gamesPercentage": 71,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -48721,20 +48651,9 @@
                     "lastName": "Romo Pacheco",
                     "sex": "MALE",
                     "number": 17,
-                    "gamesPlayed": 4,
+                    "gamesPlayed": 6,
                     "gamesTotal": 14,
-                    "gamesPercentage": 29,
-                    "isActive": true,
-                    "gamePlayed": null
-                },
-                {
-                    "name": "Cesar",
-                    "lastName": "Saucedo",
-                    "sex": "MALE",
-                    "number": 104,
-                    "gamesPlayed": 4,
-                    "gamesTotal": 14,
-                    "gamesPercentage": 29,
+                    "gamesPercentage": 43,
                     "isActive": true,
                     "gamePlayed": null
                 }
@@ -51291,9 +51210,9 @@
             "gamesWon": 10,
             "gamesLost": 4,
             "setsWon": 21,
-            "setsLost": 6,
+            "setsLost": 8,
             "pointsWon": 599,
-            "pointsLost": 511,
+            "pointsLost": 561,
             "teamPlayers": [
                 {
                     "name": "Oliver",
@@ -51923,12 +51842,12 @@
     "eliminationGames": {
         "VARONIL": [
             {
-                "gameId": 2233,
+                "gameId": 2699,
                 "tournamentId": 5,
                 "weekNumber": 1,
                 "category": "VARONIL",
                 "stage": "SEMI",
-                "gameDate": "2026-01-22T21:32:27.000+00:00",
+                "gameDate": "2026-01-27T18:40:59.000+00:00",
                 "gamePlace": "ARRIBA",
                 "byDefault": false,
                 "teamStats": [
@@ -52007,12 +51926,12 @@
                 ]
             },
             {
-                "gameId": 2234,
+                "gameId": 2700,
                 "tournamentId": 5,
                 "weekNumber": 2,
                 "category": "VARONIL",
                 "stage": "SEMI",
-                "gameDate": "2026-01-22T21:32:27.000+00:00",
+                "gameDate": "2026-01-27T18:40:59.000+00:00",
                 "gamePlace": "ARRIBA",
                 "byDefault": false,
                 "teamStats": [
@@ -52091,12 +52010,12 @@
                 ]
             },
             {
-                "gameId": 2236,
+                "gameId": 2701,
                 "tournamentId": 5,
                 "weekNumber": 3,
                 "category": "VARONIL",
                 "stage": "QUARTER",
-                "gameDate": "2026-01-22T21:32:27.000+00:00",
+                "gameDate": "2026-01-27T18:40:59.000+00:00",
                 "gamePlace": "ARRIBA",
                 "byDefault": false,
                 "teamStats": [
@@ -52175,12 +52094,12 @@
                 ]
             },
             {
-                "gameId": 2235,
+                "gameId": 2702,
                 "tournamentId": 5,
                 "weekNumber": 4,
                 "category": "VARONIL",
                 "stage": "QUARTER",
-                "gameDate": "2026-01-22T21:32:27.000+00:00",
+                "gameDate": "2026-01-27T18:40:59.000+00:00",
                 "gamePlace": "ARRIBA",
                 "byDefault": false,
                 "teamStats": [
@@ -52261,12 +52180,12 @@
         ],
         "MIXTO": [
             {
-                "gameId": 2237,
+                "gameId": 2621,
                 "tournamentId": 5,
                 "weekNumber": 1,
                 "category": "MIXTO",
                 "stage": "QUARTER",
-                "gameDate": "2026-01-22T21:32:27.000+00:00",
+                "gameDate": "2026-01-27T18:23:19.000+00:00",
                 "gamePlace": "ARRIBA",
                 "byDefault": false,
                 "teamStats": [
@@ -52274,25 +52193,25 @@
                         "teamId": 485,
                         "teamName": "MIXTICOS",
                         "players": [],
-                        "score": 0,
-                        "sets": 0,
+                        "score": 1,
+                        "sets": 3,
                         "points": 0,
-                        "state": "PENDING",
+                        "state": "WINNER",
                         "setStats": [
                             {
                                 "setNumber": 1,
-                                "state": "PENDING",
-                                "points": 0
+                                "state": "WINNER",
+                                "points": 25
                             },
                             {
                                 "setNumber": 2,
-                                "state": "PENDING",
-                                "points": 0
+                                "state": "WINNER",
+                                "points": 25
                             },
                             {
                                 "setNumber": 3,
-                                "state": "PENDING",
-                                "points": 0
+                                "state": "WINNER",
+                                "points": 25
                             },
                             {
                                 "setNumber": 4,
@@ -52313,22 +52232,22 @@
                         "score": 0,
                         "sets": 0,
                         "points": 0,
-                        "state": "PENDING",
+                        "state": "LOSSER",
                         "setStats": [
                             {
                                 "setNumber": 1,
-                                "state": "PENDING",
-                                "points": 0
+                                "state": "LOSSER",
+                                "points": 19
                             },
                             {
                                 "setNumber": 2,
-                                "state": "PENDING",
-                                "points": 0
+                                "state": "LOSSER",
+                                "points": 23
                             },
                             {
                                 "setNumber": 3,
-                                "state": "PENDING",
-                                "points": 0
+                                "state": "LOSSER",
+                                "points": 21
                             },
                             {
                                 "setNumber": 4,
@@ -52345,102 +52264,18 @@
                 ]
             },
             {
-                "gameId": 2238,
+                "gameId": 2703,
                 "tournamentId": 5,
-                "weekNumber": 2,
+                "weekNumber": 1,
                 "category": "MIXTO",
-                "stage": "QUARTER",
-                "gameDate": "2026-01-22T21:32:27.000+00:00",
+                "stage": "SEMI",
+                "gameDate": "2026-01-27T18:40:59.000+00:00",
                 "gamePlace": "ARRIBA",
                 "byDefault": false,
                 "teamStats": [
                     {
-                        "teamId": 486,
-                        "teamName": "SPIKERS",
-                        "players": [],
-                        "score": 0,
-                        "sets": 0,
-                        "points": 0,
-                        "state": "PENDING",
-                        "setStats": [
-                            {
-                                "setNumber": 1,
-                                "state": "PENDING",
-                                "points": 0
-                            },
-                            {
-                                "setNumber": 2,
-                                "state": "PENDING",
-                                "points": 0
-                            },
-                            {
-                                "setNumber": 3,
-                                "state": "PENDING",
-                                "points": 0
-                            },
-                            {
-                                "setNumber": 4,
-                                "state": "PENDING",
-                                "points": 0
-                            },
-                            {
-                                "setNumber": 5,
-                                "state": "PENDING",
-                                "points": 0
-                            }
-                        ]
-                    },
-                    {
-                        "teamId": 492,
-                        "teamName": "RENCOROSOS",
-                        "players": [],
-                        "score": 0,
-                        "sets": 0,
-                        "points": 0,
-                        "state": "PENDING",
-                        "setStats": [
-                            {
-                                "setNumber": 1,
-                                "state": "PENDING",
-                                "points": 0
-                            },
-                            {
-                                "setNumber": 2,
-                                "state": "PENDING",
-                                "points": 0
-                            },
-                            {
-                                "setNumber": 3,
-                                "state": "PENDING",
-                                "points": 0
-                            },
-                            {
-                                "setNumber": 4,
-                                "state": "PENDING",
-                                "points": 0
-                            },
-                            {
-                                "setNumber": 5,
-                                "state": "PENDING",
-                                "points": 0
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "gameId": 2240,
-                "tournamentId": 5,
-                "weekNumber": 3,
-                "category": "MIXTO",
-                "stage": "QUARTER",
-                "gameDate": "2026-01-22T21:32:27.000+00:00",
-                "gamePlace": "ARRIBA",
-                "byDefault": false,
-                "teamStats": [
-                    {
-                        "teamId": 484,
-                        "teamName": "FENIX",
+                        "teamId": 485,
+                        "teamName": "MIXTICOS",
                         "players": [],
                         "score": 0,
                         "sets": 0,
@@ -52513,15 +52348,135 @@
                 ]
             },
             {
-                "gameId": 2239,
+                "gameId": 2622,
                 "tournamentId": 5,
-                "weekNumber": 4,
+                "weekNumber": 2,
                 "category": "MIXTO",
                 "stage": "QUARTER",
-                "gameDate": "2026-01-22T21:32:27.000+00:00",
+                "gameDate": "2026-01-27T18:23:19.000+00:00",
                 "gamePlace": "ARRIBA",
                 "byDefault": false,
                 "teamStats": [
+                    {
+                        "teamId": 486,
+                        "teamName": "SPIKERS",
+                        "players": [],
+                        "score": 1,
+                        "sets": 3,
+                        "points": 0,
+                        "state": "WINNER",
+                        "setStats": [
+                            {
+                                "setNumber": 1,
+                                "state": "WINNER",
+                                "points": 29
+                            },
+                            {
+                                "setNumber": 2,
+                                "state": "LOSSER",
+                                "points": 18
+                            },
+                            {
+                                "setNumber": 3,
+                                "state": "WINNER",
+                                "points": 25
+                            },
+                            {
+                                "setNumber": 4,
+                                "state": "WINNER",
+                                "points": 25
+                            },
+                            {
+                                "setNumber": 5,
+                                "state": "PENDING",
+                                "points": 0
+                            }
+                        ]
+                    },
+                    {
+                        "teamId": 492,
+                        "teamName": "RENCOROSOS",
+                        "players": [],
+                        "score": 0,
+                        "sets": 1,
+                        "points": 0,
+                        "state": "LOSSER",
+                        "setStats": [
+                            {
+                                "setNumber": 1,
+                                "state": "LOSSER",
+                                "points": 27
+                            },
+                            {
+                                "setNumber": 2,
+                                "state": "WINNER",
+                                "points": 25
+                            },
+                            {
+                                "setNumber": 3,
+                                "state": "LOSSER",
+                                "points": 23
+                            },
+                            {
+                                "setNumber": 4,
+                                "state": "LOSSER",
+                                "points": 19
+                            },
+                            {
+                                "setNumber": 5,
+                                "state": "PENDING",
+                                "points": 0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "gameId": 2704,
+                "tournamentId": 5,
+                "weekNumber": 2,
+                "category": "MIXTO",
+                "stage": "SEMI",
+                "gameDate": "2026-01-27T18:40:59.000+00:00",
+                "gamePlace": "ARRIBA",
+                "byDefault": false,
+                "teamStats": [
+                    {
+                        "teamId": 486,
+                        "teamName": "SPIKERS",
+                        "players": [],
+                        "score": 0,
+                        "sets": 0,
+                        "points": 0,
+                        "state": "PENDING",
+                        "setStats": [
+                            {
+                                "setNumber": 1,
+                                "state": "PENDING",
+                                "points": 0
+                            },
+                            {
+                                "setNumber": 2,
+                                "state": "PENDING",
+                                "points": 0
+                            },
+                            {
+                                "setNumber": 3,
+                                "state": "PENDING",
+                                "points": 0
+                            },
+                            {
+                                "setNumber": 4,
+                                "state": "PENDING",
+                                "points": 0
+                            },
+                            {
+                                "setNumber": 5,
+                                "state": "PENDING",
+                                "points": 0
+                            }
+                        ]
+                    },
                     {
                         "teamId": 497,
                         "teamName": "VENGADORES",
@@ -52557,6 +52512,138 @@
                                 "points": 0
                             }
                         ]
+                    }
+                ]
+            },
+            {
+                "gameId": 2623,
+                "tournamentId": 5,
+                "weekNumber": 3,
+                "category": "MIXTO",
+                "stage": "QUARTER",
+                "gameDate": "2026-01-27T18:23:19.000+00:00",
+                "gamePlace": "ARRIBA",
+                "byDefault": false,
+                "teamStats": [
+                    {
+                        "teamId": 484,
+                        "teamName": "FENIX",
+                        "players": [],
+                        "score": 0,
+                        "sets": 2,
+                        "points": 0,
+                        "state": "LOSSER",
+                        "setStats": [
+                            {
+                                "setNumber": 1,
+                                "state": "WINNER",
+                                "points": 25
+                            },
+                            {
+                                "setNumber": 2,
+                                "state": "LOSSER",
+                                "points": 25
+                            },
+                            {
+                                "setNumber": 3,
+                                "state": "LOSSER",
+                                "points": 17
+                            },
+                            {
+                                "setNumber": 4,
+                                "state": "WINNER",
+                                "points": 25
+                            },
+                            {
+                                "setNumber": 5,
+                                "state": "LOSSER",
+                                "points": 8
+                            }
+                        ]
+                    },
+                    {
+                        "teamId": 476,
+                        "teamName": "CHIQUE MIX",
+                        "players": [],
+                        "score": 1,
+                        "sets": 3,
+                        "points": 0,
+                        "state": "WINNER",
+                        "setStats": [
+                            {
+                                "setNumber": 1,
+                                "state": "LOSSER",
+                                "points": 22
+                            },
+                            {
+                                "setNumber": 2,
+                                "state": "WINNER",
+                                "points": 27
+                            },
+                            {
+                                "setNumber": 3,
+                                "state": "WINNER",
+                                "points": 25
+                            },
+                            {
+                                "setNumber": 4,
+                                "state": "LOSSER",
+                                "points": 18
+                            },
+                            {
+                                "setNumber": 5,
+                                "state": "WINNER",
+                                "points": 15
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "gameId": 2624,
+                "tournamentId": 5,
+                "weekNumber": 4,
+                "category": "MIXTO",
+                "stage": "QUARTER",
+                "gameDate": "2026-01-27T18:23:19.000+00:00",
+                "gamePlace": "ARRIBA",
+                "byDefault": false,
+                "teamStats": [
+                    {
+                        "teamId": 497,
+                        "teamName": "VENGADORES",
+                        "players": [],
+                        "score": 1,
+                        "sets": 3,
+                        "points": 100,
+                        "state": "WINNER",
+                        "setStats": [
+                            {
+                                "setNumber": 1,
+                                "state": "WINNER",
+                                "points": 25
+                            },
+                            {
+                                "setNumber": 2,
+                                "state": "WINNER",
+                                "points": 25
+                            },
+                            {
+                                "setNumber": 3,
+                                "state": "LOSSER",
+                                "points": 25
+                            },
+                            {
+                                "setNumber": 4,
+                                "state": "WINNER",
+                                "points": 25
+                            },
+                            {
+                                "setNumber": 5,
+                                "state": "PENDING",
+                                "points": 0
+                            }
+                        ]
                     },
                     {
                         "teamId": 491,
@@ -52564,28 +52651,28 @@
                         "players": [],
                         "score": 0,
                         "sets": 0,
-                        "points": 0,
-                        "state": "PENDING",
+                        "points": 63,
+                        "state": "LOSSER",
                         "setStats": [
                             {
                                 "setNumber": 1,
-                                "state": "PENDING",
-                                "points": 0
+                                "state": "LOSSER",
+                                "points": 9
                             },
                             {
                                 "setNumber": 2,
-                                "state": "PENDING",
-                                "points": 0
+                                "state": "LOSSER",
+                                "points": 14
                             },
                             {
                                 "setNumber": 3,
-                                "state": "PENDING",
-                                "points": 0
+                                "state": "WINNER",
+                                "points": 27
                             },
                             {
                                 "setNumber": 4,
-                                "state": "PENDING",
-                                "points": 0
+                                "state": "LOSSER",
+                                "points": 13
                             },
                             {
                                 "setNumber": 5,
@@ -52599,12 +52686,12 @@
         ],
         "FEMENIL": [
             {
-                "gameId": 2229,
+                "gameId": 2695,
                 "tournamentId": 5,
                 "weekNumber": 1,
                 "category": "FEMENIL",
                 "stage": "SEMI",
-                "gameDate": "2026-01-22T21:32:27.000+00:00",
+                "gameDate": "2026-01-27T18:40:59.000+00:00",
                 "gamePlace": "ARRIBA",
                 "byDefault": false,
                 "teamStats": [
@@ -52683,12 +52770,12 @@
                 ]
             },
             {
-                "gameId": 2230,
+                "gameId": 2696,
                 "tournamentId": 5,
                 "weekNumber": 2,
                 "category": "FEMENIL",
                 "stage": "SEMI",
-                "gameDate": "2026-01-22T21:32:27.000+00:00",
+                "gameDate": "2026-01-27T18:40:59.000+00:00",
                 "gamePlace": "ARRIBA",
                 "byDefault": false,
                 "teamStats": [
@@ -52767,12 +52854,12 @@
                 ]
             },
             {
-                "gameId": 2232,
+                "gameId": 2697,
                 "tournamentId": 5,
                 "weekNumber": 3,
                 "category": "FEMENIL",
                 "stage": "QUARTER",
-                "gameDate": "2026-01-22T21:32:27.000+00:00",
+                "gameDate": "2026-01-27T18:40:59.000+00:00",
                 "gamePlace": "ARRIBA",
                 "byDefault": false,
                 "teamStats": [
@@ -52851,12 +52938,12 @@
                 ]
             },
             {
-                "gameId": 2231,
+                "gameId": 2698,
                 "tournamentId": 5,
                 "weekNumber": 4,
                 "category": "FEMENIL",
                 "stage": "QUARTER",
-                "gameDate": "2026-01-22T21:32:27.000+00:00",
+                "gameDate": "2026-01-27T18:40:59.000+00:00",
                 "gamePlace": "ARRIBA",
                 "byDefault": false,
                 "teamStats": [
@@ -53025,7 +53112,7 @@
                     },
                     "VAGOS": {
                         "played": 2,
-                        "win": 0,
+                        "win": 1,
                         "lost": 1
                     }
                 }
@@ -53272,7 +53359,7 @@
                     "CIERVOS": {
                         "played": 2,
                         "win": 1,
-                        "lost": 0
+                        "lost": 1
                     },
                     "CUERVOS": {
                         "played": 2,
