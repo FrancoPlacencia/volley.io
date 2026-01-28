@@ -1137,8 +1137,13 @@
                             "gamePlayed": true
                         },
                         {
-                            "number": 12,
-                            "name": "Gerardo Vargas Escobar",
+                            "number": 11,
+                            "name": "Edgar Delgado Contreras",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 21,
+                            "name": "Luis Fernando Ramos",
                             "gamePlayed": false
                         },
                         {
@@ -1175,11 +1180,6 @@
                             "number": 904,
                             "name": "Juan Abel Sandoval Marquez",
                             "gamePlayed": true
-                        },
-                        {
-                            "number": 999,
-                            "name": "Jose Eduardo Almaraz Alvallar",
-                            "gamePlayed": false
                         }
                     ]
                 }
@@ -3695,8 +3695,13 @@
                             "gamePlayed": true
                         },
                         {
-                            "number": 12,
-                            "name": "Gerardo Vargas Escobar",
+                            "number": 11,
+                            "name": "Edgar Delgado Contreras",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 21,
+                            "name": "Luis Fernando Ramos",
                             "gamePlayed": false
                         },
                         {
@@ -3732,11 +3737,6 @@
                         {
                             "number": 904,
                             "name": "Juan Abel Sandoval Marquez",
-                            "gamePlayed": false
-                        },
-                        {
-                            "number": 999,
-                            "name": "Jose Eduardo Almaraz Alvallar",
                             "gamePlayed": false
                         }
                     ]
@@ -5914,8 +5914,13 @@
                             "gamePlayed": true
                         },
                         {
-                            "number": 12,
-                            "name": "Gerardo Vargas Escobar",
+                            "number": 11,
+                            "name": "Edgar Delgado Contreras",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 21,
+                            "name": "Luis Fernando Ramos",
                             "gamePlayed": false
                         },
                         {
@@ -5952,11 +5957,6 @@
                             "number": 904,
                             "name": "Juan Abel Sandoval Marquez",
                             "gamePlayed": true
-                        },
-                        {
-                            "number": 999,
-                            "name": "Jose Eduardo Almaraz Alvallar",
-                            "gamePlayed": false
                         }
                     ]
                 }
@@ -10260,8 +10260,13 @@
                             "gamePlayed": true
                         },
                         {
-                            "number": 12,
-                            "name": "Gerardo Vargas Escobar",
+                            "number": 11,
+                            "name": "Edgar Delgado Contreras",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 21,
+                            "name": "Luis Fernando Ramos",
                             "gamePlayed": false
                         },
                         {
@@ -10298,11 +10303,6 @@
                             "number": 904,
                             "name": "Juan Abel Sandoval Marquez",
                             "gamePlayed": true
-                        },
-                        {
-                            "number": 999,
-                            "name": "Jose Eduardo Almaraz Alvallar",
-                            "gamePlayed": false
                         }
                     ]
                 }
@@ -13828,8 +13828,13 @@
                             "gamePlayed": true
                         },
                         {
-                            "number": 12,
-                            "name": "Gerardo Vargas Escobar",
+                            "number": 11,
+                            "name": "Edgar Delgado Contreras",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 21,
+                            "name": "Luis Fernando Ramos",
                             "gamePlayed": false
                         },
                         {
@@ -13866,11 +13871,6 @@
                             "number": 904,
                             "name": "Juan Abel Sandoval Marquez",
                             "gamePlayed": true
-                        },
-                        {
-                            "number": 999,
-                            "name": "Jose Eduardo Almaraz Alvallar",
-                            "gamePlayed": false
                         }
                     ]
                 }
@@ -15283,8 +15283,13 @@
                             "gamePlayed": true
                         },
                         {
-                            "number": 12,
-                            "name": "Gerardo Vargas Escobar",
+                            "number": 11,
+                            "name": "Edgar Delgado Contreras",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 21,
+                            "name": "Luis Fernando Ramos",
                             "gamePlayed": false
                         },
                         {
@@ -15321,11 +15326,6 @@
                             "number": 904,
                             "name": "Juan Abel Sandoval Marquez",
                             "gamePlayed": true
-                        },
-                        {
-                            "number": 999,
-                            "name": "Jose Eduardo Almaraz Alvallar",
-                            "gamePlayed": false
                         }
                     ]
                 },
@@ -15748,8 +15748,13 @@
                             "gamePlayed": true
                         },
                         {
-                            "number": 12,
-                            "name": "Gerardo Vargas Escobar",
+                            "number": 11,
+                            "name": "Edgar Delgado Contreras",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 21,
+                            "name": "Luis Fernando Ramos",
                             "gamePlayed": false
                         },
                         {
@@ -15785,11 +15790,6 @@
                         {
                             "number": 904,
                             "name": "Juan Abel Sandoval Marquez",
-                            "gamePlayed": false
-                        },
-                        {
-                            "number": 999,
-                            "name": "Jose Eduardo Almaraz Alvallar",
                             "gamePlayed": false
                         }
                     ]
@@ -26662,8 +26662,13 @@
                             "gamePlayed": true
                         },
                         {
-                            "number": 12,
-                            "name": "Gerardo Vargas Escobar",
+                            "number": 11,
+                            "name": "Edgar Delgado Contreras",
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 21,
+                            "name": "Luis Fernando Ramos",
                             "gamePlayed": false
                         },
                         {
@@ -26699,11 +26704,6 @@
                         {
                             "number": 904,
                             "name": "Juan Abel Sandoval Marquez",
-                            "gamePlayed": false
-                        },
-                        {
-                            "number": 999,
-                            "name": "Jose Eduardo Almaraz Alvallar",
                             "gamePlayed": false
                         }
                     ]
@@ -29078,9 +29078,14 @@
                             "gamePlayed": true
                         },
                         {
-                            "number": 12,
-                            "name": "Gerardo Vargas Escobar",
-                            "gamePlayed": false
+                            "number": 11,
+                            "name": "Edgar Delgado Contreras",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 21,
+                            "name": "Luis Fernando Ramos",
+                            "gamePlayed": true
                         },
                         {
                             "number": 22,
@@ -29115,11 +29120,6 @@
                         {
                             "number": 904,
                             "name": "Juan Abel Sandoval Marquez",
-                            "gamePlayed": false
-                        },
-                        {
-                            "number": 999,
-                            "name": "Jose Eduardo Almaraz Alvallar",
                             "gamePlayed": false
                         }
                     ]
@@ -35476,9 +35476,14 @@
                             "gamePlayed": false
                         },
                         {
-                            "number": 12,
-                            "name": "Gerardo Vargas Escobar",
-                            "gamePlayed": false
+                            "number": 11,
+                            "name": "Edgar Delgado Contreras",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 21,
+                            "name": "Luis Fernando Ramos",
+                            "gamePlayed": true
                         },
                         {
                             "number": 22,
@@ -35513,11 +35518,6 @@
                         {
                             "number": 904,
                             "name": "Juan Abel Sandoval Marquez",
-                            "gamePlayed": false
-                        },
-                        {
-                            "number": 999,
-                            "name": "Jose Eduardo Almaraz Alvallar",
                             "gamePlayed": false
                         }
                     ]
@@ -36169,9 +36169,14 @@
                             "gamePlayed": true
                         },
                         {
-                            "number": 12,
-                            "name": "Gerardo Vargas Escobar",
-                            "gamePlayed": false
+                            "number": 11,
+                            "name": "Edgar Delgado Contreras",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 21,
+                            "name": "Luis Fernando Ramos",
+                            "gamePlayed": true
                         },
                         {
                             "number": 22,
@@ -36206,11 +36211,6 @@
                         {
                             "number": 904,
                             "name": "Juan Abel Sandoval Marquez",
-                            "gamePlayed": false
-                        },
-                        {
-                            "number": 999,
-                            "name": "Jose Eduardo Almaraz Alvallar",
                             "gamePlayed": false
                         }
                     ]
@@ -36573,8 +36573,13 @@
                             "gamePlayed": true
                         },
                         {
-                            "number": 12,
-                            "name": "Gerardo Vargas Escobar",
+                            "number": 11,
+                            "name": "Edgar Delgado Contreras",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 21,
+                            "name": "Luis Fernando Ramos",
                             "gamePlayed": false
                         },
                         {
@@ -36610,11 +36615,6 @@
                         {
                             "number": 904,
                             "name": "Juan Abel Sandoval Marquez",
-                            "gamePlayed": false
-                        },
-                        {
-                            "number": 999,
-                            "name": "Jose Eduardo Almaraz Alvallar",
                             "gamePlayed": false
                         }
                     ]
@@ -42188,9 +42188,14 @@
                             "gamePlayed": true
                         },
                         {
-                            "number": 12,
-                            "name": "Gerardo Vargas Escobar",
-                            "gamePlayed": false
+                            "number": 11,
+                            "name": "Edgar Delgado Contreras",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 21,
+                            "name": "Luis Fernando Ramos",
+                            "gamePlayed": true
                         },
                         {
                             "number": 22,
@@ -42225,11 +42230,6 @@
                         {
                             "number": 904,
                             "name": "Juan Abel Sandoval Marquez",
-                            "gamePlayed": false
-                        },
-                        {
-                            "number": 999,
-                            "name": "Jose Eduardo Almaraz Alvallar",
                             "gamePlayed": false
                         }
                     ]
@@ -42547,9 +42547,14 @@
                             "gamePlayed": true
                         },
                         {
-                            "number": 12,
-                            "name": "Gerardo Vargas Escobar",
-                            "gamePlayed": false
+                            "number": 11,
+                            "name": "Edgar Delgado Contreras",
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 21,
+                            "name": "Luis Fernando Ramos",
+                            "gamePlayed": true
                         },
                         {
                             "number": 22,
@@ -42584,11 +42589,6 @@
                         {
                             "number": 904,
                             "name": "Juan Abel Sandoval Marquez",
-                            "gamePlayed": false
-                        },
-                        {
-                            "number": 999,
-                            "name": "Jose Eduardo Almaraz Alvallar",
                             "gamePlayed": false
                         }
                     ]
@@ -49183,13 +49183,24 @@
                     "gamePlayed": null
                 },
                 {
-                    "name": "Gerardo",
-                    "lastName": "Vargas Escobar",
+                    "name": "Edgar",
+                    "lastName": "Delgado Contreras",
                     "sex": "MALE",
-                    "number": 12,
-                    "gamesPlayed": 0,
-                    "gamesTotal": 0,
-                    "gamesPercentage": 0,
+                    "number": 11,
+                    "gamesPlayed": 6,
+                    "gamesTotal": 14,
+                    "gamesPercentage": 43,
+                    "isActive": true,
+                    "gamePlayed": null
+                },
+                {
+                    "name": "Luis Fernando",
+                    "lastName": "Ramos",
+                    "sex": "MALE",
+                    "number": 21,
+                    "gamesPlayed": 5,
+                    "gamesTotal": 14,
+                    "gamesPercentage": 36,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -49267,17 +49278,6 @@
                     "gamesPlayed": 5,
                     "gamesTotal": 14,
                     "gamesPercentage": 36,
-                    "isActive": true,
-                    "gamePlayed": null
-                },
-                {
-                    "name": "Jose Eduardo",
-                    "lastName": "Almaraz Alvallar",
-                    "sex": "MALE",
-                    "number": 999,
-                    "gamesPlayed": 0,
-                    "gamesTotal": 0,
-                    "gamesPercentage": 0,
                     "isActive": true,
                     "gamePlayed": null
                 }
@@ -51842,12 +51842,12 @@
     "eliminationGames": {
         "VARONIL": [
             {
-                "gameId": 2699,
+                "gameId": 2960,
                 "tournamentId": 5,
                 "weekNumber": 1,
                 "category": "VARONIL",
                 "stage": "SEMI",
-                "gameDate": "2026-01-27T18:40:59.000+00:00",
+                "gameDate": "2026-01-28T20:42:50.000+00:00",
                 "gamePlace": "ARRIBA",
                 "byDefault": false,
                 "teamStats": [
@@ -51887,138 +51887,6 @@
                             }
                         ]
                     },
-                    {
-                        "teamId": 478,
-                        "teamName": "CIERVOS",
-                        "players": [],
-                        "score": 0,
-                        "sets": 0,
-                        "points": 0,
-                        "state": "PENDING",
-                        "setStats": [
-                            {
-                                "setNumber": 1,
-                                "state": "PENDING",
-                                "points": 0
-                            },
-                            {
-                                "setNumber": 2,
-                                "state": "PENDING",
-                                "points": 0
-                            },
-                            {
-                                "setNumber": 3,
-                                "state": "PENDING",
-                                "points": 0
-                            },
-                            {
-                                "setNumber": 4,
-                                "state": "PENDING",
-                                "points": 0
-                            },
-                            {
-                                "setNumber": 5,
-                                "state": "PENDING",
-                                "points": 0
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "gameId": 2700,
-                "tournamentId": 5,
-                "weekNumber": 2,
-                "category": "VARONIL",
-                "stage": "SEMI",
-                "gameDate": "2026-01-27T18:40:59.000+00:00",
-                "gamePlace": "ARRIBA",
-                "byDefault": false,
-                "teamStats": [
-                    {
-                        "teamId": 473,
-                        "teamName": "VAGOS",
-                        "players": [],
-                        "score": 0,
-                        "sets": 0,
-                        "points": 0,
-                        "state": "PENDING",
-                        "setStats": [
-                            {
-                                "setNumber": 1,
-                                "state": "PENDING",
-                                "points": 0
-                            },
-                            {
-                                "setNumber": 2,
-                                "state": "PENDING",
-                                "points": 0
-                            },
-                            {
-                                "setNumber": 3,
-                                "state": "PENDING",
-                                "points": 0
-                            },
-                            {
-                                "setNumber": 4,
-                                "state": "PENDING",
-                                "points": 0
-                            },
-                            {
-                                "setNumber": 5,
-                                "state": "PENDING",
-                                "points": 0
-                            }
-                        ]
-                    },
-                    {
-                        "teamId": 473,
-                        "teamName": "VAGOS",
-                        "players": [],
-                        "score": 0,
-                        "sets": 0,
-                        "points": 0,
-                        "state": "PENDING",
-                        "setStats": [
-                            {
-                                "setNumber": 1,
-                                "state": "PENDING",
-                                "points": 0
-                            },
-                            {
-                                "setNumber": 2,
-                                "state": "PENDING",
-                                "points": 0
-                            },
-                            {
-                                "setNumber": 3,
-                                "state": "PENDING",
-                                "points": 0
-                            },
-                            {
-                                "setNumber": 4,
-                                "state": "PENDING",
-                                "points": 0
-                            },
-                            {
-                                "setNumber": 5,
-                                "state": "PENDING",
-                                "points": 0
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "gameId": 2701,
-                "tournamentId": 5,
-                "weekNumber": 3,
-                "category": "VARONIL",
-                "stage": "QUARTER",
-                "gameDate": "2026-01-27T18:40:59.000+00:00",
-                "gamePlace": "ARRIBA",
-                "byDefault": false,
-                "teamStats": [
                     {
                         "teamId": 488,
                         "teamName": "HIJOS DE PERRA",
@@ -52054,10 +51922,58 @@
                                 "points": 0
                             }
                         ]
+                    }
+                ]
+            },
+            {
+                "gameId": 2961,
+                "tournamentId": 5,
+                "weekNumber": 2,
+                "category": "VARONIL",
+                "stage": "SEMI",
+                "gameDate": "2026-01-28T20:42:50.000+00:00",
+                "gamePlace": "ARRIBA",
+                "byDefault": false,
+                "teamStats": [
+                    {
+                        "teamId": 473,
+                        "teamName": "VAGOS",
+                        "players": [],
+                        "score": 0,
+                        "sets": 0,
+                        "points": 0,
+                        "state": "PENDING",
+                        "setStats": [
+                            {
+                                "setNumber": 1,
+                                "state": "PENDING",
+                                "points": 0
+                            },
+                            {
+                                "setNumber": 2,
+                                "state": "PENDING",
+                                "points": 0
+                            },
+                            {
+                                "setNumber": 3,
+                                "state": "PENDING",
+                                "points": 0
+                            },
+                            {
+                                "setNumber": 4,
+                                "state": "PENDING",
+                                "points": 0
+                            },
+                            {
+                                "setNumber": 5,
+                                "state": "PENDING",
+                                "points": 0
+                            }
+                        ]
                     },
                     {
-                        "teamId": 479,
-                        "teamName": "CHIQUE",
+                        "teamId": 474,
+                        "teamName": "NEGOS",
                         "players": [],
                         "score": 0,
                         "sets": 0,
@@ -52094,12 +52010,96 @@
                 ]
             },
             {
-                "gameId": 2702,
+                "gameId": 2751,
+                "tournamentId": 5,
+                "weekNumber": 3,
+                "category": "VARONIL",
+                "stage": "QUARTER",
+                "gameDate": "2026-01-28T16:38:33.000+00:00",
+                "gamePlace": "ARRIBA",
+                "byDefault": false,
+                "teamStats": [
+                    {
+                        "teamId": 488,
+                        "teamName": "HIJOS DE PERRA",
+                        "players": [],
+                        "score": 1,
+                        "sets": 3,
+                        "points": 93,
+                        "state": "WINNER",
+                        "setStats": [
+                            {
+                                "setNumber": 1,
+                                "state": "WINNER",
+                                "points": 25
+                            },
+                            {
+                                "setNumber": 2,
+                                "state": "LOSSER",
+                                "points": 18
+                            },
+                            {
+                                "setNumber": 3,
+                                "state": "WINNER",
+                                "points": 25
+                            },
+                            {
+                                "setNumber": 4,
+                                "state": "WINNER",
+                                "points": 25
+                            },
+                            {
+                                "setNumber": 5,
+                                "state": "PENDING",
+                                "points": 0
+                            }
+                        ]
+                    },
+                    {
+                        "teamId": 479,
+                        "teamName": "CHIQUE",
+                        "players": [],
+                        "score": 0,
+                        "sets": 1,
+                        "points": 87,
+                        "state": "LOSSER",
+                        "setStats": [
+                            {
+                                "setNumber": 1,
+                                "state": "LOSSER",
+                                "points": 21
+                            },
+                            {
+                                "setNumber": 2,
+                                "state": "WINNER",
+                                "points": 25
+                            },
+                            {
+                                "setNumber": 3,
+                                "state": "LOSSER",
+                                "points": 21
+                            },
+                            {
+                                "setNumber": 4,
+                                "state": "LOSSER",
+                                "points": 20
+                            },
+                            {
+                                "setNumber": 5,
+                                "state": "PENDING",
+                                "points": 0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "gameId": 2779,
                 "tournamentId": 5,
                 "weekNumber": 4,
                 "category": "VARONIL",
                 "stage": "QUARTER",
-                "gameDate": "2026-01-27T18:40:59.000+00:00",
+                "gameDate": "2026-01-28T16:42:46.000+00:00",
                 "gamePlace": "ARRIBA",
                 "byDefault": false,
                 "teamStats": [
@@ -52107,30 +52107,30 @@
                         "teamId": 474,
                         "teamName": "NEGOS",
                         "players": [],
-                        "score": 0,
-                        "sets": 0,
-                        "points": 0,
-                        "state": "PENDING",
+                        "score": 1,
+                        "sets": 3,
+                        "points": 86,
+                        "state": "WINNER",
                         "setStats": [
                             {
                                 "setNumber": 1,
-                                "state": "PENDING",
-                                "points": 0
+                                "state": "LOSSER",
+                                "points": 21
                             },
                             {
                                 "setNumber": 2,
-                                "state": "PENDING",
-                                "points": 0
+                                "state": "WINNER",
+                                "points": 25
                             },
                             {
                                 "setNumber": 3,
-                                "state": "PENDING",
-                                "points": 0
+                                "state": "LOSSER",
+                                "points": 20
                             },
                             {
                                 "setNumber": 4,
-                                "state": "PENDING",
-                                "points": 0
+                                "state": "LOSSER",
+                                "points": 20
                             },
                             {
                                 "setNumber": 5,
@@ -52144,29 +52144,29 @@
                         "teamName": "CUERVOS",
                         "players": [],
                         "score": 0,
-                        "sets": 0,
-                        "points": 0,
-                        "state": "PENDING",
+                        "sets": 1,
+                        "points": 97,
+                        "state": "LOSSER",
                         "setStats": [
                             {
                                 "setNumber": 1,
-                                "state": "PENDING",
-                                "points": 0
+                                "state": "WINNER",
+                                "points": 25
                             },
                             {
                                 "setNumber": 2,
-                                "state": "PENDING",
-                                "points": 0
+                                "state": "LOSSER",
+                                "points": 22
                             },
                             {
                                 "setNumber": 3,
-                                "state": "PENDING",
-                                "points": 0
+                                "state": "WINNER",
+                                "points": 25
                             },
                             {
                                 "setNumber": 4,
-                                "state": "PENDING",
-                                "points": 0
+                                "state": "WINNER",
+                                "points": 25
                             },
                             {
                                 "setNumber": 5,
@@ -52264,12 +52264,12 @@
                 ]
             },
             {
-                "gameId": 2703,
+                "gameId": 2962,
                 "tournamentId": 5,
                 "weekNumber": 1,
                 "category": "MIXTO",
                 "stage": "SEMI",
-                "gameDate": "2026-01-27T18:40:59.000+00:00",
+                "gameDate": "2026-01-28T20:42:50.000+00:00",
                 "gamePlace": "ARRIBA",
                 "byDefault": false,
                 "teamStats": [
@@ -52432,12 +52432,12 @@
                 ]
             },
             {
-                "gameId": 2704,
+                "gameId": 2963,
                 "tournamentId": 5,
                 "weekNumber": 2,
                 "category": "MIXTO",
                 "stage": "SEMI",
-                "gameDate": "2026-01-27T18:40:59.000+00:00",
+                "gameDate": "2026-01-28T20:42:50.000+00:00",
                 "gamePlace": "ARRIBA",
                 "byDefault": false,
                 "teamStats": [
@@ -52686,186 +52686,18 @@
         ],
         "FEMENIL": [
             {
-                "gameId": 2695,
+                "gameId": 2958,
                 "tournamentId": 5,
                 "weekNumber": 1,
                 "category": "FEMENIL",
                 "stage": "SEMI",
-                "gameDate": "2026-01-27T18:40:59.000+00:00",
+                "gameDate": "2026-01-28T20:42:50.000+00:00",
                 "gamePlace": "ARRIBA",
                 "byDefault": false,
                 "teamStats": [
                     {
                         "teamId": 483,
                         "teamName": "TRAVIESAS",
-                        "players": [],
-                        "score": 0,
-                        "sets": 0,
-                        "points": 0,
-                        "state": "PENDING",
-                        "setStats": [
-                            {
-                                "setNumber": 1,
-                                "state": "PENDING",
-                                "points": 0
-                            },
-                            {
-                                "setNumber": 2,
-                                "state": "PENDING",
-                                "points": 0
-                            },
-                            {
-                                "setNumber": 3,
-                                "state": "PENDING",
-                                "points": 0
-                            },
-                            {
-                                "setNumber": 4,
-                                "state": "PENDING",
-                                "points": 0
-                            },
-                            {
-                                "setNumber": 5,
-                                "state": "PENDING",
-                                "points": 0
-                            }
-                        ]
-                    },
-                    {
-                        "teamId": 483,
-                        "teamName": "TRAVIESAS",
-                        "players": [],
-                        "score": 0,
-                        "sets": 0,
-                        "points": 0,
-                        "state": "PENDING",
-                        "setStats": [
-                            {
-                                "setNumber": 1,
-                                "state": "PENDING",
-                                "points": 0
-                            },
-                            {
-                                "setNumber": 2,
-                                "state": "PENDING",
-                                "points": 0
-                            },
-                            {
-                                "setNumber": 3,
-                                "state": "PENDING",
-                                "points": 0
-                            },
-                            {
-                                "setNumber": 4,
-                                "state": "PENDING",
-                                "points": 0
-                            },
-                            {
-                                "setNumber": 5,
-                                "state": "PENDING",
-                                "points": 0
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "gameId": 2696,
-                "tournamentId": 5,
-                "weekNumber": 2,
-                "category": "FEMENIL",
-                "stage": "SEMI",
-                "gameDate": "2026-01-27T18:40:59.000+00:00",
-                "gamePlace": "ARRIBA",
-                "byDefault": false,
-                "teamStats": [
-                    {
-                        "teamId": 468,
-                        "teamName": "PANTERAS",
-                        "players": [],
-                        "score": 0,
-                        "sets": 0,
-                        "points": 0,
-                        "state": "PENDING",
-                        "setStats": [
-                            {
-                                "setNumber": 1,
-                                "state": "PENDING",
-                                "points": 0
-                            },
-                            {
-                                "setNumber": 2,
-                                "state": "PENDING",
-                                "points": 0
-                            },
-                            {
-                                "setNumber": 3,
-                                "state": "PENDING",
-                                "points": 0
-                            },
-                            {
-                                "setNumber": 4,
-                                "state": "PENDING",
-                                "points": 0
-                            },
-                            {
-                                "setNumber": 5,
-                                "state": "PENDING",
-                                "points": 0
-                            }
-                        ]
-                    },
-                    {
-                        "teamId": 468,
-                        "teamName": "PANTERAS",
-                        "players": [],
-                        "score": 0,
-                        "sets": 0,
-                        "points": 0,
-                        "state": "PENDING",
-                        "setStats": [
-                            {
-                                "setNumber": 1,
-                                "state": "PENDING",
-                                "points": 0
-                            },
-                            {
-                                "setNumber": 2,
-                                "state": "PENDING",
-                                "points": 0
-                            },
-                            {
-                                "setNumber": 3,
-                                "state": "PENDING",
-                                "points": 0
-                            },
-                            {
-                                "setNumber": 4,
-                                "state": "PENDING",
-                                "points": 0
-                            },
-                            {
-                                "setNumber": 5,
-                                "state": "PENDING",
-                                "points": 0
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "gameId": 2697,
-                "tournamentId": 5,
-                "weekNumber": 3,
-                "category": "FEMENIL",
-                "stage": "QUARTER",
-                "gameDate": "2026-01-27T18:40:59.000+00:00",
-                "gamePlace": "ARRIBA",
-                "byDefault": false,
-                "teamStats": [
-                    {
-                        "teamId": 470,
-                        "teamName": "VIKINGAS",
                         "players": [],
                         "score": 0,
                         "sets": 0,
@@ -52938,15 +52770,51 @@
                 ]
             },
             {
-                "gameId": 2698,
+                "gameId": 2959,
                 "tournamentId": 5,
-                "weekNumber": 4,
+                "weekNumber": 2,
                 "category": "FEMENIL",
-                "stage": "QUARTER",
-                "gameDate": "2026-01-27T18:40:59.000+00:00",
+                "stage": "SEMI",
+                "gameDate": "2026-01-28T20:42:50.000+00:00",
                 "gamePlace": "ARRIBA",
                 "byDefault": false,
                 "teamStats": [
+                    {
+                        "teamId": 468,
+                        "teamName": "PANTERAS",
+                        "players": [],
+                        "score": 0,
+                        "sets": 0,
+                        "points": 0,
+                        "state": "PENDING",
+                        "setStats": [
+                            {
+                                "setNumber": 1,
+                                "state": "PENDING",
+                                "points": 0
+                            },
+                            {
+                                "setNumber": 2,
+                                "state": "PENDING",
+                                "points": 0
+                            },
+                            {
+                                "setNumber": 3,
+                                "state": "PENDING",
+                                "points": 0
+                            },
+                            {
+                                "setNumber": 4,
+                                "state": "PENDING",
+                                "points": 0
+                            },
+                            {
+                                "setNumber": 5,
+                                "state": "PENDING",
+                                "points": 0
+                            }
+                        ]
+                    },
                     {
                         "teamId": 472,
                         "teamName": "VAGAS",
@@ -52982,6 +52850,138 @@
                                 "points": 0
                             }
                         ]
+                    }
+                ]
+            },
+            {
+                "gameId": 2815,
+                "tournamentId": 5,
+                "weekNumber": 3,
+                "category": "FEMENIL",
+                "stage": "QUARTER",
+                "gameDate": "2026-01-28T16:47:08.000+00:00",
+                "gamePlace": "ARRIBA",
+                "byDefault": false,
+                "teamStats": [
+                    {
+                        "teamId": 470,
+                        "teamName": "VIKINGAS",
+                        "players": [],
+                        "score": 0,
+                        "sets": 2,
+                        "points": 93,
+                        "state": "LOSSER",
+                        "setStats": [
+                            {
+                                "setNumber": 1,
+                                "state": "LOSSER",
+                                "points": 14
+                            },
+                            {
+                                "setNumber": 2,
+                                "state": "WINNER",
+                                "points": 25
+                            },
+                            {
+                                "setNumber": 3,
+                                "state": "WINNER",
+                                "points": 25
+                            },
+                            {
+                                "setNumber": 4,
+                                "state": "LOSSER",
+                                "points": 19
+                            },
+                            {
+                                "setNumber": 5,
+                                "state": "LOSSER",
+                                "points": 10
+                            }
+                        ]
+                    },
+                    {
+                        "teamId": 469,
+                        "teamName": "TIX",
+                        "players": [],
+                        "score": 1,
+                        "sets": 3,
+                        "points": 108,
+                        "state": "WINNER",
+                        "setStats": [
+                            {
+                                "setNumber": 1,
+                                "state": "WINNER",
+                                "points": 25
+                            },
+                            {
+                                "setNumber": 2,
+                                "state": "LOSSER",
+                                "points": 21
+                            },
+                            {
+                                "setNumber": 3,
+                                "state": "LOSSER",
+                                "points": 22
+                            },
+                            {
+                                "setNumber": 4,
+                                "state": "WINNER",
+                                "points": 25
+                            },
+                            {
+                                "setNumber": 5,
+                                "state": "WINNER",
+                                "points": 15
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "gameId": 2801,
+                "tournamentId": 5,
+                "weekNumber": 4,
+                "category": "FEMENIL",
+                "stage": "QUARTER",
+                "gameDate": "2026-01-28T16:43:47.000+00:00",
+                "gamePlace": "ARRIBA",
+                "byDefault": false,
+                "teamStats": [
+                    {
+                        "teamId": 472,
+                        "teamName": "VAGAS",
+                        "players": [],
+                        "score": 1,
+                        "sets": 3,
+                        "points": 75,
+                        "state": "WINNER",
+                        "setStats": [
+                            {
+                                "setNumber": 1,
+                                "state": "WINNER",
+                                "points": 25
+                            },
+                            {
+                                "setNumber": 2,
+                                "state": "WINNER",
+                                "points": 25
+                            },
+                            {
+                                "setNumber": 3,
+                                "state": "WINNER",
+                                "points": 25
+                            },
+                            {
+                                "setNumber": 4,
+                                "state": "PENDING",
+                                "points": 0
+                            },
+                            {
+                                "setNumber": 5,
+                                "state": "PENDING",
+                                "points": 0
+                            }
+                        ]
                     },
                     {
                         "teamId": 490,
@@ -52989,23 +52989,23 @@
                         "players": [],
                         "score": 0,
                         "sets": 0,
-                        "points": 0,
-                        "state": "PENDING",
+                        "points": 46,
+                        "state": "LOSSER",
                         "setStats": [
                             {
                                 "setNumber": 1,
-                                "state": "PENDING",
-                                "points": 0
+                                "state": "LOSSER",
+                                "points": 13
                             },
                             {
                                 "setNumber": 2,
-                                "state": "PENDING",
-                                "points": 0
+                                "state": "LOSSER",
+                                "points": 15
                             },
                             {
                                 "setNumber": 3,
-                                "state": "PENDING",
-                                "points": 0
+                                "state": "LOSSER",
+                                "points": 18
                             },
                             {
                                 "setNumber": 4,
