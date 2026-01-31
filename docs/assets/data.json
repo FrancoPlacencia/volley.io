@@ -51842,12 +51842,96 @@
     "eliminationGames": {
         "VARONIL": [
             {
-                "gameId": 2960,
+                "gameId": 3098,
                 "tournamentId": 5,
                 "weekNumber": 1,
                 "category": "VARONIL",
                 "stage": "SEMI",
-                "gameDate": "2026-01-28T20:42:50.000+00:00",
+                "gameDate": "2026-01-31T02:42:00.000+00:00",
+                "gamePlace": "ARRIBA",
+                "byDefault": false,
+                "teamStats": [
+                    {
+                        "teamId": 478,
+                        "teamName": "CIERVOS",
+                        "players": [],
+                        "score": 1,
+                        "sets": 3,
+                        "points": 75,
+                        "state": "WINNER",
+                        "setStats": [
+                            {
+                                "setNumber": 1,
+                                "state": "WINNER",
+                                "points": 25
+                            },
+                            {
+                                "setNumber": 2,
+                                "state": "WINNER",
+                                "points": 25
+                            },
+                            {
+                                "setNumber": 3,
+                                "state": "WINNER",
+                                "points": 25
+                            },
+                            {
+                                "setNumber": 4,
+                                "state": "PENDING",
+                                "points": 0
+                            },
+                            {
+                                "setNumber": 5,
+                                "state": "PENDING",
+                                "points": 0
+                            }
+                        ]
+                    },
+                    {
+                        "teamId": 488,
+                        "teamName": "HIJOS DE PERRA",
+                        "players": [],
+                        "score": 0,
+                        "sets": 0,
+                        "points": 53,
+                        "state": "LOSSER",
+                        "setStats": [
+                            {
+                                "setNumber": 1,
+                                "state": "LOSSER",
+                                "points": 13
+                            },
+                            {
+                                "setNumber": 2,
+                                "state": "LOSSER",
+                                "points": 19
+                            },
+                            {
+                                "setNumber": 3,
+                                "state": "LOSSER",
+                                "points": 21
+                            },
+                            {
+                                "setNumber": 4,
+                                "state": "PENDING",
+                                "points": 0
+                            },
+                            {
+                                "setNumber": 5,
+                                "state": "PENDING",
+                                "points": 0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "gameId": 3130,
+                "tournamentId": 5,
+                "weekNumber": 1,
+                "category": "VARONIL",
+                "stage": "FINAL",
+                "gameDate": "2026-01-31T02:47:01.000+00:00",
                 "gamePlace": "ARRIBA",
                 "byDefault": false,
                 "teamStats": [
@@ -51888,8 +51972,8 @@
                         ]
                     },
                     {
-                        "teamId": 488,
-                        "teamName": "HIJOS DE PERRA",
+                        "teamId": 473,
+                        "teamName": "VAGOS",
                         "players": [],
                         "score": 0,
                         "sets": 0,
@@ -51926,18 +52010,18 @@
                 ]
             },
             {
-                "gameId": 2961,
+                "gameId": 3131,
                 "tournamentId": 5,
-                "weekNumber": 2,
+                "weekNumber": 1,
                 "category": "VARONIL",
-                "stage": "SEMI",
-                "gameDate": "2026-01-28T20:42:50.000+00:00",
+                "stage": "THIRD",
+                "gameDate": "2026-01-31T02:47:01.000+00:00",
                 "gamePlace": "ARRIBA",
                 "byDefault": false,
                 "teamStats": [
                     {
-                        "teamId": 473,
-                        "teamName": "VAGOS",
+                        "teamId": 488,
+                        "teamName": "HIJOS DE PERRA",
                         "players": [],
                         "score": 0,
                         "sets": 0,
@@ -51999,6 +52083,90 @@
                                 "setNumber": 4,
                                 "state": "PENDING",
                                 "points": 0
+                            },
+                            {
+                                "setNumber": 5,
+                                "state": "PENDING",
+                                "points": 0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "gameId": 3109,
+                "tournamentId": 5,
+                "weekNumber": 2,
+                "category": "VARONIL",
+                "stage": "SEMI",
+                "gameDate": "2026-01-31T02:45:43.000+00:00",
+                "gamePlace": "ARRIBA",
+                "byDefault": false,
+                "teamStats": [
+                    {
+                        "teamId": 473,
+                        "teamName": "VAGOS",
+                        "players": [],
+                        "score": 1,
+                        "sets": 3,
+                        "points": 0,
+                        "state": "WINNER",
+                        "setStats": [
+                            {
+                                "setNumber": 1,
+                                "state": "WINNER",
+                                "points": 25
+                            },
+                            {
+                                "setNumber": 2,
+                                "state": "LOSSER",
+                                "points": 23
+                            },
+                            {
+                                "setNumber": 3,
+                                "state": "WINNER",
+                                "points": 25
+                            },
+                            {
+                                "setNumber": 4,
+                                "state": "WINNER",
+                                "points": 25
+                            },
+                            {
+                                "setNumber": 5,
+                                "state": "PENDING",
+                                "points": 0
+                            }
+                        ]
+                    },
+                    {
+                        "teamId": 474,
+                        "teamName": "NEGOS",
+                        "players": [],
+                        "score": 0,
+                        "sets": 1,
+                        "points": 0,
+                        "state": "LOSSER",
+                        "setStats": [
+                            {
+                                "setNumber": 1,
+                                "state": "LOSSER",
+                                "points": 20
+                            },
+                            {
+                                "setNumber": 2,
+                                "state": "WINNER",
+                                "points": 25
+                            },
+                            {
+                                "setNumber": 3,
+                                "state": "LOSSER",
+                                "points": 12
+                            },
+                            {
+                                "setNumber": 4,
+                                "state": "LOSSER",
+                                "points": 21
                             },
                             {
                                 "setNumber": 5,
@@ -52264,12 +52432,12 @@
                 ]
             },
             {
-                "gameId": 2962,
+                "gameId": 3126,
                 "tournamentId": 5,
                 "weekNumber": 1,
                 "category": "MIXTO",
                 "stage": "SEMI",
-                "gameDate": "2026-01-28T20:42:50.000+00:00",
+                "gameDate": "2026-01-31T02:47:01.000+00:00",
                 "gamePlace": "ARRIBA",
                 "byDefault": false,
                 "teamStats": [
@@ -52432,12 +52600,12 @@
                 ]
             },
             {
-                "gameId": 2963,
+                "gameId": 3127,
                 "tournamentId": 5,
                 "weekNumber": 2,
                 "category": "MIXTO",
                 "stage": "SEMI",
-                "gameDate": "2026-01-28T20:42:50.000+00:00",
+                "gameDate": "2026-01-31T02:47:01.000+00:00",
                 "gamePlace": "ARRIBA",
                 "byDefault": false,
                 "teamStats": [
@@ -52686,12 +52854,12 @@
         ],
         "FEMENIL": [
             {
-                "gameId": 2958,
+                "gameId": 2976,
                 "tournamentId": 5,
                 "weekNumber": 1,
                 "category": "FEMENIL",
                 "stage": "SEMI",
-                "gameDate": "2026-01-28T20:42:50.000+00:00",
+                "gameDate": "2026-01-29T14:12:18.000+00:00",
                 "gamePlace": "ARRIBA",
                 "byDefault": false,
                 "teamStats": [
@@ -52700,29 +52868,29 @@
                         "teamName": "TRAVIESAS",
                         "players": [],
                         "score": 0,
-                        "sets": 0,
-                        "points": 0,
-                        "state": "PENDING",
+                        "sets": 1,
+                        "points": 28,
+                        "state": "LOSSER",
                         "setStats": [
                             {
                                 "setNumber": 1,
-                                "state": "PENDING",
-                                "points": 0
+                                "state": "WINNER",
+                                "points": 28
                             },
                             {
                                 "setNumber": 2,
-                                "state": "PENDING",
-                                "points": 0
+                                "state": "LOSSER",
+                                "points": 20
                             },
                             {
                                 "setNumber": 3,
-                                "state": "PENDING",
-                                "points": 0
+                                "state": "LOSSER",
+                                "points": 19
                             },
                             {
                                 "setNumber": 4,
-                                "state": "PENDING",
-                                "points": 0
+                                "state": "LOSSER",
+                                "points": 13
                             },
                             {
                                 "setNumber": 5,
@@ -52735,30 +52903,30 @@
                         "teamId": 469,
                         "teamName": "TIX",
                         "players": [],
-                        "score": 0,
-                        "sets": 0,
-                        "points": 0,
-                        "state": "PENDING",
+                        "score": 1,
+                        "sets": 3,
+                        "points": 101,
+                        "state": "WINNER",
                         "setStats": [
                             {
                                 "setNumber": 1,
-                                "state": "PENDING",
-                                "points": 0
+                                "state": "LOSSER",
+                                "points": 26
                             },
                             {
                                 "setNumber": 2,
-                                "state": "PENDING",
-                                "points": 0
+                                "state": "WINNER",
+                                "points": 25
                             },
                             {
                                 "setNumber": 3,
-                                "state": "PENDING",
-                                "points": 0
+                                "state": "WINNER",
+                                "points": 25
                             },
                             {
                                 "setNumber": 4,
-                                "state": "PENDING",
-                                "points": 0
+                                "state": "WINNER",
+                                "points": 25
                             },
                             {
                                 "setNumber": 5,
@@ -52770,18 +52938,18 @@
                 ]
             },
             {
-                "gameId": 2959,
+                "gameId": 3128,
                 "tournamentId": 5,
-                "weekNumber": 2,
+                "weekNumber": 1,
                 "category": "FEMENIL",
-                "stage": "SEMI",
-                "gameDate": "2026-01-28T20:42:50.000+00:00",
+                "stage": "FINAL",
+                "gameDate": "2026-01-31T02:47:01.000+00:00",
                 "gamePlace": "ARRIBA",
                 "byDefault": false,
                 "teamStats": [
                     {
-                        "teamId": 468,
-                        "teamName": "PANTERAS",
+                        "teamId": 469,
+                        "teamName": "TIX",
                         "players": [],
                         "score": 0,
                         "sets": 0,
@@ -52848,6 +53016,174 @@
                                 "setNumber": 5,
                                 "state": "PENDING",
                                 "points": 0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "gameId": 3129,
+                "tournamentId": 5,
+                "weekNumber": 1,
+                "category": "FEMENIL",
+                "stage": "THIRD",
+                "gameDate": "2026-01-31T02:47:01.000+00:00",
+                "gamePlace": "ARRIBA",
+                "byDefault": false,
+                "teamStats": [
+                    {
+                        "teamId": 483,
+                        "teamName": "TRAVIESAS",
+                        "players": [],
+                        "score": 0,
+                        "sets": 0,
+                        "points": 0,
+                        "state": "PENDING",
+                        "setStats": [
+                            {
+                                "setNumber": 1,
+                                "state": "PENDING",
+                                "points": 0
+                            },
+                            {
+                                "setNumber": 2,
+                                "state": "PENDING",
+                                "points": 0
+                            },
+                            {
+                                "setNumber": 3,
+                                "state": "PENDING",
+                                "points": 0
+                            },
+                            {
+                                "setNumber": 4,
+                                "state": "PENDING",
+                                "points": 0
+                            },
+                            {
+                                "setNumber": 5,
+                                "state": "PENDING",
+                                "points": 0
+                            }
+                        ]
+                    },
+                    {
+                        "teamId": 468,
+                        "teamName": "PANTERAS",
+                        "players": [],
+                        "score": 0,
+                        "sets": 0,
+                        "points": 0,
+                        "state": "PENDING",
+                        "setStats": [
+                            {
+                                "setNumber": 1,
+                                "state": "PENDING",
+                                "points": 0
+                            },
+                            {
+                                "setNumber": 2,
+                                "state": "PENDING",
+                                "points": 0
+                            },
+                            {
+                                "setNumber": 3,
+                                "state": "PENDING",
+                                "points": 0
+                            },
+                            {
+                                "setNumber": 4,
+                                "state": "PENDING",
+                                "points": 0
+                            },
+                            {
+                                "setNumber": 5,
+                                "state": "PENDING",
+                                "points": 0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "gameId": 2977,
+                "tournamentId": 5,
+                "weekNumber": 2,
+                "category": "FEMENIL",
+                "stage": "SEMI",
+                "gameDate": "2026-01-29T14:12:18.000+00:00",
+                "gamePlace": "ARRIBA",
+                "byDefault": false,
+                "teamStats": [
+                    {
+                        "teamId": 468,
+                        "teamName": "PANTERAS",
+                        "players": [],
+                        "score": 0,
+                        "sets": 2,
+                        "points": 0,
+                        "state": "LOSSER",
+                        "setStats": [
+                            {
+                                "setNumber": 1,
+                                "state": "LOSSER",
+                                "points": 15
+                            },
+                            {
+                                "setNumber": 2,
+                                "state": "WINNER",
+                                "points": 25
+                            },
+                            {
+                                "setNumber": 3,
+                                "state": "LOSSER",
+                                "points": 21
+                            },
+                            {
+                                "setNumber": 4,
+                                "state": "WINNER",
+                                "points": 25
+                            },
+                            {
+                                "setNumber": 5,
+                                "state": "LOSSER",
+                                "points": 10
+                            }
+                        ]
+                    },
+                    {
+                        "teamId": 472,
+                        "teamName": "VAGAS",
+                        "players": [],
+                        "score": 1,
+                        "sets": 3,
+                        "points": 0,
+                        "state": "WINNER",
+                        "setStats": [
+                            {
+                                "setNumber": 1,
+                                "state": "WINNER",
+                                "points": 25
+                            },
+                            {
+                                "setNumber": 2,
+                                "state": "LOSSER",
+                                "points": 22
+                            },
+                            {
+                                "setNumber": 3,
+                                "state": "WINNER",
+                                "points": 25
+                            },
+                            {
+                                "setNumber": 4,
+                                "state": "LOSSER",
+                                "points": 21
+                            },
+                            {
+                                "setNumber": 5,
+                                "state": "WINNER",
+                                "points": 15
                             }
                         ]
                     }
