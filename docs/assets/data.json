@@ -1402,52 +1402,6 @@
             "byDefault": false,
             "teamStats": [
                 {
-                    "teamName": "CHIQUE MIX",
-                    "setStats": [
-                        {
-                            "setNumber": 1,
-                            "points": 25
-                        },
-                        {
-                            "setNumber": 2,
-                            "points": 26
-                        },
-                        {
-                            "setNumber": 3,
-                            "points": 0
-                        }
-                    ],
-                    "players": []
-                },
-                {
-                    "teamName": "SPIKERS",
-                    "setStats": [
-                        {
-                            "setNumber": 1,
-                            "points": 21
-                        },
-                        {
-                            "setNumber": 2,
-                            "points": 24
-                        },
-                        {
-                            "setNumber": 3,
-                            "points": 0
-                        }
-                    ],
-                    "players": []
-                }
-            ]
-        },
-        {
-            "weekNumber": 3,
-            "category": "MIXTO",
-            "stage": "REGULAR",
-            "gameDate": "2026-03-10T01:30:00.000+00:00",
-            "gamePlace": "ARRIBA",
-            "byDefault": false,
-            "teamStats": [
-                {
                     "teamName": "CAZADORES",
                     "setStats": [
                         {
@@ -1475,6 +1429,52 @@
                         {
                             "setNumber": 2,
                             "points": 25
+                        },
+                        {
+                            "setNumber": 3,
+                            "points": 0
+                        }
+                    ],
+                    "players": []
+                }
+            ]
+        },
+        {
+            "weekNumber": 3,
+            "category": "MIXTO",
+            "stage": "REGULAR",
+            "gameDate": "2026-03-10T01:30:00.000+00:00",
+            "gamePlace": "ARRIBA",
+            "byDefault": false,
+            "teamStats": [
+                {
+                    "teamName": "CHIQUE MIX",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 2,
+                            "points": 26
+                        },
+                        {
+                            "setNumber": 3,
+                            "points": 0
+                        }
+                    ],
+                    "players": []
+                },
+                {
+                    "teamName": "SPIKERS",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "points": 21
+                        },
+                        {
+                            "setNumber": 2,
+                            "points": 24
                         },
                         {
                             "setNumber": 3,
@@ -2266,37 +2266,543 @@
                     "players": []
                 }
             ]
+        },
+        {
+            "weekNumber": 4,
+            "category": "MIXTO",
+            "stage": "REGULAR",
+            "gameDate": "2026-03-17T23:30:00.000+00:00",
+            "gamePlace": "ARRIBA",
+            "byDefault": false,
+            "teamStats": [
+                {
+                    "teamName": "CAZADORES",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 2,
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 3,
+                            "points": 0
+                        }
+                    ],
+                    "players": []
+                },
+                {
+                    "teamName": "HURACANES",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "points": 10
+                        },
+                        {
+                            "setNumber": 2,
+                            "points": 7
+                        },
+                        {
+                            "setNumber": 3,
+                            "points": 0
+                        }
+                    ],
+                    "players": []
+                }
+            ]
+        },
+        {
+            "weekNumber": 4,
+            "category": "MIXTO",
+            "stage": "REGULAR",
+            "gameDate": "2026-03-17T23:30:00.000+00:00",
+            "gamePlace": "ABAJO",
+            "byDefault": false,
+            "teamStats": [
+                {
+                    "teamName": "PECHOCHOS",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "points": 23
+                        },
+                        {
+                            "setNumber": 2,
+                            "points": 13
+                        },
+                        {
+                            "setNumber": 3,
+                            "points": 0
+                        }
+                    ],
+                    "players": []
+                },
+                {
+                    "teamName": "MONSTERS",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 2,
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 3,
+                            "points": 0
+                        }
+                    ],
+                    "players": []
+                }
+            ]
+        },
+        {
+            "weekNumber": 4,
+            "category": "MIXTO",
+            "stage": "REGULAR",
+            "gameDate": "2026-03-18T00:30:00.000+00:00",
+            "gamePlace": "ARRIBA",
+            "byDefault": false,
+            "teamStats": [
+                {
+                    "teamName": "GUERREROS",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "points": 26
+                        },
+                        {
+                            "setNumber": 2,
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 3,
+                            "points": 16
+                        }
+                    ],
+                    "players": []
+                },
+                {
+                    "teamName": "HURACANES",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "points": 28
+                        },
+                        {
+                            "setNumber": 2,
+                            "points": 12
+                        },
+                        {
+                            "setNumber": 3,
+                            "points": 14
+                        }
+                    ],
+                    "players": []
+                }
+            ]
+        },
+        {
+            "weekNumber": 4,
+            "category": "MIXTO",
+            "stage": "REGULAR",
+            "gameDate": "2026-03-18T00:30:00.000+00:00",
+            "gamePlace": "ABAJO",
+            "byDefault": false,
+            "teamStats": [
+                {
+                    "teamName": "CAZADORES",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 2,
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 3,
+                            "points": 0
+                        }
+                    ],
+                    "players": []
+                },
+                {
+                    "teamName": "TIBURONES",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "points": 17
+                        },
+                        {
+                            "setNumber": 2,
+                            "points": 17
+                        },
+                        {
+                            "setNumber": 3,
+                            "points": 0
+                        }
+                    ],
+                    "players": []
+                }
+            ]
+        },
+        {
+            "weekNumber": 4,
+            "category": "VARONIL",
+            "stage": "REGULAR",
+            "gameDate": "2026-03-18T01:30:00.000+00:00",
+            "gamePlace": "ABAJO",
+            "byDefault": false,
+            "teamStats": [
+                {
+                    "teamName": "NOPALEROS",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 2,
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 3,
+                            "points": 0
+                        }
+                    ],
+                    "players": []
+                },
+                {
+                    "teamName": "TOROS",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "points": 15
+                        },
+                        {
+                            "setNumber": 2,
+                            "points": 14
+                        },
+                        {
+                            "setNumber": 3,
+                            "points": 0
+                        }
+                    ],
+                    "players": []
+                }
+            ]
+        },
+        {
+            "weekNumber": 4,
+            "category": "MIXTO",
+            "stage": "REGULAR",
+            "gameDate": "2026-03-18T23:30:00.000+00:00",
+            "gamePlace": "ARRIBA",
+            "byDefault": false,
+            "teamStats": [
+                {
+                    "teamName": "HUISCOLCO MIX",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "points": 26
+                        },
+                        {
+                            "setNumber": 2,
+                            "points": 26
+                        },
+                        {
+                            "setNumber": 3,
+                            "points": 15
+                        }
+                    ],
+                    "players": []
+                },
+                {
+                    "teamName": "ELITE",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "points": 28
+                        },
+                        {
+                            "setNumber": 2,
+                            "points": 24
+                        },
+                        {
+                            "setNumber": 3,
+                            "points": 13
+                        }
+                    ],
+                    "players": []
+                }
+            ]
+        },
+        {
+            "weekNumber": 4,
+            "category": "MIXTO",
+            "stage": "REGULAR",
+            "gameDate": "2026-03-18T23:30:00.000+00:00",
+            "gamePlace": "ABAJO",
+            "byDefault": false,
+            "teamStats": [
+                {
+                    "teamName": "HURACANES",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 2,
+                            "points": 21
+                        },
+                        {
+                            "setNumber": 3,
+                            "points": 12
+                        }
+                    ],
+                    "players": []
+                },
+                {
+                    "teamName": "R LA CAMILA",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "points": 21
+                        },
+                        {
+                            "setNumber": 2,
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 3,
+                            "points": 15
+                        }
+                    ],
+                    "players": []
+                }
+            ]
+        },
+        {
+            "weekNumber": 4,
+            "category": "FEMENIL",
+            "stage": "REGULAR",
+            "gameDate": "2026-03-19T00:30:00.000+00:00",
+            "gamePlace": "ARRIBA",
+            "byDefault": false,
+            "teamStats": [
+                {
+                    "teamName": "AGUILAS",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 2,
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 3,
+                            "points": 0
+                        }
+                    ],
+                    "players": []
+                },
+                {
+                    "teamName": "GUERRERAS",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "points": 5
+                        },
+                        {
+                            "setNumber": 2,
+                            "points": 7
+                        },
+                        {
+                            "setNumber": 3,
+                            "points": 0
+                        }
+                    ],
+                    "players": []
+                }
+            ]
+        },
+        {
+            "weekNumber": 4,
+            "category": "VARONIL",
+            "stage": "REGULAR",
+            "gameDate": "2026-03-19T00:30:00.000+00:00",
+            "gamePlace": "ABAJO",
+            "byDefault": false,
+            "teamStats": [
+                {
+                    "teamName": "HUISCOLCO",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "points": 22
+                        },
+                        {
+                            "setNumber": 2,
+                            "points": 20
+                        },
+                        {
+                            "setNumber": 3,
+                            "points": 0
+                        }
+                    ],
+                    "players": []
+                },
+                {
+                    "teamName": "CHIQUE",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 2,
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 3,
+                            "points": 0
+                        }
+                    ],
+                    "players": []
+                }
+            ]
+        },
+        {
+            "weekNumber": 4,
+            "category": "MIXTO",
+            "stage": "REGULAR",
+            "gameDate": "2026-03-19T01:30:00.000+00:00",
+            "gamePlace": "ARRIBA",
+            "byDefault": false,
+            "teamStats": [
+                {
+                    "teamName": "CDR",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "points": 24
+                        },
+                        {
+                            "setNumber": 2,
+                            "points": 18
+                        },
+                        {
+                            "setNumber": 3,
+                            "points": 0
+                        }
+                    ],
+                    "players": []
+                },
+                {
+                    "teamName": "XOLOS",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "points": 26
+                        },
+                        {
+                            "setNumber": 2,
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 3,
+                            "points": 0
+                        }
+                    ],
+                    "players": []
+                }
+            ]
+        },
+        {
+            "weekNumber": 4,
+            "category": "MIXTO",
+            "stage": "REGULAR",
+            "gameDate": "2026-03-19T01:30:00.000+00:00",
+            "gamePlace": "ABAJO",
+            "byDefault": false,
+            "teamStats": [
+                {
+                    "teamName": "PECHOCHOS",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 2,
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 3,
+                            "points": 0
+                        }
+                    ],
+                    "players": []
+                },
+                {
+                    "teamName": "HUISCOLCO MIX",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "points": 15
+                        },
+                        {
+                            "setNumber": 2,
+                            "points": 18
+                        },
+                        {
+                            "setNumber": 3,
+                            "points": 0
+                        }
+                    ],
+                    "players": []
+                }
+            ]
         }
     ],
     "teams": [
         {
             "category": "FEMENIL",
-            "position": 7,
+            "position": 5,
             "name": "AGUILAS",
             "initials": "AGUILAS",
             "isActive": true,
-            "gamesWon": 0,
+            "gamesWon": 1,
             "gamesLost": 2,
-            "setsWon": 1,
+            "setsWon": 3,
             "setsLost": 4,
-            "pointsWon": 94,
-            "pointsLost": 110,
+            "pointsWon": 144,
+            "pointsLost": 122,
             "teamPlayers": [],
             "teamHistory": null,
             "positionHistory": null
         },
         {
             "category": "MIXTO",
-            "position": 8,
+            "position": 4,
             "name": "CAZADORES",
             "initials": "CAZADOR",
             "isActive": true,
-            "gamesWon": 2,
+            "gamesWon": 4,
             "gamesLost": 3,
-            "setsWon": 4,
+            "setsWon": 8,
             "setsLost": 6,
-            "pointsWon": 198,
-            "pointsLost": 182,
+            "pointsWon": 298,
+            "pointsLost": 233,
             "teamPlayers": [],
             "teamHistory": null,
             "positionHistory": null
@@ -2308,34 +2814,34 @@
             "initials": "CDR",
             "isActive": true,
             "gamesWon": 5,
-            "gamesLost": 2,
+            "gamesLost": 3,
             "setsWon": 11,
-            "setsLost": 6,
-            "pointsWon": 342,
-            "pointsLost": 302,
+            "setsLost": 8,
+            "pointsWon": 384,
+            "pointsLost": 353,
             "teamPlayers": [],
             "teamHistory": null,
             "positionHistory": null
         },
         {
             "category": "VARONIL",
-            "position": 4,
+            "position": 2,
             "name": "CHIQUE",
             "initials": "CHIQUE",
             "isActive": true,
-            "gamesWon": 1,
+            "gamesWon": 2,
             "gamesLost": 1,
-            "setsWon": 2,
+            "setsWon": 4,
             "setsLost": 3,
-            "pointsWon": 63,
-            "pointsLost": 88,
+            "pointsWon": 113,
+            "pointsLost": 130,
             "teamPlayers": [],
             "teamHistory": null,
             "positionHistory": null
         },
         {
             "category": "MIXTO",
-            "position": 3,
+            "position": 5,
             "name": "CHIQUE MIX",
             "initials": "CHIQUE",
             "isActive": true,
@@ -2351,7 +2857,7 @@
         },
         {
             "category": "FEMENIL",
-            "position": 5,
+            "position": 6,
             "name": "COBRAS",
             "initials": "COBRAS",
             "isActive": true,
@@ -2383,16 +2889,16 @@
         },
         {
             "category": "MIXTO",
-            "position": 6,
+            "position": 10,
             "name": "ELITE",
             "initials": "ELITE",
             "isActive": true,
             "gamesWon": 2,
-            "gamesLost": 2,
-            "setsWon": 6,
-            "setsLost": 5,
-            "pointsWon": 225,
-            "pointsLost": 214,
+            "gamesLost": 3,
+            "setsWon": 7,
+            "setsLost": 7,
+            "pointsWon": 290,
+            "pointsLost": 281,
             "teamPlayers": [],
             "teamHistory": null,
             "positionHistory": null
@@ -2415,16 +2921,48 @@
         },
         {
             "category": "FEMENIL",
-            "position": 8,
+            "position": 9,
             "name": "GUERRERAS",
             "initials": "GUERRERA",
             "isActive": true,
             "gamesWon": 0,
-            "gamesLost": 3,
+            "gamesLost": 4,
             "setsWon": 0,
-            "setsLost": 6,
-            "pointsWon": 55,
-            "pointsLost": 150,
+            "setsLost": 8,
+            "pointsWon": 67,
+            "pointsLost": 200,
+            "teamPlayers": [],
+            "teamHistory": null,
+            "positionHistory": null
+        },
+        {
+            "category": "MIXTO",
+            "position": 8,
+            "name": "GUERREROS",
+            "initials": "GUERRER",
+            "isActive": true,
+            "gamesWon": 3,
+            "gamesLost": 4,
+            "setsWon": 7,
+            "setsLost": 9,
+            "pointsWon": 265,
+            "pointsLost": 344,
+            "teamPlayers": [],
+            "teamHistory": null,
+            "positionHistory": null
+        },
+        {
+            "category": "VARONIL",
+            "position": 4,
+            "name": "HUISCOLCO",
+            "initials": "HUISCOL",
+            "isActive": true,
+            "gamesWon": 1,
+            "gamesLost": 1,
+            "setsWon": 2,
+            "setsLost": 2,
+            "pointsWon": 92,
+            "pointsLost": 94,
             "teamPlayers": [],
             "teamHistory": null,
             "positionHistory": null
@@ -2432,63 +2970,31 @@
         {
             "category": "MIXTO",
             "position": 9,
-            "name": "GUERREROS",
-            "initials": "GUERRER",
-            "isActive": true,
-            "gamesWon": 2,
-            "gamesLost": 4,
-            "setsWon": 5,
-            "setsLost": 8,
-            "pointsWon": 198,
-            "pointsLost": 290,
-            "teamPlayers": [],
-            "teamHistory": null,
-            "positionHistory": null
-        },
-        {
-            "category": "VARONIL",
-            "position": 3,
-            "name": "HUISCOLCO",
-            "initials": "HUISCOL",
-            "isActive": true,
-            "gamesWon": 1,
-            "gamesLost": 0,
-            "setsWon": 2,
-            "setsLost": 0,
-            "pointsWon": 50,
-            "pointsLost": 44,
-            "teamPlayers": [],
-            "teamHistory": null,
-            "positionHistory": null
-        },
-        {
-            "category": "MIXTO",
-            "position": 10,
             "name": "HUISCOLCO MIX",
             "initials": "HUISCOL",
             "isActive": true,
-            "gamesWon": 1,
-            "gamesLost": 0,
-            "setsWon": 2,
-            "setsLost": 1,
-            "pointsWon": 61,
-            "pointsLost": 32,
+            "gamesWon": 2,
+            "gamesLost": 1,
+            "setsWon": 4,
+            "setsLost": 4,
+            "pointsWon": 161,
+            "pointsLost": 147,
             "teamPlayers": [],
             "teamHistory": null,
             "positionHistory": null
         },
         {
             "category": "MIXTO",
-            "position": 13,
+            "position": 14,
             "name": "HURACANES",
             "initials": "HURACAN",
             "isActive": true,
             "gamesWon": 0,
-            "gamesLost": 2,
-            "setsWon": 0,
-            "setsLost": 4,
-            "pointsWon": 63,
-            "pointsLost": 100,
+            "gamesLost": 5,
+            "setsWon": 2,
+            "setsLost": 10,
+            "pointsWon": 192,
+            "pointsLost": 278,
             "teamPlayers": [],
             "teamHistory": null,
             "positionHistory": null
@@ -2499,12 +3005,12 @@
             "name": "MONSTERS",
             "initials": "MONSTERS",
             "isActive": true,
-            "gamesWon": 2,
+            "gamesWon": 3,
             "gamesLost": 3,
-            "setsWon": 6,
+            "setsWon": 8,
             "setsLost": 6,
-            "pointsWon": 272,
-            "pointsLost": 200,
+            "pointsWon": 322,
+            "pointsLost": 236,
             "teamPlayers": [],
             "teamHistory": null,
             "positionHistory": null
@@ -2531,12 +3037,12 @@
             "name": "NOPALEROS",
             "initials": "NOPAL",
             "isActive": true,
-            "gamesWon": 3,
+            "gamesWon": 4,
             "gamesLost": 0,
-            "setsWon": 6,
+            "setsWon": 8,
             "setsLost": 0,
-            "pointsWon": 140,
-            "pointsLost": 35,
+            "pointsWon": 190,
+            "pointsLost": 64,
             "teamPlayers": [],
             "teamHistory": null,
             "positionHistory": null
@@ -2559,7 +3065,7 @@
         },
         {
             "category": "FEMENIL",
-            "position": 6,
+            "position": 7,
             "name": "PECHOCHAS",
             "initials": "PECHOCHA",
             "isActive": true,
@@ -2575,32 +3081,32 @@
         },
         {
             "category": "MIXTO",
-            "position": 4,
+            "position": 3,
             "name": "PECHOCHOS",
             "initials": "PECHOCHO",
             "isActive": true,
-            "gamesWon": 3,
-            "gamesLost": 1,
-            "setsWon": 6,
-            "setsLost": 3,
-            "pointsWon": 196,
-            "pointsLost": 170,
+            "gamesWon": 4,
+            "gamesLost": 2,
+            "setsWon": 8,
+            "setsLost": 5,
+            "pointsWon": 282,
+            "pointsLost": 253,
             "teamPlayers": [],
             "teamHistory": null,
             "positionHistory": null
         },
         {
             "category": "MIXTO",
-            "position": 14,
+            "position": 13,
             "name": "R LA CAMILA",
             "initials": "CAMILA",
             "isActive": true,
-            "gamesWon": 0,
+            "gamesWon": 1,
             "gamesLost": 4,
-            "setsWon": 0,
-            "setsLost": 8,
-            "pointsWon": 105,
-            "pointsLost": 200,
+            "setsWon": 2,
+            "setsLost": 9,
+            "pointsWon": 166,
+            "pointsLost": 258,
             "teamPlayers": [],
             "teamHistory": null,
             "positionHistory": null
@@ -2628,11 +3134,11 @@
             "initials": "TIBURON",
             "isActive": true,
             "gamesWon": 1,
-            "gamesLost": 3,
+            "gamesLost": 4,
             "setsWon": 2,
-            "setsLost": 6,
-            "pointsWon": 135,
-            "pointsLost": 188,
+            "setsLost": 8,
+            "pointsWon": 169,
+            "pointsLost": 238,
             "teamPlayers": [],
             "teamHistory": null,
             "positionHistory": null
@@ -2655,16 +3161,16 @@
         },
         {
             "category": "VARONIL",
-            "position": 2,
+            "position": 3,
             "name": "TOROS",
             "initials": "TOROS",
             "isActive": true,
             "gamesWon": 2,
-            "gamesLost": 1,
+            "gamesLost": 2,
             "setsWon": 4,
-            "setsLost": 3,
-            "pointsWon": 153,
-            "pointsLost": 131,
+            "setsLost": 5,
+            "pointsWon": 182,
+            "pointsLost": 181,
             "teamPlayers": [],
             "teamHistory": null,
             "positionHistory": null
@@ -2687,6 +3193,22 @@
         },
         {
             "category": "FEMENIL",
+            "position": 8,
+            "name": "VAQUILLAS",
+            "initials": "VAQUILLA",
+            "isActive": true,
+            "gamesWon": 0,
+            "gamesLost": 0,
+            "setsWon": 0,
+            "setsLost": 0,
+            "pointsWon": 0,
+            "pointsLost": 0,
+            "teamPlayers": [],
+            "teamHistory": null,
+            "positionHistory": null
+        },
+        {
+            "category": "FEMENIL",
             "position": 4,
             "name": "VIKINGAS",
             "initials": "VIKINGAS",
@@ -2703,16 +3225,16 @@
         },
         {
             "category": "MIXTO",
-            "position": 5,
+            "position": 6,
             "name": "XOLOS",
             "initials": "XOLOS",
             "isActive": true,
-            "gamesWon": 2,
+            "gamesWon": 3,
             "gamesLost": 1,
-            "setsWon": 4,
+            "setsWon": 6,
             "setsLost": 3,
-            "pointsWon": 147,
-            "pointsLost": 156,
+            "pointsWon": 198,
+            "pointsLost": 198,
             "teamPlayers": [],
             "teamHistory": null,
             "positionHistory": null
@@ -2735,8 +3257,8 @@
                         "lost": 0
                     },
                     "HUISCOLCO": {
-                        "played": 0,
-                        "win": 0,
+                        "played": 1,
+                        "win": 1,
                         "lost": 0
                     },
                     "NEGOS": {
@@ -2797,9 +3319,9 @@
                 "initials": "HUISCOL",
                 "teamsPlayed": {
                     "CHIQUE": {
-                        "played": 0,
+                        "played": 1,
                         "win": 0,
-                        "lost": 0
+                        "lost": 1
                     },
                     "CUERVOS": {
                         "played": 0,
@@ -2894,8 +3416,8 @@
                         "lost": 0
                     },
                     "TOROS": {
-                        "played": 0,
-                        "win": 0,
+                        "played": 1,
+                        "win": 1,
                         "lost": 0
                     }
                 }
@@ -2925,9 +3447,9 @@
                         "lost": 0
                     },
                     "NOPALEROS": {
-                        "played": 0,
+                        "played": 1,
                         "win": 0,
-                        "lost": 0
+                        "lost": 1
                     },
                     "TOROS": {
                         "played": 0,
@@ -2978,8 +3500,8 @@
                         "lost": 0
                     },
                     "HURACANES": {
-                        "played": 0,
-                        "win": 0,
+                        "played": 1,
+                        "win": 1,
                         "lost": 0
                     },
                     "MONSTERS": {
@@ -3003,8 +3525,8 @@
                         "lost": 0
                     },
                     "TIBURONES": {
-                        "played": 0,
-                        "win": 0,
+                        "played": 1,
+                        "win": 1,
                         "lost": 0
                     },
                     "XOLOS": {
@@ -3084,9 +3606,9 @@
                         "lost": 0
                     },
                     "XOLOS": {
-                        "played": 0,
+                        "played": 1,
                         "win": 0,
-                        "lost": 0
+                        "lost": 1
                     }
                 }
             },
@@ -3201,9 +3723,9 @@
                         "lost": 0
                     },
                     "HUISCOLCO MIX": {
-                        "played": 0,
+                        "played": 1,
                         "win": 0,
-                        "lost": 0
+                        "lost": 1
                     },
                     "HURACANES": {
                         "played": 0,
@@ -3358,8 +3880,8 @@
                         "lost": 1
                     },
                     "HURACANES": {
-                        "played": 0,
-                        "win": 0,
+                        "played": 1,
+                        "win": 1,
                         "lost": 0
                     },
                     "MONSTERS": {
@@ -3414,8 +3936,8 @@
                         "lost": 0
                     },
                     "ELITE": {
-                        "played": 0,
-                        "win": 0,
+                        "played": 1,
+                        "win": 1,
                         "lost": 0
                     },
                     "FENIX": {
@@ -3444,9 +3966,9 @@
                         "lost": 0
                     },
                     "PECHOCHOS": {
-                        "played": 0,
+                        "played": 1,
                         "win": 0,
-                        "lost": 0
+                        "lost": 1
                     },
                     "R LA CAMILA": {
                         "played": 0,
@@ -3475,9 +3997,9 @@
                 "initials": "HURACAN",
                 "teamsPlayed": {
                     "CAZADORES": {
-                        "played": 0,
+                        "played": 1,
                         "win": 0,
-                        "lost": 0
+                        "lost": 1
                     },
                     "CDR": {
                         "played": 1,
@@ -3500,9 +4022,9 @@
                         "lost": 0
                     },
                     "GUERREROS": {
-                        "played": 0,
+                        "played": 1,
                         "win": 0,
-                        "lost": 0
+                        "lost": 1
                     },
                     "HUISCOLCO MIX": {
                         "played": 0,
@@ -3525,9 +4047,9 @@
                         "lost": 0
                     },
                     "R LA CAMILA": {
-                        "played": 0,
+                        "played": 1,
                         "win": 0,
-                        "lost": 0
+                        "lost": 1
                     },
                     "SPIKERS": {
                         "played": 1,
@@ -3596,8 +4118,8 @@
                         "lost": 0
                     },
                     "PECHOCHOS": {
-                        "played": 0,
-                        "win": 0,
+                        "played": 1,
+                        "win": 1,
                         "lost": 0
                     },
                     "R LA CAMILA": {
@@ -3657,8 +4179,8 @@
                         "lost": 0
                     },
                     "HUISCOLCO MIX": {
-                        "played": 0,
-                        "win": 0,
+                        "played": 1,
+                        "win": 1,
                         "lost": 0
                     },
                     "HURACANES": {
@@ -3667,9 +4189,9 @@
                         "lost": 0
                     },
                     "MONSTERS": {
-                        "played": 0,
+                        "played": 1,
                         "win": 0,
-                        "lost": 0
+                        "lost": 1
                     },
                     "PECHOCHOS": {
                         "played": 0,
@@ -3738,8 +4260,8 @@
                         "lost": 0
                     },
                     "HURACANES": {
-                        "played": 0,
-                        "win": 0,
+                        "played": 1,
+                        "win": 1,
                         "lost": 0
                     },
                     "MONSTERS": {
@@ -3855,9 +4377,9 @@
                 "initials": "TIBURON",
                 "teamsPlayed": {
                     "CAZADORES": {
-                        "played": 0,
+                        "played": 1,
                         "win": 0,
-                        "lost": 0
+                        "lost": 1
                     },
                     "CDR": {
                         "played": 0,
@@ -3936,8 +4458,8 @@
                         "lost": 0
                     },
                     "CDR": {
-                        "played": 0,
-                        "win": 0,
+                        "played": 1,
+                        "win": 1,
                         "lost": 0
                     },
                     "CHIQUE MIX": {
@@ -4019,8 +4541,8 @@
                         "lost": 1
                     },
                     "GUERRERAS": {
-                        "played": 0,
-                        "win": 0,
+                        "played": 1,
+                        "win": 1,
                         "lost": 0
                     },
                     "PANTERAS": {
@@ -4039,6 +4561,11 @@
                         "lost": 1
                     },
                     "VALKIRIAS": {
+                        "played": 0,
+                        "win": 0,
+                        "lost": 0
+                    },
+                    "VAQUILLAS": {
                         "played": 0,
                         "win": 0,
                         "lost": 0
@@ -4089,6 +4616,11 @@
                         "win": 0,
                         "lost": 1
                     },
+                    "VAQUILLAS": {
+                        "played": 0,
+                        "win": 0,
+                        "lost": 0
+                    },
                     "VIKINGAS": {
                         "played": 0,
                         "win": 0,
@@ -4101,9 +4633,9 @@
                 "initials": "GUERRERA",
                 "teamsPlayed": {
                     "AGUILAS": {
-                        "played": 0,
+                        "played": 1,
                         "win": 0,
-                        "lost": 0
+                        "lost": 1
                     },
                     "COBRAS": {
                         "played": 0,
@@ -4131,6 +4663,11 @@
                         "lost": 1
                     },
                     "VALKIRIAS": {
+                        "played": 0,
+                        "win": 0,
+                        "lost": 0
+                    },
+                    "VAQUILLAS": {
                         "played": 0,
                         "win": 0,
                         "lost": 0
@@ -4181,6 +4718,11 @@
                         "win": 0,
                         "lost": 1
                     },
+                    "VAQUILLAS": {
+                        "played": 0,
+                        "win": 0,
+                        "lost": 0
+                    },
                     "VIKINGAS": {
                         "played": 0,
                         "win": 0,
@@ -4227,6 +4769,11 @@
                         "win": 0,
                         "lost": 1
                     },
+                    "VAQUILLAS": {
+                        "played": 0,
+                        "win": 0,
+                        "lost": 0
+                    },
                     "VIKINGAS": {
                         "played": 1,
                         "win": 0,
@@ -4269,6 +4816,11 @@
                         "lost": 0
                     },
                     "VALKIRIAS": {
+                        "played": 0,
+                        "win": 0,
+                        "lost": 0
+                    },
+                    "VAQUILLAS": {
                         "played": 0,
                         "win": 0,
                         "lost": 0
@@ -4319,9 +4871,65 @@
                         "win": 0,
                         "lost": 0
                     },
+                    "VAQUILLAS": {
+                        "played": 0,
+                        "win": 0,
+                        "lost": 0
+                    },
                     "VIKINGAS": {
                         "played": 1,
                         "win": 1,
+                        "lost": 0
+                    }
+                }
+            },
+            {
+                "team": "VAQUILLAS",
+                "initials": "VAQUILLA",
+                "teamsPlayed": {
+                    "AGUILAS": {
+                        "played": 0,
+                        "win": 0,
+                        "lost": 0
+                    },
+                    "COBRAS": {
+                        "played": 0,
+                        "win": 0,
+                        "lost": 0
+                    },
+                    "GUERRERAS": {
+                        "played": 0,
+                        "win": 0,
+                        "lost": 0
+                    },
+                    "PANTERAS": {
+                        "played": 0,
+                        "win": 0,
+                        "lost": 0
+                    },
+                    "PECHOCHAS": {
+                        "played": 0,
+                        "win": 0,
+                        "lost": 0
+                    },
+                    "TIX": {
+                        "played": 0,
+                        "win": 0,
+                        "lost": 0
+                    },
+                    "VALKIRIAS": {
+                        "played": 0,
+                        "win": 0,
+                        "lost": 0
+                    },
+                    "VAQUILLAS": {
+                        "played": 0,
+                        "win": 0,
+                        "lost": 0
+                    },
+                    "VIKINGAS": {
+                        "played": 0,
+                        "win": 0,
                         "lost": 0
                     }
                 }
@@ -4364,6 +4972,11 @@
                         "played": 1,
                         "win": 0,
                         "lost": 1
+                    },
+                    "VAQUILLAS": {
+                        "played": 0,
+                        "win": 0,
+                        "lost": 0
                     },
                     "VIKINGAS": {
                         "played": 0,
