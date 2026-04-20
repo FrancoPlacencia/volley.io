@@ -51,10 +51,19 @@ mat-card {
 mat-icon {
   font-size: 1.25rem;
 }
-
+/*
+.material-symbols-outlined {
+  font-family: 'Material Symbols Outlined';
+  font-size: 1.25rem;
+  font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 48;
+  vertical-align: middle;
+}
+*/
 mat-form-field {
   mat-icon {
     color: #adb5bd;
     padding-right: 10px;
   }
 }
+
+
