@@ -3,12 +3,14 @@
         "name": "Torneo de Primavera Verano 2026",
         "year": 2026,
         "startDate": "2026-02-21T21:06:32.000+00:00",
-        "rounds": 3,
+        "femRounds": 3,
+        "varRounds": 3,
+        "mixRounds": 2,
         "stage": "REGULAR",
         "regularSets": 3,
         "eliminationSets": 5,
         "femElimination": 6,
-        "varElimination": 6,
+        "varElimination": 4,
         "mixElimination": 8,
         "qualification": 40
     },
@@ -11070,11 +11072,11 @@
                     "setStats": [
                         {
                             "setNumber": 1,
-                            "points": 25
+                            "points": 17
                         },
                         {
                             "setNumber": 2,
-                            "points": 25
+                            "points": 22
                         },
                         {
                             "setNumber": 3,
@@ -11141,11 +11143,11 @@
                     "setStats": [
                         {
                             "setNumber": 1,
-                            "points": 17
+                            "points": 25
                         },
                         {
                             "setNumber": 2,
-                            "points": 22
+                            "points": 25
                         },
                         {
                             "setNumber": 3,
@@ -13958,8 +13960,8 @@
                     "sex": "FEMALE",
                     "number": 2,
                     "gamesPlayed": 1,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 10,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 7,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -13969,8 +13971,8 @@
                     "sex": "FEMALE",
                     "number": 3,
                     "gamesPlayed": 7,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 70,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 47,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -13980,8 +13982,8 @@
                     "sex": "FEMALE",
                     "number": 4,
                     "gamesPlayed": 1,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 10,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 7,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -13991,8 +13993,8 @@
                     "sex": "FEMALE",
                     "number": 7,
                     "gamesPlayed": 7,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 70,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 47,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -14002,8 +14004,8 @@
                     "sex": "FEMALE",
                     "number": 10,
                     "gamesPlayed": 7,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 70,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 47,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -14013,8 +14015,8 @@
                     "sex": "FEMALE",
                     "number": 11,
                     "gamesPlayed": 8,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 80,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 53,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -14024,8 +14026,8 @@
                     "sex": "FEMALE",
                     "number": 12,
                     "gamesPlayed": 1,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 10,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 7,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -14035,8 +14037,8 @@
                     "sex": "FEMALE",
                     "number": 15,
                     "gamesPlayed": 6,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 60,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 40,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -14046,8 +14048,8 @@
                     "sex": "FEMALE",
                     "number": 19,
                     "gamesPlayed": 4,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 40,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 27,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -14057,8 +14059,8 @@
                     "sex": "FEMALE",
                     "number": 22,
                     "gamesPlayed": 6,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 60,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 40,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -14068,8 +14070,8 @@
                     "sex": "FEMALE",
                     "number": 24,
                     "gamesPlayed": 8,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 80,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 53,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -14079,8 +14081,8 @@
                     "sex": "FEMALE",
                     "number": 27,
                     "gamesPlayed": 4,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 40,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 27,
                     "isActive": true,
                     "gamePlayed": null
                 }
@@ -14499,8 +14501,8 @@
                     "sex": "MALE",
                     "number": 2,
                     "gamesPlayed": 7,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 88,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 58,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -14510,8 +14512,8 @@
                     "sex": "MALE",
                     "number": 5,
                     "gamesPlayed": 9,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 113,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 75,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -14521,8 +14523,8 @@
                     "sex": "MALE",
                     "number": 7,
                     "gamesPlayed": 7,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 88,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 58,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -14532,8 +14534,8 @@
                     "sex": "MALE",
                     "number": 8,
                     "gamesPlayed": 6,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 75,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 50,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -14543,8 +14545,8 @@
                     "sex": "MALE",
                     "number": 9,
                     "gamesPlayed": 3,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 38,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 25,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -14554,8 +14556,8 @@
                     "sex": "MALE",
                     "number": 11,
                     "gamesPlayed": 8,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 100,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 67,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -14565,8 +14567,8 @@
                     "sex": "MALE",
                     "number": 13,
                     "gamesPlayed": 6,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 75,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 50,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -14576,8 +14578,8 @@
                     "sex": "MALE",
                     "number": 17,
                     "gamesPlayed": 8,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 100,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 67,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -14587,8 +14589,8 @@
                     "sex": "MALE",
                     "number": 26,
                     "gamesPlayed": 3,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 38,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 25,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -14598,8 +14600,8 @@
                     "sex": "MALE",
                     "number": 27,
                     "gamesPlayed": 9,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 113,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 75,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -14609,8 +14611,8 @@
                     "sex": "MALE",
                     "number": 30,
                     "gamesPlayed": 5,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 63,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 42,
                     "isActive": true,
                     "gamePlayed": null
                 }
@@ -14808,8 +14810,8 @@
                     "sex": "MALE",
                     "number": 1,
                     "gamesPlayed": 9,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 113,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 75,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -14819,8 +14821,8 @@
                     "sex": "MALE",
                     "number": 2,
                     "gamesPlayed": 6,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 75,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 50,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -14830,8 +14832,8 @@
                     "sex": "MALE",
                     "number": 4,
                     "gamesPlayed": 2,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 25,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 17,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -14841,8 +14843,8 @@
                     "sex": "MALE",
                     "number": 10,
                     "gamesPlayed": 7,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 88,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 58,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -14852,8 +14854,8 @@
                     "sex": "MALE",
                     "number": 11,
                     "gamesPlayed": 9,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 113,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 75,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -14863,8 +14865,8 @@
                     "sex": "MALE",
                     "number": 13,
                     "gamesPlayed": 2,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 25,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 17,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -14874,8 +14876,8 @@
                     "sex": "MALE",
                     "number": 14,
                     "gamesPlayed": 6,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 75,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 50,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -14885,8 +14887,8 @@
                     "sex": "MALE",
                     "number": 15,
                     "gamesPlayed": 6,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 75,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 50,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -14896,8 +14898,8 @@
                     "sex": "MALE",
                     "number": 19,
                     "gamesPlayed": 9,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 113,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 75,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -14907,8 +14909,8 @@
                     "sex": "MALE",
                     "number": 23,
                     "gamesPlayed": 8,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 100,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 67,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -14918,8 +14920,8 @@
                     "sex": "MALE",
                     "number": 37,
                     "gamesPlayed": 1,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 13,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 8,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -14929,8 +14931,8 @@
                     "sex": "MALE",
                     "number": 555,
                     "gamesPlayed": 4,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 50,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 33,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -14940,8 +14942,8 @@
                     "sex": "MALE",
                     "number": 666,
                     "gamesPlayed": 4,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 50,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 33,
                     "isActive": true,
                     "gamePlayed": null
                 }
@@ -15211,8 +15213,8 @@
                     "sex": "MALE",
                     "number": 3,
                     "gamesPlayed": 3,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 38,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 25,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -15222,8 +15224,8 @@
                     "sex": "MALE",
                     "number": 5,
                     "gamesPlayed": 6,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 75,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 50,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -15233,8 +15235,8 @@
                     "sex": "MALE",
                     "number": 6,
                     "gamesPlayed": 8,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 100,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 67,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -15244,8 +15246,8 @@
                     "sex": "MALE",
                     "number": 7,
                     "gamesPlayed": 7,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 88,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 58,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -15255,8 +15257,8 @@
                     "sex": "MALE",
                     "number": 8,
                     "gamesPlayed": 4,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 50,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 33,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -15266,8 +15268,8 @@
                     "sex": "MALE",
                     "number": 9,
                     "gamesPlayed": 5,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 63,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 42,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -15277,8 +15279,8 @@
                     "sex": "MALE",
                     "number": 10,
                     "gamesPlayed": 7,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 88,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 58,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -15288,8 +15290,8 @@
                     "sex": "MALE",
                     "number": 13,
                     "gamesPlayed": 7,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 88,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 58,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -15299,8 +15301,8 @@
                     "sex": "MALE",
                     "number": 17,
                     "gamesPlayed": 10,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 125,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 83,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -15310,8 +15312,8 @@
                     "sex": "MALE",
                     "number": 22,
                     "gamesPlayed": 10,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 125,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 83,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -15321,8 +15323,8 @@
                     "sex": "MALE",
                     "number": 23,
                     "gamesPlayed": 5,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 63,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 42,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -15332,8 +15334,8 @@
                     "sex": "MALE",
                     "number": 24,
                     "gamesPlayed": 4,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 50,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 33,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -15343,8 +15345,8 @@
                     "sex": "MALE",
                     "number": 78,
                     "gamesPlayed": 3,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 38,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 25,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -15354,8 +15356,8 @@
                     "sex": "MALE",
                     "number": 100,
                     "gamesPlayed": 1,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 13,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 8,
                     "isActive": true,
                     "gamePlayed": null
                 }
@@ -15369,12 +15371,12 @@
             "name": "HUISCOLCO MIX",
             "initials": "HUISCOL",
             "isActive": true,
-            "gamesWon": 10,
-            "gamesLost": 4,
-            "setsWon": 20,
-            "setsLost": 13,
-            "pointsWon": 721,
-            "pointsLost": 649,
+            "gamesWon": 9,
+            "gamesLost": 5,
+            "setsWon": 18,
+            "setsLost": 15,
+            "pointsWon": 710,
+            "pointsLost": 660,
             "teamPlayers": [
                 {
                     "name": "Andres",
@@ -15542,8 +15544,8 @@
                     "sex": "MALE",
                     "number": 4,
                     "gamesPlayed": 2,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 25,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 17,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -15553,8 +15555,8 @@
                     "sex": "MALE",
                     "number": 7,
                     "gamesPlayed": 7,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 88,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 58,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -15564,8 +15566,8 @@
                     "sex": "MALE",
                     "number": 11,
                     "gamesPlayed": 8,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 100,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 67,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -15575,8 +15577,8 @@
                     "sex": "MALE",
                     "number": 14,
                     "gamesPlayed": 1,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 13,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 8,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -15586,8 +15588,8 @@
                     "sex": "MALE",
                     "number": 15,
                     "gamesPlayed": 5,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 63,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 42,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -15597,8 +15599,8 @@
                     "sex": "MALE",
                     "number": 16,
                     "gamesPlayed": 5,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 63,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 42,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -15608,8 +15610,8 @@
                     "sex": "MALE",
                     "number": 18,
                     "gamesPlayed": 6,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 75,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 50,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -15619,8 +15621,8 @@
                     "sex": "MALE",
                     "number": 25,
                     "gamesPlayed": 3,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 38,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 25,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -15641,8 +15643,8 @@
                     "sex": "MALE",
                     "number": 118,
                     "gamesPlayed": 1,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 13,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 8,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -15652,8 +15654,8 @@
                     "sex": "MALE",
                     "number": 128,
                     "gamesPlayed": 6,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 75,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 50,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -15663,8 +15665,8 @@
                     "sex": "MALE",
                     "number": 999,
                     "gamesPlayed": 2,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 25,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 17,
                     "isActive": true,
                     "gamePlayed": null
                 }
@@ -15691,8 +15693,8 @@
                     "sex": "FEMALE",
                     "number": 2,
                     "gamesPlayed": 8,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 80,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 53,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -15702,8 +15704,8 @@
                     "sex": "FEMALE",
                     "number": 3,
                     "gamesPlayed": 5,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 50,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 33,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -15713,8 +15715,8 @@
                     "sex": "FEMALE",
                     "number": 7,
                     "gamesPlayed": 8,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 80,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 53,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -15724,8 +15726,8 @@
                     "sex": "FEMALE",
                     "number": 8,
                     "gamesPlayed": 8,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 80,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 53,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -15735,8 +15737,8 @@
                     "sex": "FEMALE",
                     "number": 13,
                     "gamesPlayed": 6,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 60,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 40,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -15746,8 +15748,8 @@
                     "sex": "FEMALE",
                     "number": 23,
                     "gamesPlayed": 8,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 80,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 53,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -15757,8 +15759,8 @@
                     "sex": "FEMALE",
                     "number": 27,
                     "gamesPlayed": 8,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 80,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 53,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -15768,8 +15770,8 @@
                     "sex": "FEMALE",
                     "number": 28,
                     "gamesPlayed": 2,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 20,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 13,
                     "isActive": true,
                     "gamePlayed": null
                 }
@@ -15783,12 +15785,12 @@
             "name": "TAZMANIA",
             "initials": "TAZMAN",
             "isActive": true,
-            "gamesWon": 4,
-            "gamesLost": 10,
-            "setsWon": 8,
-            "setsLost": 24,
-            "pointsWon": 551,
-            "pointsLost": 724,
+            "gamesWon": 5,
+            "gamesLost": 9,
+            "setsWon": 10,
+            "setsLost": 22,
+            "pointsWon": 562,
+            "pointsLost": 713,
             "teamPlayers": [
                 {
                     "name": "Ramiro",
@@ -16061,8 +16063,8 @@
                     "sex": "FEMALE",
                     "number": 1,
                     "gamesPlayed": 4,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 40,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 27,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -16072,8 +16074,8 @@
                     "sex": "FEMALE",
                     "number": 4,
                     "gamesPlayed": 7,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 70,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 47,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -16083,8 +16085,8 @@
                     "sex": "FEMALE",
                     "number": 7,
                     "gamesPlayed": 9,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 90,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 60,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -16094,8 +16096,8 @@
                     "sex": "FEMALE",
                     "number": 11,
                     "gamesPlayed": 7,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 70,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 47,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -16105,8 +16107,8 @@
                     "sex": "FEMALE",
                     "number": 13,
                     "gamesPlayed": 9,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 90,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 60,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -16116,8 +16118,8 @@
                     "sex": "FEMALE",
                     "number": 16,
                     "gamesPlayed": 5,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 50,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 33,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -16127,8 +16129,8 @@
                     "sex": "FEMALE",
                     "number": 17,
                     "gamesPlayed": 7,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 70,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 47,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -16138,8 +16140,8 @@
                     "sex": "FEMALE",
                     "number": 27,
                     "gamesPlayed": 8,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 80,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 53,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -16149,8 +16151,8 @@
                     "sex": "FEMALE",
                     "number": 30,
                     "gamesPlayed": 4,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 40,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 27,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -16160,8 +16162,8 @@
                     "sex": "FEMALE",
                     "number": 104,
                     "gamesPlayed": 1,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 10,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 7,
                     "isActive": true,
                     "gamePlayed": null
                 }
@@ -16188,8 +16190,8 @@
                     "sex": "MALE",
                     "number": 1,
                     "gamesPlayed": 9,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 113,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 75,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -16199,8 +16201,8 @@
                     "sex": "MALE",
                     "number": 2,
                     "gamesPlayed": 8,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 100,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 67,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -16210,8 +16212,8 @@
                     "sex": "MALE",
                     "number": 3,
                     "gamesPlayed": 9,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 113,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 75,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -16221,8 +16223,8 @@
                     "sex": "MALE",
                     "number": 7,
                     "gamesPlayed": 9,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 113,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 75,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -16232,8 +16234,8 @@
                     "sex": "MALE",
                     "number": 13,
                     "gamesPlayed": 8,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 100,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 67,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -16243,8 +16245,8 @@
                     "sex": "MALE",
                     "number": 17,
                     "gamesPlayed": 7,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 88,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 58,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -16254,8 +16256,8 @@
                     "sex": "MALE",
                     "number": 24,
                     "gamesPlayed": 9,
-                    "gamesTotal": 8,
-                    "gamesPercentage": 113,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 75,
                     "isActive": true,
                     "gamePlayed": null
                 }
@@ -16282,8 +16284,8 @@
                     "sex": "FEMALE",
                     "number": 1,
                     "gamesPlayed": 2,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 20,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 13,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -16293,8 +16295,8 @@
                     "sex": "FEMALE",
                     "number": 7,
                     "gamesPlayed": 6,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 60,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 40,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -16304,8 +16306,8 @@
                     "sex": "FEMALE",
                     "number": 10,
                     "gamesPlayed": 4,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 40,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 27,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -16315,8 +16317,8 @@
                     "sex": "FEMALE",
                     "number": 16,
                     "gamesPlayed": 4,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 40,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 27,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -16326,8 +16328,8 @@
                     "sex": "FEMALE",
                     "number": 18,
                     "gamesPlayed": 4,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 40,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 27,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -16337,8 +16339,8 @@
                     "sex": "FEMALE",
                     "number": 21,
                     "gamesPlayed": 4,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 40,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 27,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -16359,8 +16361,8 @@
                     "sex": "FEMALE",
                     "number": 25,
                     "gamesPlayed": 6,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 60,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 40,
                     "isActive": true,
                     "gamePlayed": null
                 }
@@ -16387,8 +16389,8 @@
                     "sex": "FEMALE",
                     "number": 4,
                     "gamesPlayed": 5,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 50,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 33,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -16398,8 +16400,8 @@
                     "sex": "FEMALE",
                     "number": 5,
                     "gamesPlayed": 4,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 40,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 27,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -16409,8 +16411,8 @@
                     "sex": "FEMALE",
                     "number": 6,
                     "gamesPlayed": 5,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 50,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 33,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -16420,8 +16422,8 @@
                     "sex": "FEMALE",
                     "number": 8,
                     "gamesPlayed": 4,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 40,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 27,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -16431,8 +16433,8 @@
                     "sex": "FEMALE",
                     "number": 9,
                     "gamesPlayed": 3,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 30,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 20,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -16442,8 +16444,8 @@
                     "sex": "FEMALE",
                     "number": 11,
                     "gamesPlayed": 3,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 30,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 20,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -16453,8 +16455,8 @@
                     "sex": "FEMALE",
                     "number": 12,
                     "gamesPlayed": 1,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 10,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 7,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -16464,8 +16466,8 @@
                     "sex": "FEMALE",
                     "number": 13,
                     "gamesPlayed": 3,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 30,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 20,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -16475,8 +16477,8 @@
                     "sex": "FEMALE",
                     "number": 20,
                     "gamesPlayed": 5,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 50,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 33,
                     "isActive": true,
                     "gamePlayed": null
                 }
@@ -16503,8 +16505,8 @@
                     "sex": "FEMALE",
                     "number": 2,
                     "gamesPlayed": 6,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 60,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 40,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -16514,8 +16516,8 @@
                     "sex": "FEMALE",
                     "number": 4,
                     "gamesPlayed": 4,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 40,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 27,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -16525,8 +16527,8 @@
                     "sex": "FEMALE",
                     "number": 9,
                     "gamesPlayed": 4,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 40,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 27,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -16536,8 +16538,8 @@
                     "sex": "FEMALE",
                     "number": 11,
                     "gamesPlayed": 3,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 30,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 20,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -16547,8 +16549,8 @@
                     "sex": "FEMALE",
                     "number": 13,
                     "gamesPlayed": 3,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 30,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 20,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -16558,8 +16560,8 @@
                     "sex": "FEMALE",
                     "number": 17,
                     "gamesPlayed": 3,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 30,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 20,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -16569,8 +16571,8 @@
                     "sex": "FEMALE",
                     "number": 20,
                     "gamesPlayed": 4,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 40,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 27,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -16580,8 +16582,8 @@
                     "sex": "FEMALE",
                     "number": 21,
                     "gamesPlayed": 4,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 40,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 27,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -16591,8 +16593,8 @@
                     "sex": "FEMALE",
                     "number": 27,
                     "gamesPlayed": 2,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 20,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 13,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -16602,8 +16604,8 @@
                     "sex": "FEMALE",
                     "number": 30,
                     "gamesPlayed": 6,
-                    "gamesTotal": 10,
-                    "gamesPercentage": 60,
+                    "gamesTotal": 15,
+                    "gamesPercentage": 40,
                     "isActive": true,
                     "gamePlayed": null
                 }
@@ -17118,8 +17120,8 @@
                     },
                     "TAZMANIA": {
                         "played": 1,
-                        "win": 1,
-                        "lost": 0
+                        "win": 0,
+                        "lost": 1
                     },
                     "TIBURONES": {
                         "played": 2,
@@ -17164,8 +17166,8 @@
                     },
                     "HUISCOLCO MIX": {
                         "played": 1,
-                        "win": 0,
-                        "lost": 1
+                        "win": 1,
+                        "lost": 0
                     },
                     "TAZMANIA": {
                         "played": 0,
