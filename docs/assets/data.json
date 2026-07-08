@@ -9,7 +9,7 @@
         "stage": "REGULAR",
         "regularSets": 3,
         "eliminationSets": 5,
-        "femElimination": 6,
+        "femElimination": 4,
         "varElimination": 4,
         "mixElimination": 8,
         "qualification": 40
@@ -388,6 +388,10 @@
                             "gamePlayed": true
                         },
                         {
+                            "number": 5,
+                            "gamePlayed": false
+                        },
+                        {
                             "number": 7,
                             "gamePlayed": true
                         },
@@ -629,7 +633,7 @@
                         },
                         {
                             "number": 14,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 16,
@@ -734,6 +738,10 @@
                         },
                         {
                             "number": 102,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 108,
                             "gamePlayed": false
                         }
                     ]
@@ -974,7 +982,7 @@
                         },
                         {
                             "number": 5,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 7,
@@ -998,7 +1006,7 @@
                         },
                         {
                             "number": 74,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 103,
@@ -1180,6 +1188,10 @@
                             "gamePlayed": true
                         },
                         {
+                            "number": 5,
+                            "gamePlayed": false
+                        },
+                        {
                             "number": 7,
                             "gamePlayed": true
                         },
@@ -1338,6 +1350,10 @@
                         {
                             "number": 102,
                             "gamePlayed": false
+                        },
+                        {
+                            "number": 108,
+                            "gamePlayed": false
                         }
                     ]
                 }
@@ -1441,7 +1457,7 @@
                         },
                         {
                             "number": 5,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 7,
@@ -1465,7 +1481,7 @@
                         },
                         {
                             "number": 74,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 103,
@@ -1569,7 +1585,7 @@
                         },
                         {
                             "number": 14,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 16,
@@ -1675,6 +1691,10 @@
                         {
                             "number": 102,
                             "gamePlayed": false
+                        },
+                        {
+                            "number": 108,
+                            "gamePlayed": false
                         }
                     ]
                 },
@@ -1779,6 +1799,10 @@
                         {
                             "number": 3,
                             "gamePlayed": true
+                        },
+                        {
+                            "number": 5,
+                            "gamePlayed": false
                         },
                         {
                             "number": 7,
@@ -2494,7 +2518,7 @@
                         },
                         {
                             "number": 128,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 999,
@@ -2669,7 +2693,7 @@
                         },
                         {
                             "number": 5,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 7,
@@ -2693,7 +2717,7 @@
                         },
                         {
                             "number": 74,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 103,
@@ -2870,7 +2894,7 @@
                         },
                         {
                             "number": 7,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 8,
@@ -3493,7 +3517,7 @@
                         },
                         {
                             "number": 14,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 16,
@@ -3753,7 +3777,7 @@
                         },
                         {
                             "number": 74,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 103,
@@ -4001,7 +4025,7 @@
                         },
                         {
                             "number": 5,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 7,
@@ -4025,7 +4049,7 @@
                         },
                         {
                             "number": 74,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 103,
@@ -4390,6 +4414,10 @@
                         {
                             "number": 3,
                             "gamePlayed": true
+                        },
+                        {
+                            "number": 5,
+                            "gamePlayed": false
                         },
                         {
                             "number": 7,
@@ -5065,7 +5093,7 @@
                         },
                         {
                             "number": 14,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 16,
@@ -5170,6 +5198,10 @@
                         },
                         {
                             "number": 102,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 108,
                             "gamePlayed": false
                         }
                     ]
@@ -6155,6 +6187,10 @@
                         {
                             "number": 102,
                             "gamePlayed": false
+                        },
+                        {
+                            "number": 108,
+                            "gamePlayed": false
                         }
                     ]
                 },
@@ -6185,7 +6221,7 @@
                         },
                         {
                             "number": 5,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 7,
@@ -6209,7 +6245,7 @@
                         },
                         {
                             "number": 74,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 103,
@@ -6677,6 +6713,10 @@
                             "gamePlayed": true
                         },
                         {
+                            "number": 5,
+                            "gamePlayed": false
+                        },
+                        {
                             "number": 7,
                             "gamePlayed": true
                         },
@@ -7111,6 +7151,10 @@
                         {
                             "number": 102,
                             "gamePlayed": false
+                        },
+                        {
+                            "number": 108,
+                            "gamePlayed": true
                         }
                     ]
                 },
@@ -7259,6 +7303,10 @@
                         {
                             "number": 102,
                             "gamePlayed": false
+                        },
+                        {
+                            "number": 108,
+                            "gamePlayed": true
                         }
                     ]
                 },
@@ -7710,6 +7758,10 @@
                         {
                             "number": 3,
                             "gamePlayed": true
+                        },
+                        {
+                            "number": 5,
+                            "gamePlayed": false
                         },
                         {
                             "number": 7,
@@ -8248,6 +8300,146 @@
                         },
                         {
                             "setNumber": 2,
+                            "points": 23
+                        },
+                        {
+                            "setNumber": 3,
+                            "points": 15
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 5,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 6,
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 7,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 8,
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 11,
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 13,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 15,
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 19,
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 21,
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 22,
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 23,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 100,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 777,
+                            "gamePlayed": true
+                        }
+                    ]
+                },
+                {
+                    "teamName": "CAZADORES",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "points": 20
+                        },
+                        {
+                            "setNumber": 2,
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 3,
+                            "points": 8
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 2,
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 3,
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 5,
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 7,
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 11,
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 16,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 18,
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 20,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 77,
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 99,
+                            "gamePlayed": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "weekNumber": 10,
+            "category": "MIXTO",
+            "stage": "REGULAR",
+            "gameDate": "2026-05-05T02:00:00.000+00:00",
+            "gamePlace": "ABAJO",
+            "byDefault": false,
+            "teamStats": [
+                {
+                    "teamName": "HUISCOLCO MIX",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 2,
                             "points": 25
                         },
                         {
@@ -8379,146 +8571,6 @@
             "weekNumber": 10,
             "category": "MIXTO",
             "stage": "REGULAR",
-            "gameDate": "2026-05-05T02:00:00.000+00:00",
-            "gamePlace": "ABAJO",
-            "byDefault": false,
-            "teamStats": [
-                {
-                    "teamName": "HUISCOLCO MIX",
-                    "setStats": [
-                        {
-                            "setNumber": 1,
-                            "points": 25
-                        },
-                        {
-                            "setNumber": 2,
-                            "points": 23
-                        },
-                        {
-                            "setNumber": 3,
-                            "points": 15
-                        }
-                    ],
-                    "players": [
-                        {
-                            "number": 5,
-                            "gamePlayed": false
-                        },
-                        {
-                            "number": 6,
-                            "gamePlayed": true
-                        },
-                        {
-                            "number": 7,
-                            "gamePlayed": false
-                        },
-                        {
-                            "number": 8,
-                            "gamePlayed": true
-                        },
-                        {
-                            "number": 11,
-                            "gamePlayed": true
-                        },
-                        {
-                            "number": 13,
-                            "gamePlayed": false
-                        },
-                        {
-                            "number": 15,
-                            "gamePlayed": true
-                        },
-                        {
-                            "number": 19,
-                            "gamePlayed": true
-                        },
-                        {
-                            "number": 21,
-                            "gamePlayed": true
-                        },
-                        {
-                            "number": 22,
-                            "gamePlayed": true
-                        },
-                        {
-                            "number": 23,
-                            "gamePlayed": false
-                        },
-                        {
-                            "number": 100,
-                            "gamePlayed": false
-                        },
-                        {
-                            "number": 777,
-                            "gamePlayed": true
-                        }
-                    ]
-                },
-                {
-                    "teamName": "CAZADORES",
-                    "setStats": [
-                        {
-                            "setNumber": 1,
-                            "points": 20
-                        },
-                        {
-                            "setNumber": 2,
-                            "points": 25
-                        },
-                        {
-                            "setNumber": 3,
-                            "points": 8
-                        }
-                    ],
-                    "players": [
-                        {
-                            "number": 2,
-                            "gamePlayed": true
-                        },
-                        {
-                            "number": 3,
-                            "gamePlayed": true
-                        },
-                        {
-                            "number": 5,
-                            "gamePlayed": true
-                        },
-                        {
-                            "number": 7,
-                            "gamePlayed": true
-                        },
-                        {
-                            "number": 11,
-                            "gamePlayed": true
-                        },
-                        {
-                            "number": 16,
-                            "gamePlayed": false
-                        },
-                        {
-                            "number": 18,
-                            "gamePlayed": true
-                        },
-                        {
-                            "number": 20,
-                            "gamePlayed": false
-                        },
-                        {
-                            "number": 77,
-                            "gamePlayed": true
-                        },
-                        {
-                            "number": 99,
-                            "gamePlayed": true
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "weekNumber": 10,
-            "category": "MIXTO",
-            "stage": "REGULAR",
             "gameDate": "2026-05-06T00:00:00.000+00:00",
             "gamePlace": "ABAJO",
             "byDefault": false,
@@ -8542,7 +8594,7 @@
                     "players": [
                         {
                             "number": 1,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 3,
@@ -8570,7 +8622,7 @@
                         },
                         {
                             "number": 27,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 74,
@@ -8578,7 +8630,7 @@
                         },
                         {
                             "number": 103,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         }
                     ]
                 },
@@ -8694,7 +8746,7 @@
                         },
                         {
                             "number": 8,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 11,
@@ -8706,7 +8758,7 @@
                         },
                         {
                             "number": 27,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 74,
@@ -8714,7 +8766,7 @@
                         },
                         {
                             "number": 103,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         }
                     ]
                 },
@@ -9132,6 +9184,10 @@
                             "gamePlayed": true
                         },
                         {
+                            "number": 5,
+                            "gamePlayed": false
+                        },
+                        {
                             "number": 7,
                             "gamePlayed": true
                         },
@@ -9478,7 +9534,7 @@
                         },
                         {
                             "number": 7,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 8,
@@ -9610,7 +9666,7 @@
                         },
                         {
                             "number": 7,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 8,
@@ -10174,7 +10230,7 @@
                     "players": [
                         {
                             "number": 1,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 3,
@@ -10202,7 +10258,7 @@
                         },
                         {
                             "number": 27,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 74,
@@ -10702,7 +10758,7 @@
                         },
                         {
                             "number": 7,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 8,
@@ -10878,7 +10934,7 @@
                         },
                         {
                             "number": 105,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         }
                     ]
                 },
@@ -10987,6 +11043,10 @@
                         {
                             "number": 3,
                             "gamePlayed": true
+                        },
+                        {
+                            "number": 5,
+                            "gamePlayed": false
                         },
                         {
                             "number": 7,
@@ -11321,7 +11381,7 @@
                         },
                         {
                             "number": 27,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 74,
@@ -11675,6 +11735,10 @@
                         {
                             "number": 102,
                             "gamePlayed": true
+                        },
+                        {
+                            "number": 108,
+                            "gamePlayed": false
                         }
                     ]
                 },
@@ -11819,6 +11883,10 @@
                         {
                             "number": 102,
                             "gamePlayed": true
+                        },
+                        {
+                            "number": 108,
+                            "gamePlayed": false
                         }
                     ]
                 },
@@ -12519,6 +12587,10 @@
                         {
                             "number": 102,
                             "gamePlayed": false
+                        },
+                        {
+                            "number": 108,
+                            "gamePlayed": false
                         }
                     ]
                 },
@@ -12674,6 +12746,10 @@
                         },
                         {
                             "number": 102,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 108,
                             "gamePlayed": false
                         }
                     ]
@@ -12986,6 +13062,10 @@
                         {
                             "number": 3,
                             "gamePlayed": true
+                        },
+                        {
+                            "number": 5,
+                            "gamePlayed": false
                         },
                         {
                             "number": 7,
@@ -13499,6 +13579,10 @@
                         {
                             "number": 102,
                             "gamePlayed": false
+                        },
+                        {
+                            "number": 108,
+                            "gamePlayed": false
                         }
                     ]
                 },
@@ -13937,7 +14021,7 @@
                         },
                         {
                             "number": 22,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 23,
@@ -14619,6 +14703,10 @@
                         {
                             "number": 102,
                             "gamePlayed": false
+                        },
+                        {
+                            "number": 108,
+                            "gamePlayed": false
                         }
                     ]
                 },
@@ -14755,6 +14843,10 @@
                         {
                             "number": 102,
                             "gamePlayed": false
+                        },
+                        {
+                            "number": 108,
+                            "gamePlayed": false
                         }
                     ]
                 },
@@ -14817,7 +14909,7 @@
                         },
                         {
                             "number": 105,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         }
                     ]
                 }
@@ -14921,6 +15013,10 @@
                         },
                         {
                             "number": 3,
+                            "gamePlayed": true
+                        },
+                        {
+                            "number": 5,
                             "gamePlayed": true
                         },
                         {
@@ -15350,7 +15446,7 @@
                         },
                         {
                             "number": 22,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 23,
@@ -16829,7 +16925,7 @@
                     "players": [
                         {
                             "number": 1,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 7,
@@ -16837,7 +16933,7 @@
                         },
                         {
                             "number": 10,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 14,
@@ -16970,6 +17066,10 @@
                         {
                             "number": 3,
                             "gamePlayed": true
+                        },
+                        {
+                            "number": 5,
+                            "gamePlayed": false
                         },
                         {
                             "number": 7,
@@ -18251,6 +18351,10 @@
                         {
                             "number": 102,
                             "gamePlayed": false
+                        },
+                        {
+                            "number": 108,
+                            "gamePlayed": false
                         }
                     ]
                 },
@@ -18877,6 +18981,10 @@
                             "gamePlayed": true
                         },
                         {
+                            "number": 5,
+                            "gamePlayed": true
+                        },
+                        {
                             "number": 7,
                             "gamePlayed": true
                         },
@@ -18961,6 +19069,1838 @@
                         },
                         {
                             "number": 666,
+                            "gamePlayed": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "weekNumber": 19,
+            "category": "FEMENIL",
+            "stage": "REGULAR",
+            "gameDate": "2026-07-07T00:00:00.000+00:00",
+            "gamePlace": "ARRIBA",
+            "byDefault": false,
+            "teamStats": [
+                {
+                    "teamName": "TIX",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 2,
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 3,
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 1,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 4,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 7,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 11,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 13,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 16,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 17,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 27,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 30,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 104,
+                            "gamePlayed": false
+                        }
+                    ]
+                },
+                {
+                    "teamName": "VAQUILLAS",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "points": 9
+                        },
+                        {
+                            "setNumber": 2,
+                            "points": 17
+                        },
+                        {
+                            "setNumber": 3,
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 4,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 5,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 6,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 8,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 9,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 11,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 12,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 13,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 20,
+                            "gamePlayed": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "weekNumber": 19,
+            "category": "MIXTO",
+            "stage": "REGULAR",
+            "gameDate": "2026-07-07T00:00:00.000+00:00",
+            "gamePlace": "ABAJO",
+            "byDefault": false,
+            "teamStats": [
+                {
+                    "teamName": "CDR",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 2,
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 3,
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 1,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 2,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 3,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 7,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 12,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 13,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 16,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 18,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 19,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 21,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 22,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 44,
+                            "gamePlayed": false
+                        }
+                    ]
+                },
+                {
+                    "teamName": "TIBURONES",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "points": 9
+                        },
+                        {
+                            "setNumber": 2,
+                            "points": 21
+                        },
+                        {
+                            "setNumber": 3,
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 7,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 9,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 13,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 14,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 16,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 23,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 28,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 50,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 55,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 77,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 100,
+                            "gamePlayed": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "weekNumber": 19,
+            "category": "FEMENIL",
+            "stage": "REGULAR",
+            "gameDate": "2026-07-07T01:00:00.000+00:00",
+            "gamePlace": "ARRIBA",
+            "byDefault": false,
+            "teamStats": [
+                {
+                    "teamName": "PANTERAS",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 2,
+                            "points": 27
+                        },
+                        {
+                            "setNumber": 3,
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 2,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 3,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 7,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 8,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 13,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 22,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 23,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 27,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 28,
+                            "gamePlayed": false
+                        }
+                    ]
+                },
+                {
+                    "teamName": "VALKIRIAS",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "points": 23
+                        },
+                        {
+                            "setNumber": 2,
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 3,
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 1,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 7,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 10,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 14,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 16,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 18,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 21,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 23,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 25,
+                            "gamePlayed": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "weekNumber": 19,
+            "category": "FEMENIL",
+            "stage": "REGULAR",
+            "gameDate": "2026-07-07T02:00:00.000+00:00",
+            "gamePlace": "ARRIBA",
+            "byDefault": false,
+            "teamStats": [
+                {
+                    "teamName": "TIX",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "points": 21
+                        },
+                        {
+                            "setNumber": 2,
+                            "points": 17
+                        },
+                        {
+                            "setNumber": 3,
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 1,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 4,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 7,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 11,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 13,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 16,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 17,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 27,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 30,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 104,
+                            "gamePlayed": false
+                        }
+                    ]
+                },
+                {
+                    "teamName": "VALKIRIAS",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 2,
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 3,
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 1,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 7,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 10,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 14,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 16,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 18,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 21,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 23,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 25,
+                            "gamePlayed": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "weekNumber": 19,
+            "category": "FEMENIL",
+            "stage": "REGULAR",
+            "gameDate": "2026-07-08T01:00:00.000+00:00",
+            "gamePlace": "ARRIBA",
+            "byDefault": false,
+            "teamStats": [
+                {
+                    "teamName": "TIX",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "points": 21
+                        },
+                        {
+                            "setNumber": 2,
+                            "points": 16
+                        },
+                        {
+                            "setNumber": 3,
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 1,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 4,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 7,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 11,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 13,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 16,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 17,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 27,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 30,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 104,
+                            "gamePlayed": false
+                        }
+                    ]
+                },
+                {
+                    "teamName": "VIKINGAS",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 2,
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 3,
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 2,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 4,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 9,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 11,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 13,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 17,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 20,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 21,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 27,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 30,
+                            "gamePlayed": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "weekNumber": 19,
+            "category": "MIXTO",
+            "stage": "REGULAR",
+            "gameDate": "2026-07-08T01:00:00.000+00:00",
+            "gamePlace": "ARRIBA",
+            "byDefault": false,
+            "teamStats": [
+                {
+                    "teamName": "CHIQUE MIX",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 2,
+                            "points": 25
+                        },
+                        {
+                            "setNumber": 3,
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 1,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 2,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 5,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 6,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 7,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 8,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 10,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 13,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 15,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 17,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 23,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 30,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 56,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 102,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 108,
+                            "gamePlayed": false
+                        }
+                    ]
+                },
+                {
+                    "teamName": "CAZADORES",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "points": 18
+                        },
+                        {
+                            "setNumber": 2,
+                            "points": 14
+                        },
+                        {
+                            "setNumber": 3,
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 2,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 3,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 5,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 7,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 11,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 16,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 18,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 20,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 77,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 99,
+                            "gamePlayed": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "weekNumber": 2,
+            "category": "VARONIL",
+            "stage": "SEMI",
+            "gameDate": "2026-07-08T21:45:30.000+00:00",
+            "gamePlace": "ARRIBA",
+            "byDefault": false,
+            "teamStats": [
+                {
+                    "teamName": "NEGOS",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 2,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 3,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 4,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 5,
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 4,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 7,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 11,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 14,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 15,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 16,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 18,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 25,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 28,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 118,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 128,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 999,
+                            "gamePlayed": false
+                        }
+                    ]
+                },
+                {
+                    "teamName": "NEGOS",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 2,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 3,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 4,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 5,
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 4,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 7,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 11,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 14,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 15,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 16,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 18,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 25,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 28,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 118,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 128,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 999,
+                            "gamePlayed": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "weekNumber": 1,
+            "category": "FEMENIL",
+            "stage": "SEMI",
+            "gameDate": "2026-07-08T21:45:30.000+00:00",
+            "gamePlace": "ARRIBA",
+            "byDefault": false,
+            "teamStats": [
+                {
+                    "teamName": "VALKIRIAS",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 2,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 3,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 4,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 5,
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 1,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 7,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 10,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 14,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 16,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 18,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 21,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 23,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 25,
+                            "gamePlayed": false
+                        }
+                    ]
+                },
+                {
+                    "teamName": "VALKIRIAS",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 2,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 3,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 4,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 5,
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 1,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 7,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 10,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 14,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 16,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 18,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 21,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 23,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 25,
+                            "gamePlayed": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "weekNumber": 2,
+            "category": "FEMENIL",
+            "stage": "SEMI",
+            "gameDate": "2026-07-08T21:45:30.000+00:00",
+            "gamePlace": "ARRIBA",
+            "byDefault": false,
+            "teamStats": [
+                {
+                    "teamName": "PANTERAS",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 2,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 3,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 4,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 5,
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 2,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 3,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 7,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 8,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 13,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 22,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 23,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 27,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 28,
+                            "gamePlayed": false
+                        }
+                    ]
+                },
+                {
+                    "teamName": "PANTERAS",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 2,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 3,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 4,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 5,
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 2,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 3,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 7,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 8,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 13,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 22,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 23,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 27,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 28,
+                            "gamePlayed": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "weekNumber": 1,
+            "category": "VARONIL",
+            "stage": "SEMI",
+            "gameDate": "2026-07-08T21:45:30.000+00:00",
+            "gamePlace": "ARRIBA",
+            "byDefault": false,
+            "teamStats": [
+                {
+                    "teamName": "CHIQUE",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 2,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 3,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 4,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 5,
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 2,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 5,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 7,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 8,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 9,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 11,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 13,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 17,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 26,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 27,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 30,
+                            "gamePlayed": false
+                        }
+                    ]
+                },
+                {
+                    "teamName": "CHIQUE",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 2,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 3,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 4,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 5,
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 2,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 5,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 7,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 8,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 9,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 11,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 13,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 17,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 26,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 27,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 30,
+                            "gamePlayed": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "weekNumber": 4,
+            "category": "FEMENIL",
+            "stage": "QUARTER",
+            "gameDate": "2026-07-08T21:45:37.000+00:00",
+            "gamePlace": "ARRIBA",
+            "byDefault": false,
+            "teamStats": [
+                {
+                    "teamName": "VIKINGAS",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 2,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 3,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 4,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 5,
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 2,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 4,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 9,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 11,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 13,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 17,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 20,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 21,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 27,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 30,
+                            "gamePlayed": false
+                        }
+                    ]
+                },
+                {
+                    "teamName": "VAQUILLAS",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 2,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 3,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 4,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 5,
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 4,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 5,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 6,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 8,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 9,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 11,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 12,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 13,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 20,
+                            "gamePlayed": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "weekNumber": 3,
+            "category": "VARONIL",
+            "stage": "QUARTER",
+            "gameDate": "2026-07-08T21:45:37.000+00:00",
+            "gamePlace": "ARRIBA",
+            "byDefault": false,
+            "teamStats": [
+                {
+                    "teamName": "HUISCOLCO",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 2,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 3,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 4,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 5,
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 3,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 5,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 6,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 7,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 8,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 9,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 10,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 13,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 17,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 22,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 23,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 24,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 78,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 100,
+                            "gamePlayed": false
+                        }
+                    ]
+                },
+                {
+                    "teamName": "CUERVOS",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 2,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 3,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 4,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 5,
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 1,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 2,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 4,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 10,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 11,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 13,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 14,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 15,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 19,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 23,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 37,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 555,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 666,
+                            "gamePlayed": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "weekNumber": 3,
+            "category": "FEMENIL",
+            "stage": "QUARTER",
+            "gameDate": "2026-07-08T21:45:37.000+00:00",
+            "gamePlace": "ARRIBA",
+            "byDefault": false,
+            "teamStats": [
+                {
+                    "teamName": "TIX",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 2,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 3,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 4,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 5,
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 1,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 4,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 7,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 11,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 13,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 16,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 17,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 27,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 30,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 104,
+                            "gamePlayed": false
+                        }
+                    ]
+                },
+                {
+                    "teamName": "AGUILAS",
+                    "setStats": [
+                        {
+                            "setNumber": 1,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 2,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 3,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 4,
+                            "points": 0
+                        },
+                        {
+                            "setNumber": 5,
+                            "points": 0
+                        }
+                    ],
+                    "players": [
+                        {
+                            "number": 2,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 3,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 4,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 7,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 10,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 11,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 12,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 15,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 19,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 22,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 24,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 27,
                             "gamePlayed": false
                         }
                     ]
@@ -19263,11 +21203,11 @@
             "initials": "CAZADOR",
             "isActive": true,
             "gamesWon": 4,
-            "gamesLost": 11,
+            "gamesLost": 12,
             "setsWon": 13,
-            "setsLost": 23,
-            "pointsWon": 715,
-            "pointsLost": 743,
+            "setsLost": 25,
+            "pointsWon": 747,
+            "pointsLost": 793,
             "teamPlayers": [
                 {
                     "name": "Martina",
@@ -19389,12 +21329,12 @@
             "name": "CDR",
             "initials": "CDR",
             "isActive": true,
-            "gamesWon": 7,
+            "gamesWon": 8,
             "gamesLost": 8,
-            "setsWon": 17,
+            "setsWon": 19,
             "setsLost": 17,
-            "pointsWon": 693,
-            "pointsLost": 685,
+            "pointsWon": 743,
+            "pointsLost": 715,
             "teamPlayers": [
                 {
                     "name": "Cynthia",
@@ -19676,12 +21616,12 @@
             "name": "CHIQUE MIX",
             "initials": "CHIQUE",
             "isActive": true,
-            "gamesWon": 15,
+            "gamesWon": 16,
             "gamesLost": 0,
-            "setsWon": 30,
+            "setsWon": 32,
             "setsLost": 3,
-            "pointsWon": 779,
-            "pointsLost": 551,
+            "pointsWon": 829,
+            "pointsLost": 583,
             "teamPlayers": [
                 {
                     "name": "DIEGO",
@@ -19831,6 +21771,17 @@
                     "lastName": "Marquez Garcia",
                     "sex": "MALE",
                     "number": 102,
+                    "gamesPlayed": 2,
+                    "gamesTotal": 16,
+                    "gamesPercentage": 13,
+                    "isActive": true,
+                    "gamePlayed": null
+                },
+                {
+                    "name": "Erick",
+                    "lastName": "Saldaña",
+                    "sex": "MALE",
+                    "number": 108,
                     "gamesPlayed": 2,
                     "gamesTotal": 16,
                     "gamesPercentage": 13,
@@ -20129,9 +22080,9 @@
                     "lastName": "Velasco Valdez",
                     "sex": "FEMALE",
                     "number": 105,
-                    "gamesPlayed": 2,
+                    "gamesPlayed": 4,
                     "gamesTotal": 16,
-                    "gamesPercentage": 13,
+                    "gamesPercentage": 25,
                     "isActive": true,
                     "gamePlayed": null
                 }
@@ -20455,9 +22406,9 @@
                     "lastName": "Saldaña",
                     "sex": "MALE",
                     "number": 7,
-                    "gamesPlayed": 5,
+                    "gamesPlayed": 9,
                     "gamesTotal": 16,
-                    "gamesPercentage": 31,
+                    "gamesPercentage": 56,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -20703,9 +22654,9 @@
                     "lastName": "RODRIGUEZ",
                     "sex": "MALE",
                     "number": 128,
-                    "gamesPlayed": 9,
+                    "gamesPlayed": 10,
                     "gamesTotal": 12,
-                    "gamesPercentage": 75,
+                    "gamesPercentage": 83,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -20730,12 +22681,12 @@
             "name": "PANTERAS",
             "initials": "PANTERAS",
             "isActive": true,
-            "gamesWon": 11,
+            "gamesWon": 12,
             "gamesLost": 3,
-            "setsWon": 24,
+            "setsWon": 26,
             "setsLost": 10,
-            "pointsWon": 730,
-            "pointsLost": 596,
+            "pointsWon": 782,
+            "pointsLost": 644,
             "teamPlayers": [
                 {
                     "name": "Martha Juanita",
@@ -20797,9 +22748,9 @@
                     "lastName": "Macias Nieves",
                     "sex": "FEMALE",
                     "number": 22,
-                    "gamesPlayed": 4,
+                    "gamesPlayed": 6,
                     "gamesTotal": 15,
-                    "gamesPercentage": 27,
+                    "gamesPercentage": 40,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -20858,9 +22809,9 @@
                     "lastName": "Gonzalez V",
                     "sex": "MALE",
                     "number": 1,
-                    "gamesPlayed": 6,
+                    "gamesPlayed": 8,
                     "gamesTotal": 16,
-                    "gamesPercentage": 38,
+                    "gamesPercentage": 50,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -20880,9 +22831,9 @@
                     "lastName": "Duran",
                     "sex": "MALE",
                     "number": 5,
-                    "gamesPlayed": 3,
+                    "gamesPlayed": 8,
                     "gamesTotal": 16,
-                    "gamesPercentage": 19,
+                    "gamesPercentage": 50,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -20902,9 +22853,9 @@
                     "lastName": "Figueroa Joaquin",
                     "sex": "FEMALE",
                     "number": 8,
-                    "gamesPlayed": 9,
+                    "gamesPlayed": 10,
                     "gamesTotal": 16,
-                    "gamesPercentage": 56,
+                    "gamesPercentage": 63,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -20935,9 +22886,9 @@
                     "lastName": "Romero",
                     "sex": "FEMALE",
                     "number": 27,
-                    "gamesPlayed": 0,
-                    "gamesTotal": 0,
-                    "gamesPercentage": 0,
+                    "gamesPlayed": 4,
+                    "gamesTotal": 16,
+                    "gamesPercentage": 25,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -20946,9 +22897,9 @@
                     "lastName": "Calvillo",
                     "sex": "MALE",
                     "number": 74,
-                    "gamesPlayed": 5,
+                    "gamesPlayed": 11,
                     "gamesTotal": 16,
-                    "gamesPercentage": 31,
+                    "gamesPercentage": 69,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -20957,9 +22908,9 @@
                     "lastName": "Rodriguez",
                     "sex": "MALE",
                     "number": 103,
-                    "gamesPlayed": 3,
+                    "gamesPlayed": 5,
                     "gamesTotal": 16,
-                    "gamesPercentage": 19,
+                    "gamesPercentage": 31,
                     "isActive": true,
                     "gamePlayed": null
                 }
@@ -20974,11 +22925,11 @@
             "initials": "TIBURON",
             "isActive": true,
             "gamesWon": 0,
-            "gamesLost": 15,
+            "gamesLost": 16,
             "setsWon": 1,
-            "setsLost": 30,
-            "pointsWon": 485,
-            "pointsLost": 778,
+            "setsLost": 32,
+            "pointsWon": 515,
+            "pointsLost": 828,
             "teamPlayers": [
                 {
                     "name": "Oscar Alejandro",
@@ -21107,16 +23058,16 @@
         },
         {
             "category": "FEMENIL",
-            "position": 3,
+            "position": 4,
             "name": "TIX",
             "initials": "TIX",
             "isActive": true,
-            "gamesWon": 7,
-            "gamesLost": 5,
-            "setsWon": 15,
-            "setsLost": 14,
-            "pointsWon": 558,
-            "pointsLost": 568,
+            "gamesWon": 8,
+            "gamesLost": 7,
+            "setsWon": 17,
+            "setsLost": 18,
+            "pointsWon": 683,
+            "pointsLost": 694,
             "teamPlayers": [
                 {
                     "name": "Patricia",
@@ -21279,6 +23230,17 @@
                     "gamePlayed": null
                 },
                 {
+                    "name": "Diego Andres",
+                    "lastName": "Lozano Cabrera",
+                    "sex": "MALE",
+                    "number": 5,
+                    "gamesPlayed": 2,
+                    "gamesTotal": 12,
+                    "gamesPercentage": 17,
+                    "isActive": true,
+                    "gamePlayed": null
+                },
+                {
                     "name": "Oscar Raudel",
                     "lastName": "Leandro Orozco",
                     "sex": "MALE",
@@ -21332,21 +23294,21 @@
             "name": "VALKIRIAS",
             "initials": "VALKIRIA",
             "isActive": true,
-            "gamesWon": 13,
-            "gamesLost": 0,
-            "setsWon": 26,
-            "setsLost": 5,
-            "pointsWon": 686,
-            "pointsLost": 529,
+            "gamesWon": 14,
+            "gamesLost": 1,
+            "setsWon": 28,
+            "setsLost": 7,
+            "pointsWon": 784,
+            "pointsLost": 619,
             "teamPlayers": [
                 {
                     "name": "Naileah",
                     "lastName": "Padilla",
                     "sex": "FEMALE",
                     "number": 1,
-                    "gamesPlayed": 7,
+                    "gamesPlayed": 8,
                     "gamesTotal": 15,
-                    "gamesPercentage": 47,
+                    "gamesPercentage": 53,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -21366,9 +23328,9 @@
                     "lastName": "Robles Davalos",
                     "sex": "FEMALE",
                     "number": 10,
-                    "gamesPlayed": 10,
+                    "gamesPlayed": 11,
                     "gamesTotal": 15,
-                    "gamesPercentage": 67,
+                    "gamesPercentage": 73,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -21377,9 +23339,9 @@
                     "lastName": "Estrada Avila",
                     "sex": "FEMALE",
                     "number": 14,
-                    "gamesPlayed": 7,
+                    "gamesPlayed": 11,
                     "gamesTotal": 15,
-                    "gamesPercentage": 47,
+                    "gamesPercentage": 73,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -21449,11 +23411,11 @@
             "initials": "VAQUILLA",
             "isActive": true,
             "gamesWon": 1,
-            "gamesLost": 13,
+            "gamesLost": 14,
             "setsWon": 4,
-            "setsLost": 26,
-            "pointsWon": 404,
-            "pointsLost": 630,
+            "setsLost": 28,
+            "pointsWon": 430,
+            "pointsLost": 680,
             "teamPlayers": [
                 {
                     "name": "Ivanna",
@@ -21560,16 +23522,16 @@
         },
         {
             "category": "FEMENIL",
-            "position": 4,
+            "position": 3,
             "name": "VIKINGAS",
             "initials": "VIKINGAS",
             "isActive": true,
-            "gamesWon": 7,
+            "gamesWon": 8,
             "gamesLost": 7,
-            "setsWon": 19,
+            "setsWon": 21,
             "setsLost": 14,
-            "pointsWon": 693,
-            "pointsLost": 606,
+            "pointsWon": 743,
+            "pointsLost": 643,
             "teamPlayers": [
                 {
                     "name": "Ruby del Socorro",
@@ -21916,9 +23878,9 @@
                         "lost": 1
                     },
                     "CHIQUE MIX": {
-                        "played": 1,
+                        "played": 2,
                         "win": 0,
-                        "lost": 1
+                        "lost": 2
                     },
                     "ELITE": {
                         "played": 2,
@@ -21992,8 +23954,8 @@
                         "lost": 0
                     },
                     "TIBURONES": {
-                        "played": 1,
-                        "win": 1,
+                        "played": 2,
+                        "win": 2,
                         "lost": 0
                     }
                 }
@@ -22008,8 +23970,8 @@
                         "lost": 0
                     },
                     "CAZADORES": {
-                        "played": 1,
-                        "win": 1,
+                        "played": 2,
+                        "win": 2,
                         "lost": 0
                     },
                     "CDR": {
@@ -22268,9 +24230,9 @@
                         "lost": 2
                     },
                     "CDR": {
-                        "played": 1,
+                        "played": 2,
                         "win": 0,
-                        "lost": 1
+                        "lost": 2
                     },
                     "CHIQUE MIX": {
                         "played": 2,
@@ -22362,8 +24324,8 @@
                         "lost": 0
                     },
                     "VALKIRIAS": {
-                        "played": 2,
-                        "win": 0,
+                        "played": 3,
+                        "win": 1,
                         "lost": 2
                     },
                     "VAQUILLAS": {
@@ -22398,19 +24360,19 @@
                         "lost": 0
                     },
                     "VALKIRIAS": {
-                        "played": 2,
+                        "played": 3,
                         "win": 0,
-                        "lost": 2
+                        "lost": 3
                     },
                     "VAQUILLAS": {
-                        "played": 2,
-                        "win": 2,
+                        "played": 3,
+                        "win": 3,
                         "lost": 0
                     },
                     "VIKINGAS": {
-                        "played": 2,
+                        "played": 3,
                         "win": 2,
-                        "lost": 0
+                        "lost": 1
                     }
                 }
             },
@@ -22424,13 +24386,13 @@
                         "lost": 0
                     },
                     "PANTERAS": {
-                        "played": 2,
+                        "played": 3,
                         "win": 2,
-                        "lost": 0
+                        "lost": 1
                     },
                     "TIX": {
-                        "played": 2,
-                        "win": 2,
+                        "played": 3,
+                        "win": 3,
                         "lost": 0
                     },
                     "VALKIRIAS": {
@@ -22465,9 +24427,9 @@
                         "lost": 3
                     },
                     "TIX": {
-                        "played": 2,
+                        "played": 3,
                         "win": 0,
-                        "lost": 2
+                        "lost": 3
                     },
                     "VALKIRIAS": {
                         "played": 3,
@@ -22501,8 +24463,8 @@
                         "lost": 2
                     },
                     "TIX": {
-                        "played": 2,
-                        "win": 0,
+                        "played": 3,
+                        "win": 1,
                         "lost": 2
                     },
                     "VALKIRIAS": {
