@@ -1011,6 +1011,10 @@
                         {
                             "number": 103,
                             "gamePlayed": false
+                        },
+                        {
+                            "number": 107,
+                            "gamePlayed": false
                         }
                     ]
                 },
@@ -1485,6 +1489,10 @@
                         },
                         {
                             "number": 103,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 107,
                             "gamePlayed": false
                         }
                     ]
@@ -2722,6 +2730,10 @@
                         {
                             "number": 103,
                             "gamePlayed": false
+                        },
+                        {
+                            "number": 107,
+                            "gamePlayed": false
                         }
                     ]
                 }
@@ -3782,6 +3794,10 @@
                         {
                             "number": 103,
                             "gamePlayed": false
+                        },
+                        {
+                            "number": 107,
+                            "gamePlayed": false
                         }
                     ]
                 }
@@ -4053,6 +4069,10 @@
                         },
                         {
                             "number": 103,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 107,
                             "gamePlayed": false
                         }
                     ]
@@ -4778,6 +4798,10 @@
                         },
                         {
                             "number": 103,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 107,
                             "gamePlayed": false
                         }
                     ]
@@ -6249,6 +6273,10 @@
                         },
                         {
                             "number": 103,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 107,
                             "gamePlayed": false
                         }
                     ]
@@ -8631,6 +8659,10 @@
                         {
                             "number": 103,
                             "gamePlayed": true
+                        },
+                        {
+                            "number": 107,
+                            "gamePlayed": false
                         }
                     ]
                 },
@@ -8767,6 +8799,10 @@
                         {
                             "number": 103,
                             "gamePlayed": true
+                        },
+                        {
+                            "number": 107,
+                            "gamePlayed": false
                         }
                     ]
                 },
@@ -10135,6 +10171,10 @@
                         {
                             "number": 103,
                             "gamePlayed": true
+                        },
+                        {
+                            "number": 107,
+                            "gamePlayed": false
                         }
                     ]
                 },
@@ -10266,6 +10306,10 @@
                         },
                         {
                             "number": 103,
+                            "gamePlayed": false
+                        },
+                        {
+                            "number": 107,
                             "gamePlayed": false
                         }
                     ]
@@ -11390,6 +11434,10 @@
                         {
                             "number": 103,
                             "gamePlayed": true
+                        },
+                        {
+                            "number": 107,
+                            "gamePlayed": false
                         }
                     ]
                 }
@@ -11798,6 +11846,10 @@
                         {
                             "number": 103,
                             "gamePlayed": true
+                        },
+                        {
+                            "number": 107,
+                            "gamePlayed": false
                         }
                     ]
                 }
@@ -13719,6 +13771,10 @@
                         {
                             "number": 103,
                             "gamePlayed": false
+                        },
+                        {
+                            "number": 107,
+                            "gamePlayed": false
                         }
                     ]
                 },
@@ -14482,6 +14538,10 @@
                         {
                             "number": 103,
                             "gamePlayed": false
+                        },
+                        {
+                            "number": 107,
+                            "gamePlayed": true
                         }
                     ]
                 }
@@ -16838,6 +16898,10 @@
                         {
                             "number": 103,
                             "gamePlayed": false
+                        },
+                        {
+                            "number": 107,
+                            "gamePlayed": false
                         }
                     ]
                 }
@@ -19106,11 +19170,11 @@
                         },
                         {
                             "number": 4,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 7,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 11,
@@ -19118,11 +19182,11 @@
                         },
                         {
                             "number": 13,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 16,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 17,
@@ -19130,7 +19194,7 @@
                         },
                         {
                             "number": 27,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 30,
@@ -19138,7 +19202,7 @@
                         },
                         {
                             "number": 104,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         }
                     ]
                 },
@@ -19161,7 +19225,7 @@
                     "players": [
                         {
                             "number": 4,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 5,
@@ -19169,19 +19233,19 @@
                         },
                         {
                             "number": 6,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 8,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 9,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 11,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 12,
@@ -19189,11 +19253,11 @@
                         },
                         {
                             "number": 13,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 20,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         }
                     ]
                 }
@@ -19226,31 +19290,31 @@
                     "players": [
                         {
                             "number": 1,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 2,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 3,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 7,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 12,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 13,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 16,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 18,
@@ -19262,7 +19326,7 @@
                         },
                         {
                             "number": 21,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 22,
@@ -19297,43 +19361,43 @@
                         },
                         {
                             "number": 9,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 13,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 14,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 16,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 23,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 28,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 50,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 55,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 77,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 100,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         }
                     ]
                 }
@@ -19366,23 +19430,23 @@
                     "players": [
                         {
                             "number": 2,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 3,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 7,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 8,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 13,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 22,
@@ -19394,7 +19458,7 @@
                         },
                         {
                             "number": 27,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 28,
@@ -19425,15 +19489,15 @@
                         },
                         {
                             "number": 7,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 10,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 14,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 16,
@@ -19441,11 +19505,11 @@
                         },
                         {
                             "number": 18,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 21,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 23,
@@ -19453,7 +19517,7 @@
                         },
                         {
                             "number": 25,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         }
                     ]
                 }
@@ -19486,35 +19550,35 @@
                     "players": [
                         {
                             "number": 1,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 4,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 7,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 11,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 13,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 16,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 17,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 27,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 30,
@@ -19522,7 +19586,7 @@
                         },
                         {
                             "number": 104,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         }
                     ]
                 },
@@ -19545,19 +19609,19 @@
                     "players": [
                         {
                             "number": 1,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 7,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 10,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 14,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 16,
@@ -19565,11 +19629,11 @@
                         },
                         {
                             "number": 18,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 21,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 23,
@@ -19577,7 +19641,7 @@
                         },
                         {
                             "number": 25,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         }
                     ]
                 }
@@ -19610,7 +19674,7 @@
                     "players": [
                         {
                             "number": 1,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 4,
@@ -19618,19 +19682,19 @@
                         },
                         {
                             "number": 7,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 11,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 13,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 16,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 17,
@@ -19638,7 +19702,7 @@
                         },
                         {
                             "number": 27,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 30,
@@ -19646,7 +19710,7 @@
                         },
                         {
                             "number": 104,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         }
                     ]
                 },
@@ -19673,15 +19737,15 @@
                         },
                         {
                             "number": 4,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 9,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 11,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 13,
@@ -19689,7 +19753,7 @@
                         },
                         {
                             "number": 17,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 20,
@@ -19705,7 +19769,7 @@
                         },
                         {
                             "number": 30,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         }
                     ]
                 }
@@ -19742,15 +19806,15 @@
                         },
                         {
                             "number": 2,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 5,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 6,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 7,
@@ -19762,7 +19826,7 @@
                         },
                         {
                             "number": 10,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 13,
@@ -19770,15 +19834,15 @@
                         },
                         {
                             "number": 15,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 17,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 23,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 30,
@@ -19821,19 +19885,19 @@
                         },
                         {
                             "number": 3,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 5,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 7,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 11,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 16,
@@ -19841,7 +19905,7 @@
                         },
                         {
                             "number": 18,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 20,
@@ -19849,11 +19913,11 @@
                         },
                         {
                             "number": 77,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         },
                         {
                             "number": 99,
-                            "gamePlayed": false
+                            "gamePlayed": true
                         }
                     ]
                 }
@@ -21225,9 +21289,9 @@
                     "lastName": "Joaquin Muñoz",
                     "sex": "FEMALE",
                     "number": 3,
-                    "gamesPlayed": 9,
+                    "gamesPlayed": 10,
                     "gamesTotal": 16,
-                    "gamesPercentage": 56,
+                    "gamesPercentage": 63,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -21236,9 +21300,9 @@
                     "lastName": "Padilla Ortiz",
                     "sex": "MALE",
                     "number": 5,
-                    "gamesPlayed": 14,
+                    "gamesPlayed": 15,
                     "gamesTotal": 16,
-                    "gamesPercentage": 88,
+                    "gamesPercentage": 94,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -21247,9 +21311,9 @@
                     "lastName": "Bernal Rubira",
                     "sex": "FEMALE",
                     "number": 7,
-                    "gamesPlayed": 15,
+                    "gamesPlayed": 16,
                     "gamesTotal": 16,
-                    "gamesPercentage": 94,
+                    "gamesPercentage": 100,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -21258,9 +21322,9 @@
                     "lastName": "Placencia Castellanos",
                     "sex": "MALE",
                     "number": 11,
-                    "gamesPlayed": 15,
+                    "gamesPlayed": 16,
                     "gamesTotal": 16,
-                    "gamesPercentage": 94,
+                    "gamesPercentage": 100,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -21280,9 +21344,9 @@
                     "lastName": "Macias Nieves",
                     "sex": "FEMALE",
                     "number": 18,
-                    "gamesPlayed": 14,
+                    "gamesPlayed": 15,
                     "gamesTotal": 16,
-                    "gamesPercentage": 88,
+                    "gamesPercentage": 94,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -21302,9 +21366,9 @@
                     "lastName": "Ortiz Solis",
                     "sex": "MALE",
                     "number": 77,
-                    "gamesPlayed": 14,
+                    "gamesPlayed": 15,
                     "gamesTotal": 16,
-                    "gamesPercentage": 88,
+                    "gamesPercentage": 94,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -21313,9 +21377,9 @@
                     "lastName": "Robles Leaños",
                     "sex": "MALE",
                     "number": 99,
-                    "gamesPlayed": 12,
+                    "gamesPlayed": 13,
                     "gamesTotal": 16,
-                    "gamesPercentage": 75,
+                    "gamesPercentage": 81,
                     "isActive": true,
                     "gamePlayed": null
                 }
@@ -21341,9 +21405,9 @@
                     "lastName": "Velasco Ruvalcaba",
                     "sex": "FEMALE",
                     "number": 1,
-                    "gamesPlayed": 9,
+                    "gamesPlayed": 10,
                     "gamesTotal": 16,
-                    "gamesPercentage": 56,
+                    "gamesPercentage": 63,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -21352,9 +21416,9 @@
                     "lastName": "Leandro Ledezma",
                     "sex": "FEMALE",
                     "number": 2,
-                    "gamesPlayed": 15,
+                    "gamesPlayed": 16,
                     "gamesTotal": 16,
-                    "gamesPercentage": 94,
+                    "gamesPercentage": 100,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -21363,9 +21427,9 @@
                     "lastName": "Leandro Rocha",
                     "sex": "MALE",
                     "number": 3,
-                    "gamesPlayed": 14,
+                    "gamesPlayed": 15,
                     "gamesTotal": 16,
-                    "gamesPercentage": 88,
+                    "gamesPercentage": 94,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -21374,9 +21438,9 @@
                     "lastName": "Hernandez Leandro",
                     "sex": "MALE",
                     "number": 7,
-                    "gamesPlayed": 14,
+                    "gamesPlayed": 15,
                     "gamesTotal": 16,
-                    "gamesPercentage": 88,
+                    "gamesPercentage": 94,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -21385,9 +21449,9 @@
                     "lastName": "Leandro Rocha",
                     "sex": "MALE",
                     "number": 12,
-                    "gamesPlayed": 12,
+                    "gamesPlayed": 13,
                     "gamesTotal": 16,
-                    "gamesPercentage": 75,
+                    "gamesPercentage": 81,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -21396,9 +21460,9 @@
                     "lastName": "Ramirez Ruvalcaba",
                     "sex": "FEMALE",
                     "number": 13,
-                    "gamesPlayed": 14,
+                    "gamesPlayed": 15,
                     "gamesTotal": 16,
-                    "gamesPercentage": 88,
+                    "gamesPercentage": 94,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -21407,9 +21471,9 @@
                     "lastName": "Velasco Ruvalcaba",
                     "sex": "FEMALE",
                     "number": 16,
-                    "gamesPlayed": 13,
+                    "gamesPlayed": 14,
                     "gamesTotal": 16,
-                    "gamesPercentage": 81,
+                    "gamesPercentage": 88,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -21440,9 +21504,9 @@
                     "lastName": "Velasco Ruvalcaba",
                     "sex": "FEMALE",
                     "number": 21,
-                    "gamesPlayed": 15,
+                    "gamesPlayed": 16,
                     "gamesTotal": 16,
-                    "gamesPercentage": 94,
+                    "gamesPercentage": 100,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -21639,9 +21703,9 @@
                     "lastName": "Ledesma Cerros",
                     "sex": "MALE",
                     "number": 2,
-                    "gamesPlayed": 7,
+                    "gamesPlayed": 8,
                     "gamesTotal": 16,
-                    "gamesPercentage": 44,
+                    "gamesPercentage": 50,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -21650,9 +21714,9 @@
                     "lastName": "Cerros",
                     "sex": "FEMALE",
                     "number": 5,
-                    "gamesPlayed": 8,
+                    "gamesPlayed": 9,
                     "gamesTotal": 16,
-                    "gamesPercentage": 50,
+                    "gamesPercentage": 56,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -21661,9 +21725,9 @@
                     "lastName": "Sandoval Cerros",
                     "sex": "MALE",
                     "number": 6,
-                    "gamesPlayed": 7,
+                    "gamesPlayed": 8,
                     "gamesTotal": 16,
-                    "gamesPercentage": 44,
+                    "gamesPercentage": 50,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -21694,9 +21758,9 @@
                     "lastName": "Ledezma Almaraz",
                     "sex": "FEMALE",
                     "number": 10,
-                    "gamesPlayed": 15,
+                    "gamesPlayed": 16,
                     "gamesTotal": 16,
-                    "gamesPercentage": 94,
+                    "gamesPercentage": 100,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -21716,9 +21780,9 @@
                     "lastName": "Sandoval Cerros",
                     "sex": "FEMALE",
                     "number": 15,
-                    "gamesPlayed": 7,
+                    "gamesPlayed": 8,
                     "gamesTotal": 16,
-                    "gamesPercentage": 44,
+                    "gamesPercentage": 50,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -21727,9 +21791,9 @@
                     "lastName": "Rodriguez Rodriguez",
                     "sex": "FEMALE",
                     "number": 17,
-                    "gamesPlayed": 15,
+                    "gamesPlayed": 16,
                     "gamesTotal": 16,
-                    "gamesPercentage": 94,
+                    "gamesPercentage": 100,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -21738,9 +21802,9 @@
                     "lastName": "Martinez Valdez",
                     "sex": "MALE",
                     "number": 23,
-                    "gamesPlayed": 15,
+                    "gamesPlayed": 16,
                     "gamesTotal": 16,
-                    "gamesPercentage": 94,
+                    "gamesPercentage": 100,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -22693,9 +22757,9 @@
                     "lastName": "Duque Elizalde",
                     "sex": "FEMALE",
                     "number": 2,
-                    "gamesPlayed": 14,
+                    "gamesPlayed": 15,
                     "gamesTotal": 15,
-                    "gamesPercentage": 93,
+                    "gamesPercentage": 100,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -22704,9 +22768,9 @@
                     "lastName": "Joaquin Muñoz",
                     "sex": "FEMALE",
                     "number": 3,
-                    "gamesPlayed": 9,
+                    "gamesPlayed": 10,
                     "gamesTotal": 15,
-                    "gamesPercentage": 60,
+                    "gamesPercentage": 67,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -22715,9 +22779,9 @@
                     "lastName": "Leaños Garay",
                     "sex": "FEMALE",
                     "number": 7,
-                    "gamesPlayed": 10,
+                    "gamesPlayed": 11,
                     "gamesTotal": 15,
-                    "gamesPercentage": 67,
+                    "gamesPercentage": 73,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -22726,9 +22790,9 @@
                     "lastName": "Macias Nieves",
                     "sex": "FEMALE",
                     "number": 8,
-                    "gamesPlayed": 14,
+                    "gamesPlayed": 15,
                     "gamesTotal": 15,
-                    "gamesPercentage": 93,
+                    "gamesPercentage": 100,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -22737,9 +22801,9 @@
                     "lastName": "Ramirez Ruvalcaba",
                     "sex": "FEMALE",
                     "number": 13,
-                    "gamesPlayed": 12,
+                    "gamesPlayed": 13,
                     "gamesTotal": 15,
-                    "gamesPercentage": 80,
+                    "gamesPercentage": 87,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -22770,9 +22834,9 @@
                     "lastName": "Figueroa Joaquin",
                     "sex": "FEMALE",
                     "number": 27,
-                    "gamesPlayed": 13,
+                    "gamesPlayed": 14,
                     "gamesTotal": 15,
-                    "gamesPercentage": 87,
+                    "gamesPercentage": 93,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -22913,6 +22977,17 @@
                     "gamesPercentage": 31,
                     "isActive": true,
                     "gamePlayed": null
+                },
+                {
+                    "name": "Jimena",
+                    "lastName": "Leandro Valadez",
+                    "sex": "FEMALE",
+                    "number": 107,
+                    "gamesPlayed": 1,
+                    "gamesTotal": 16,
+                    "gamesPercentage": 6,
+                    "isActive": true,
+                    "gamePlayed": null
                 }
             ],
             "teamHistory": null,
@@ -22947,9 +23022,9 @@
                     "lastName": "Vicencio Raygoza",
                     "sex": "MALE",
                     "number": 9,
-                    "gamesPlayed": 12,
+                    "gamesPlayed": 13,
                     "gamesTotal": 16,
-                    "gamesPercentage": 75,
+                    "gamesPercentage": 81,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -22958,9 +23033,9 @@
                     "lastName": "Camarillo",
                     "sex": "MALE",
                     "number": 13,
-                    "gamesPlayed": 3,
+                    "gamesPlayed": 4,
                     "gamesTotal": 16,
-                    "gamesPercentage": 19,
+                    "gamesPercentage": 25,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -22969,9 +23044,9 @@
                     "lastName": "Santa Cruz",
                     "sex": "MALE",
                     "number": 14,
-                    "gamesPlayed": 14,
+                    "gamesPlayed": 15,
                     "gamesTotal": 16,
-                    "gamesPercentage": 88,
+                    "gamesPercentage": 94,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -22980,9 +23055,9 @@
                     "lastName": "Camacho Rodriguez",
                     "sex": "MALE",
                     "number": 16,
-                    "gamesPlayed": 8,
+                    "gamesPlayed": 9,
                     "gamesTotal": 16,
-                    "gamesPercentage": 50,
+                    "gamesPercentage": 56,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -22991,9 +23066,9 @@
                     "lastName": "Frausto",
                     "sex": "FEMALE",
                     "number": 23,
-                    "gamesPlayed": 10,
+                    "gamesPlayed": 11,
                     "gamesTotal": 16,
-                    "gamesPercentage": 63,
+                    "gamesPercentage": 69,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -23002,9 +23077,9 @@
                     "lastName": "Velasco",
                     "sex": "FEMALE",
                     "number": 28,
-                    "gamesPlayed": 7,
+                    "gamesPlayed": 8,
                     "gamesTotal": 16,
-                    "gamesPercentage": 44,
+                    "gamesPercentage": 50,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -23013,9 +23088,9 @@
                     "lastName": "Vicencio",
                     "sex": "FEMALE",
                     "number": 50,
-                    "gamesPlayed": 15,
+                    "gamesPlayed": 16,
                     "gamesTotal": 16,
-                    "gamesPercentage": 94,
+                    "gamesPercentage": 100,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -23024,9 +23099,9 @@
                     "lastName": "Vicencio Moreno",
                     "sex": "MALE",
                     "number": 55,
-                    "gamesPlayed": 12,
+                    "gamesPlayed": 13,
                     "gamesTotal": 16,
-                    "gamesPercentage": 75,
+                    "gamesPercentage": 81,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -23035,9 +23110,9 @@
                     "lastName": "Frausto",
                     "sex": "MALE",
                     "number": 77,
-                    "gamesPlayed": 15,
+                    "gamesPlayed": 16,
                     "gamesTotal": 16,
-                    "gamesPercentage": 94,
+                    "gamesPercentage": 100,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -23046,9 +23121,9 @@
                     "lastName": "Vicencio",
                     "sex": "FEMALE",
                     "number": 100,
-                    "gamesPlayed": 15,
+                    "gamesPlayed": 16,
                     "gamesTotal": 16,
-                    "gamesPercentage": 94,
+                    "gamesPercentage": 100,
                     "isActive": true,
                     "gamePlayed": null
                 }
@@ -23074,9 +23149,9 @@
                     "lastName": "Roque Ramirez",
                     "sex": "FEMALE",
                     "number": 1,
-                    "gamesPlayed": 7,
+                    "gamesPlayed": 9,
                     "gamesTotal": 15,
-                    "gamesPercentage": 47,
+                    "gamesPercentage": 60,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -23085,9 +23160,9 @@
                     "lastName": "Marquez Solis",
                     "sex": "FEMALE",
                     "number": 4,
-                    "gamesPlayed": 10,
+                    "gamesPlayed": 12,
                     "gamesTotal": 15,
-                    "gamesPercentage": 67,
+                    "gamesPercentage": 80,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -23096,9 +23171,9 @@
                     "lastName": "Bernal Rubira",
                     "sex": "FEMALE",
                     "number": 7,
-                    "gamesPlayed": 12,
+                    "gamesPlayed": 15,
                     "gamesTotal": 15,
-                    "gamesPercentage": 80,
+                    "gamesPercentage": 100,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -23107,9 +23182,9 @@
                     "lastName": "Hernandez Ramos",
                     "sex": "FEMALE",
                     "number": 11,
-                    "gamesPlayed": 10,
+                    "gamesPlayed": 12,
                     "gamesTotal": 15,
-                    "gamesPercentage": 67,
+                    "gamesPercentage": 80,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -23118,9 +23193,9 @@
                     "lastName": "Orozco Rodriguez",
                     "sex": "FEMALE",
                     "number": 13,
-                    "gamesPlayed": 12,
+                    "gamesPlayed": 15,
                     "gamesTotal": 15,
-                    "gamesPercentage": 80,
+                    "gamesPercentage": 100,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -23129,9 +23204,9 @@
                     "lastName": "Garay",
                     "sex": "FEMALE",
                     "number": 16,
-                    "gamesPlayed": 8,
+                    "gamesPlayed": 11,
                     "gamesTotal": 15,
-                    "gamesPercentage": 53,
+                    "gamesPercentage": 73,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -23140,9 +23215,9 @@
                     "lastName": "Solis Avila",
                     "sex": "FEMALE",
                     "number": 17,
-                    "gamesPlayed": 10,
+                    "gamesPlayed": 11,
                     "gamesTotal": 15,
-                    "gamesPercentage": 67,
+                    "gamesPercentage": 73,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -23151,9 +23226,9 @@
                     "lastName": "Sanchez Avelar",
                     "sex": "FEMALE",
                     "number": 27,
-                    "gamesPlayed": 11,
+                    "gamesPlayed": 14,
                     "gamesTotal": 15,
-                    "gamesPercentage": 73,
+                    "gamesPercentage": 93,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -23173,9 +23248,9 @@
                     "lastName": "Orozco Rodriguez",
                     "sex": "FEMALE",
                     "number": 104,
-                    "gamesPlayed": 4,
+                    "gamesPlayed": 7,
                     "gamesTotal": 15,
-                    "gamesPercentage": 27,
+                    "gamesPercentage": 47,
                     "isActive": true,
                     "gamePlayed": null
                 }
@@ -23306,9 +23381,9 @@
                     "lastName": "Padilla",
                     "sex": "FEMALE",
                     "number": 1,
-                    "gamesPlayed": 8,
+                    "gamesPlayed": 9,
                     "gamesTotal": 15,
-                    "gamesPercentage": 53,
+                    "gamesPercentage": 60,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -23317,9 +23392,9 @@
                     "lastName": "Leandro Valadez",
                     "sex": "FEMALE",
                     "number": 7,
-                    "gamesPlayed": 13,
+                    "gamesPlayed": 15,
                     "gamesTotal": 15,
-                    "gamesPercentage": 87,
+                    "gamesPercentage": 100,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -23328,9 +23403,9 @@
                     "lastName": "Robles Davalos",
                     "sex": "FEMALE",
                     "number": 10,
-                    "gamesPlayed": 11,
+                    "gamesPlayed": 13,
                     "gamesTotal": 15,
-                    "gamesPercentage": 73,
+                    "gamesPercentage": 87,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -23339,9 +23414,9 @@
                     "lastName": "Estrada Avila",
                     "sex": "FEMALE",
                     "number": 14,
-                    "gamesPlayed": 11,
+                    "gamesPlayed": 13,
                     "gamesTotal": 15,
-                    "gamesPercentage": 73,
+                    "gamesPercentage": 87,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -23361,9 +23436,9 @@
                     "lastName": "Ruvalcaba Muro",
                     "sex": "FEMALE",
                     "number": 18,
-                    "gamesPlayed": 8,
+                    "gamesPlayed": 10,
                     "gamesTotal": 15,
-                    "gamesPercentage": 53,
+                    "gamesPercentage": 67,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -23372,9 +23447,9 @@
                     "lastName": "Martinez Echeverria",
                     "sex": "FEMALE",
                     "number": 21,
-                    "gamesPlayed": 7,
+                    "gamesPlayed": 9,
                     "gamesTotal": 15,
-                    "gamesPercentage": 47,
+                    "gamesPercentage": 60,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -23394,9 +23469,9 @@
                     "lastName": "Velasco Valdez",
                     "sex": "FEMALE",
                     "number": 25,
-                    "gamesPlayed": 13,
+                    "gamesPlayed": 15,
                     "gamesTotal": 15,
-                    "gamesPercentage": 87,
+                    "gamesPercentage": 100,
                     "isActive": true,
                     "gamePlayed": null
                 }
@@ -23422,9 +23497,9 @@
                     "lastName": "Palma",
                     "sex": "FEMALE",
                     "number": 4,
-                    "gamesPlayed": 10,
+                    "gamesPlayed": 11,
                     "gamesTotal": 15,
-                    "gamesPercentage": 67,
+                    "gamesPercentage": 73,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -23444,9 +23519,9 @@
                     "lastName": "Dariana",
                     "sex": "FEMALE",
                     "number": 6,
-                    "gamesPlayed": 12,
+                    "gamesPlayed": 13,
                     "gamesTotal": 15,
-                    "gamesPercentage": 80,
+                    "gamesPercentage": 87,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -23455,9 +23530,9 @@
                     "lastName": "Figueroa",
                     "sex": "FEMALE",
                     "number": 8,
-                    "gamesPlayed": 9,
+                    "gamesPlayed": 10,
                     "gamesTotal": 15,
-                    "gamesPercentage": 60,
+                    "gamesPercentage": 67,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -23466,9 +23541,9 @@
                     "lastName": "Garcia",
                     "sex": "FEMALE",
                     "number": 9,
-                    "gamesPlayed": 8,
+                    "gamesPlayed": 9,
                     "gamesTotal": 15,
-                    "gamesPercentage": 53,
+                    "gamesPercentage": 60,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -23477,9 +23552,9 @@
                     "lastName": "Pinales",
                     "sex": "FEMALE",
                     "number": 11,
-                    "gamesPlayed": 9,
+                    "gamesPlayed": 10,
                     "gamesTotal": 15,
-                    "gamesPercentage": 60,
+                    "gamesPercentage": 67,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -23499,9 +23574,9 @@
                     "lastName": "Viramonte",
                     "sex": "FEMALE",
                     "number": 13,
-                    "gamesPlayed": 5,
+                    "gamesPlayed": 6,
                     "gamesTotal": 15,
-                    "gamesPercentage": 33,
+                    "gamesPercentage": 40,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -23510,9 +23585,9 @@
                     "lastName": "Padilla",
                     "sex": "FEMALE",
                     "number": 20,
-                    "gamesPlayed": 14,
+                    "gamesPlayed": 15,
                     "gamesTotal": 15,
-                    "gamesPercentage": 93,
+                    "gamesPercentage": 100,
                     "isActive": true,
                     "gamePlayed": null
                 }
@@ -23549,9 +23624,9 @@
                     "lastName": "Ornelas Mendez",
                     "sex": "FEMALE",
                     "number": 4,
-                    "gamesPlayed": 12,
+                    "gamesPlayed": 13,
                     "gamesTotal": 15,
-                    "gamesPercentage": 80,
+                    "gamesPercentage": 87,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -23560,9 +23635,9 @@
                     "lastName": "Nava Vera",
                     "sex": "FEMALE",
                     "number": 9,
-                    "gamesPlayed": 12,
+                    "gamesPlayed": 13,
                     "gamesTotal": 15,
-                    "gamesPercentage": 80,
+                    "gamesPercentage": 87,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -23571,9 +23646,9 @@
                     "lastName": "Ornelas Mendez",
                     "sex": "FEMALE",
                     "number": 11,
-                    "gamesPlayed": 9,
+                    "gamesPlayed": 10,
                     "gamesTotal": 15,
-                    "gamesPercentage": 60,
+                    "gamesPercentage": 67,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -23593,9 +23668,9 @@
                     "lastName": "Martinez Rodriguez",
                     "sex": "FEMALE",
                     "number": 17,
-                    "gamesPlayed": 9,
+                    "gamesPlayed": 10,
                     "gamesTotal": 15,
-                    "gamesPercentage": 60,
+                    "gamesPercentage": 67,
                     "isActive": true,
                     "gamePlayed": null
                 },
@@ -23637,9 +23712,9 @@
                     "lastName": "Velazquez Perez",
                     "sex": "FEMALE",
                     "number": 30,
-                    "gamesPlayed": 13,
+                    "gamesPlayed": 14,
                     "gamesTotal": 15,
-                    "gamesPercentage": 87,
+                    "gamesPercentage": 93,
                     "isActive": true,
                     "gamePlayed": null
                 }
